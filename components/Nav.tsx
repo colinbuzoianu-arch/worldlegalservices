@@ -1,6 +1,7 @@
 "use client";
 import { useState, useEffect } from "react";
 import Link from "next/link";
+import Image from "next/image";
 
 const links = [
   { href: "/ai-governance", label: "AI Governance" },
@@ -34,7 +35,14 @@ export default function Nav() {
         display: "flex", alignItems: "center", justifyContent: "space-between",
         height: 64,
       }}>
-        <Link href="/" style={{ textDecoration: "none" }}>
+        <Link href="/" style={{ textDecoration: "none", display: "flex", alignItems: "center", gap: 14 }}>
+          <Image
+            src="/logo.png"
+            alt="WLS"
+            width={38}
+            height={38}
+            style={{ opacity: 0.92 }}
+          />
           <div>
             <div style={{ fontFamily: "'Cormorant Garamond', serif", fontSize: 14, fontWeight: 600, letterSpacing: "0.18em", textTransform: "uppercase", color: "var(--ink)" }}>
               World Legal Services

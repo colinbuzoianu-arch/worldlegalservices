@@ -6,6 +6,10 @@ import Footer from "@/components/Footer";
 export const metadata: Metadata = {
   title: "World Legal Services — Rethinking the Rules That Govern Us",
   description: "An independent platform examining law, artificial intelligence, and the future of governance — from a Central European perspective.",
+  icons: {
+    icon: "/logo.png",
+    apple: "/logo.png",
+  },
   openGraph: {
     title: "World Legal Services",
     description: "Rethinking the Rules That Govern Us",
