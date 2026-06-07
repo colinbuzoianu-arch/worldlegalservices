@@ -6,8 +6,9 @@ export async function generateStaticParams() {
   return pillars.map(p => ({ pillar: p.slug }));
 }
 
-export default function PillarPage({ params }: { params: { pillar: string } }) {
-  const pillar = pillars.find(p => p.slug === params.pillar);
+export default async function PillarPage({ params }: { params: Promise<{ pillar: string }> }) {
+  const { pillar: pillarSlug } = await params;
+  const pillar = pillars.find(p => p.slug === pillarSlug);
   if (!pillar) return notFound();
   return <PillarClient pillar={pillar} />;
 }
