@@ -1,0 +1,20 @@
+import fs from 'fs';
+import path from 'path';
+import matter from 'gray-matter';
+import { remark } from 'remark';
+import html from 'remark-html';
+
+const contentDirectory = path.join(process.cwd(), 'content');
+
+export async function getArticleContent(pillarSlug: string, articleSlug: string): Promise<string | null> {
+  try {
+    const filePath = path.join(contentDirectory, pillarSlug, `${articleSlug}.md`);
+    if (!fs.existsSync(filePath)) return null;
+    const fileContents = fs.readFileSync(filePath, 'utf8');
+    const { content } = matter(fileContents);
+    const processed = await remark().use(html).process(content);
+    return processed.toString();
+  } catch {
+    return null;
+  }
+}

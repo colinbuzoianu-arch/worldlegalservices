@@ -2,7 +2,7 @@
 import Link from "next/link";
 import { Pillar, Article } from "@/lib/content";
 
-export default function ArticleClient({ pillar, article }: { pillar: Pillar; article: Article }) {
+export default function ArticleClient({ pillar, article, content }: { pillar: Pillar; article: Article; content: string | null }) {
   const articleIndex = pillar.articles.indexOf(article);
   const prev = pillar.articles[articleIndex - 1];
   const next = pillar.articles[articleIndex + 1];
@@ -22,13 +22,19 @@ export default function ArticleClient({ pillar, article }: { pillar: Pillar; art
       </section>
 
       <section style={{ maxWidth: 760, margin: "0 auto", padding: "64px 48px" }}>
-        <div style={{ background: "var(--cream)", border: "1px solid var(--border)", padding: 48, textAlign: "center" }}>
-          <div style={{ fontFamily: "'Cormorant Garamond',serif", fontSize: 11, fontWeight: 600, letterSpacing: "0.2em", textTransform: "uppercase", color: "var(--gold)", marginBottom: 20 }}>Full Article</div>
-          <p style={{ fontFamily: "'Crimson Pro',serif", fontSize: 16, fontWeight: 300, color: "var(--ink-soft)", lineHeight: 1.7, marginBottom: 16 }}>
-            The complete text of this founding document is available in the WLS content archive. Full article rendering will be integrated in the next development phase.
-          </p>
-          <div style={{ fontFamily: "'Crimson Pro',serif", fontSize: 13, fontWeight: 300, color: "var(--ink-muted)" }}>worldlegalservices.com · {pillar.title}</div>
-        </div>
+        {content ? (
+          <div
+            className="prose-wls"
+            dangerouslySetInnerHTML={{ __html: content }}
+          />
+        ) : (
+          <div style={{ background: "var(--cream)", border: "1px solid var(--border)", padding: 48, textAlign: "center" }}>
+            <div style={{ fontFamily: "'Cormorant Garamond',serif", fontSize: 11, fontWeight: 600, letterSpacing: "0.2em", textTransform: "uppercase", color: "var(--gold)", marginBottom: 20 }}>Full Article</div>
+            <p style={{ fontFamily: "'Crimson Pro',serif", fontSize: 16, fontWeight: 300, color: "var(--ink-soft)", lineHeight: 1.7 }}>
+              This article is being prepared for publication.
+            </p>
+          </div>
+        )}
       </section>
 
       <section style={{ borderTop: "1px solid var(--border)", maxWidth: 1100, margin: "0 auto", padding: "48px 48px" }}>
