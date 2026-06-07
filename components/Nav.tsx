@@ -1,7 +1,6 @@
 "use client";
 import { useState, useEffect } from "react";
 import Link from "next/link";
-import Image from "next/image";
 
 const links = [
   { href: "/ai-governance", label: "AI Governance" },
@@ -31,35 +30,35 @@ export default function Nav() {
       transition: "all 0.3s ease",
     }}>
       <div style={{
-        maxWidth: 1100, margin: "0 auto", padding: "0 48px",
+        maxWidth: 1100, margin: "0 auto", padding: "0 32px",
         display: "flex", alignItems: "center", justifyContent: "space-between",
         height: 64,
       }}>
         <Link href="/" style={{ textDecoration: "none", display: "flex", alignItems: "center", gap: 14 }}>
-          <Image
+          <img
             src="/logo.png"
             alt="WLS"
-            width={38}
-            height={38}
-            style={{ opacity: 0.92 }}
+            width={32}
+            height={32}
+            style={{ opacity: 0.92, objectFit: "contain" }}
           />
           <div>
-            <div style={{ fontFamily: "'Cormorant Garamond', serif", fontSize: 14, fontWeight: 600, letterSpacing: "0.18em", textTransform: "uppercase", color: "var(--ink)" }}>
+            <div style={{ fontFamily: "'Cormorant Garamond', serif", fontSize: 13, fontWeight: 600, letterSpacing: "0.18em", textTransform: "uppercase", color: "var(--ink)" }}>
               World Legal Services
             </div>
-            <div style={{ fontFamily: "'Crimson Pro', serif", fontSize: 11, fontWeight: 300, letterSpacing: "0.12em", color: "var(--gold)", textTransform: "uppercase" }}>
+            <div style={{ fontFamily: "'Crimson Pro', serif", fontSize: 10, fontWeight: 300, letterSpacing: "0.12em", color: "var(--gold)", textTransform: "uppercase" }}>
               Rethinking the Rules That Govern Us
             </div>
           </div>
         </Link>
 
         {/* Desktop */}
-        <ul style={{ display: "flex", gap: 28, listStyle: "none", margin: 0, padding: 0 }} className="desktop-nav">
+        <ul style={{ display: "flex", gap: 20, listStyle: "none", margin: 0, padding: 0 }} className="desktop-nav">
           {links.map(l => (
             <li key={l.href}>
               <Link href={l.href} style={{
-                fontFamily: "'Cormorant Garamond', serif", fontSize: 13, fontWeight: 500,
-                letterSpacing: "0.1em", textTransform: "uppercase", color: "var(--ink-soft)",
+                fontFamily: "'Cormorant Garamond', serif", fontSize: 11, fontWeight: 500,
+                letterSpacing: "0.06em", textTransform: "uppercase", color: "var(--ink-soft)",
                 textDecoration: "none", transition: "color 0.2s",
               }}
               onMouseEnter={e => (e.target as HTMLElement).style.color = "var(--ink)"}
@@ -80,7 +79,7 @@ export default function Nav() {
       </div>
 
       {menuOpen && (
-        <div style={{ background: "var(--warm-white)", borderTop: "1px solid var(--border)", padding: "24px 48px" }}>
+        <div style={{ background: "var(--warm-white)", borderTop: "1px solid var(--border)", padding: "24px 32px" }}>
           {links.map(l => (
             <Link key={l.href} href={l.href} onClick={() => setMenuOpen(false)} style={{
               display: "block", fontFamily: "'Cormorant Garamond', serif", fontSize: 15,
