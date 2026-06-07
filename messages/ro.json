@@ -1,0 +1,255 @@
+{
+  "brand": {
+    "tagline": "Regândind regulile care ne guvernează"
+  },
+  "nav": {
+    "aiGovernance": "Guvernanță AI",
+    "roboticsLaw": "Robotică & Drept",
+    "euCritique": "Critică UE",
+    "peaceFrameworks": "Cadre de Pace",
+    "easternEurope": "Europa de Est",
+    "about": "Despre"
+  },
+  "home": {
+    "hero": {
+      "decoratorLabel": "World Legal Services",
+      "headline1": "Regândind",
+      "headline2": "regulile care",
+      "headline3": "ne guvernează",
+      "intro": "O platformă independentă care examinează dreptul, inteligența artificială și viitorul guvernanței — dintr-o perspectivă central-europeană.",
+      "exploreCta": "Explorați documentele fondatoare →",
+      "bodyText": "Instituțiile politice construite în secolul al XX-lea nu reușesc să guverneze secolul al XXI-lea. Tehnologia pentru a construi arhitecturi de guvernanță fundamental diferite există deja. Cadrele juridice pentru a le guverna în mod onest nu există. Această platformă există pentru a începe acea muncă.",
+      "layers": {
+        "governance": { "label": "Guvernanță", "desc": "Parlamentul AI · Arhitectura Responsabilității", "status": "Activ" },
+        "legal": { "label": "Juridic", "desc": "Cadre Internaționale · Răspundere · Constituțional", "status": "Activ" },
+        "economic": { "label": "Economic", "desc": "Monedă Bazată pe Cunoaștere · Tranzacționare pe Platformă", "status": "În Curând" }
+      }
+    },
+    "aiSection": {
+      "sectionLabel": "Guvernanță AI — Documente Fondatoare",
+      "sectionSubtitle": "Poate luarea deciziilor algoritmice înlocui sau completa instituțiile politice?",
+      "readFounding": "Citiți Documentul Fondator →",
+      "read": "Citiți →"
+    },
+    "pillarsSection": {
+      "sectionLabel": "Cei Cinci Piloni",
+      "sectionSubtitle": "Domenii de cercetare și analiză continuă",
+      "more": "+{count} mai mult"
+    },
+    "manifesto": {
+      "label": "Premisa Fondatoare",
+      "quote": "De-a lungul istoriei, cele mai durabile perspective morale nu au fost produse de comitete sau comisii. Au fost produse de indivizi care au scris în sărăcie și obscuritate — oameni care nu aveau nimic altceva decât credința că adevărul are valoare independent de faptul că cineva ascultă.",
+      "attribution": "— Din Parlamentul AI, worldlegalservices.com"
+    },
+    "economic": {
+      "label": "Nivelul Economic · În Dezvoltare",
+      "title": "O Economie Civică Post-Monetară Construită pe Cunoaștere",
+      "body": "Tokenurile WLS sunt câștigate prin cunoaștere demonstrată a principiilor fundamentale de guvernanță. Ele nu pot fi cumpărate, moștenite sau transferate. Expiră — necesitând reînnoire pentru a menține drepturile de participare. Nu sunt o monedă. Sunt un credential civic.",
+      "cta": "Citiți Cartea Albă Economică →",
+      "propertiesLabel": "Proprietăți Token",
+      "properties": {
+        "issuance": ["Emitere", "Numai prin evaluarea platformei de învățare"],
+        "purchase": ["Achiziție", "Niciodată permisă"],
+        "transfer": ["Transfer", "Netransferabil"],
+        "expiry": ["Expirare", "Limitat în timp — reînnoire necesară"],
+        "function": ["Funcție", "Ponderea de participare în Parlamentul AI"],
+        "backing": ["Acoperire", "Cunoaștere și contribuție"]
+      }
+    }
+  },
+  "about": {
+    "sectionLabel": "Despre Platformă",
+    "heading": "World Legal Services",
+    "intro": "O platformă independentă pentru analiză de politici, cercetare juridică și gândire de guvernanță la intersecția tehnologiei emergente, dreptului internațional și responsabilității democratice.",
+    "platformHeading": "Platforma",
+    "platform1": "World Legal Services a fost fondată pe o premisă simplă și incomodă: instituțiile construite în secolul al XX-lea pentru a guverna societățile umane sunt structural inadecvate pentru provocările de guvernanță ale celui de-al XXI-lea. Nu pentru că oamenii din interiorul lor ar fi unic de corupți sau unic de incompetenți. Pentru că structurile de stimulente pe care aceste instituții le creează deviază sistematic de la rezultatele pe care au fost concepute să le producă.",
+    "platform2": "Platforma nu oferă aceasta ca un sfat al disperării. O oferă ca un brief de design. Dacă instituțiile pe care le avem eșuează, întrebarea care merită pusă nu este cum să le reparăm la margini, ci cum ar arăta o arhitectură de guvernanță cu adevărat adecvată — construită pentru lumea care există, nu pentru lumea din 1945 sau 1989.",
+    "fivePillarsHeading": "Cei Cinci Piloni",
+    "articlesCount": "{count} articole →",
+    "editorialHeading": "Angajamentul Editorial",
+    "editorial1": "World Legal Services este independentă. Nu acceptă publicitate, finanțare instituțională sau sponsorizare care ar crea obligații față de orice interes politic, comercial sau guvernamental.",
+    "editorial2": "Analiza sa este bazată pe dovezi și orientată spre rezultate. Nu se aliniază cu nicio partidă politică, guvern național sau fracțiune ideologică. Evaluează instituțiile și politicile după ceea ce produc efectiv, nu după ceea ce pretind că încearcă să producă.",
+    "editorial3": "Scrie dintr-o perspectivă central-europeană — din România, din poziția epistemică specifică a unei societăți care a trăit prin comunism, revoluție, tranziție imperfectă și luptă continuă de guvernanță. Această poziție nu este o limitare. Este un avantaj: un scepticism format față de pretențiile instituționale, o înțelegere viscerală a costului eșecului de guvernanță, capacitatea de a distinge forma instituțională de substanța instituțională.",
+    "authorHeading": "Autorul",
+    "author1": "World Legal Services este scrisă și editată de <strong>Colin Buzoianu</strong>, antreprenor software și analist de politici tehnologice cu sediul în Timișoara, România.",
+    "author2": "Parcursul său profesional acoperă dezvoltarea de software, tehnologia medicală și formarea corporativă — muncă care i-a oferit o implicare susținută cu consecințele practice ale cadrelor de reglementare, designului instituțional și distanței dintre modul în care sistemele de guvernanță se autodescriu și modul în care funcționează efectiv. Scrie despre guvernanță din poziția cuiva care a observat consecințele sale pe teren, mai degrabă decât din interiorul instituțiilor care o produc.",
+    "largerProjectHeading": "Proiectul Mai Amplu",
+    "largerProject": "World Legal Services este fundația analitică a unui proiect mai amplu ale cărui alte componente sunt în prezent în dezvoltare.",
+    "projects": {
+      "learning": { "title": "Platforma de Învățare", "status": "În Dezvoltare", "desc": "Un sistem educațional structurat construit în jurul principiilor fundamentale ale guvernanței AI, dreptului internațional și istoriei eșecului de guvernanță — conceput pentru a face cunoașterea de guvernanță accesibilă unui public global." },
+      "token": { "title": "Sistemul de Tokenuri WLS", "status": "În Dezvoltare", "desc": "Un credential civic bazat pe cunoaștere, câștigat prin înțelegere demonstrată a principiilor fundamentale. Tokenurile sunt netransferabile, limitate în timp și nu pot fi achiziționate. Singura cale spre statutul civic este prin implicare autentică cu ideile." },
+      "economic": { "title": "Nivelul Economic", "status": "Faza de Design", "desc": "O economie civică post-monetară în care cunoașterea demonstrată și contribuția la guvernanță sunt recompensate direct, fără dependență de sistemele financiare existente. Principiile de design sunt publicate în Cartea Albă Economică WLS." }
+    },
+    "invitationHeading": "O Invitație",
+    "invitation": "Această platformă există pentru oamenii care iau guvernanța în serios — care nu sunt mulțumiți de narativele politice disponibile, care recunosc că instituțiile pe care le avem sunt inadecvate provocărilor cu care ne confruntăm și care cred că construirea a ceva cu adevărat mai bun merită efortul intelectual susținut pe care îl necesită.",
+    "ctas": {
+      "founding": { "title": "Citiți Documentele Fondatoare", "desc": "Începeți cu seria de Guvernanță AI", "label": "Explorați" },
+      "learning": { "title": "Alăturați-vă Platformei de Învățare", "desc": "Lansare în curând — fiți notificat", "label": "Notificați-mă" },
+      "collaborate": { "title": "Colaborați", "desc": "Cercetători, analiști, practicieni", "label": "Luați Legătura" }
+    },
+    "footerTagline": "World Legal Services · Timișoara, România · Regândind regulile care ne guvernează"
+  },
+  "pillarPage": {
+    "breadcrumbHome": "WLS",
+    "breadcrumbPillar": "Pilonul {number}",
+    "readArticle": "Citiți Articolul →",
+    "otherPillars": "Alți Piloni"
+  },
+  "articlePage": {
+    "prev": "← Anterior",
+    "next": "Următor →",
+    "backTo": "← Înapoi la {pillar}"
+  },
+  "footer": {
+    "description": "O platformă independentă care examinează dreptul, inteligența artificială și viitorul guvernanței — dintr-o perspectivă central-europeană.",
+    "pillarsLabel": "Piloni",
+    "platformLabel": "Platformă",
+    "learningPlatform": "Platformă de Învățare",
+    "comingSoon": "În Curând",
+    "copyright": "© {year} World Legal Services · Timișoara, România",
+    "tagline": "Independentă. Bazată pe dovezi. Responsabilă."
+  },
+  "pillars": {
+    "aiGovernance": {
+      "title": "Guvernanță AI",
+      "description": "Poate luarea deciziilor algoritmice înlocui sau completa instituțiile politice? Ce arhitectură juridică ar necesita aceasta?",
+      "question": "Poate luarea deciziilor algoritmice înlocui sau completa instituțiile politice?",
+      "articles": {
+        "politiciansNotAccountable": {
+          "title": "Politicienii Nu Sunt Responsabili. Algoritmii Ar Putea Fi.",
+          "excerpt": "Absența structurală a responsabilității în guvernanța democratică nu este o poveste despre corupție — este un defect de design atât de fundamental încât persistă de-a lungul partidelor, ideologiilor și generațiilor de reformatori care au intrat să îl corecteze și au fost absorbiți de el în schimb."
+        },
+        "lawsForEverythingExceptMachines": {
+          "title": "Avem Legi pentru Tot, în Afară de Mașinile Care Ne Vor Guverna",
+          "excerpt": "Actul UE privind IA reglementează IA ca produs. Nu spune nimic despre IA ca participant la guvernanță în sine. Întrebările de răspundere, constituționale și jurisdicționale rămân fără răspuns. Acesta este vidul care contează cel mai mult."
+        },
+        "communismToAlgorithms": {
+          "title": "De la Comunism la Algoritmi: De Ce Europa de Est Ar Trebui să Conducă Dezbaterea despre Guvernanța AI",
+          "excerpt": "Există un anumit tip de cunoaștere care vine doar din a fi trăit în interiorul unui sistem care te-a mințit. Europa de Est desfășoară un experiment de teren extrem de costisitor și extrem de dureros privind responsabilitatea instituțională pentru cea mai mare parte a secolului al XX-lea."
+        },
+        "aiParliament": {
+          "title": "Parlamentul AI: Guvernanța Multi-Agent și Arhitectura Consensului Moral",
+          "excerpt": "Un sistem de deliberare a guvernanței structurat ca un parlament de agenți AI — fiecare întruchipând o tradiție morală și juridică distinctă, fiecare primind statut egal, fiecare obligat să argumenteze și să răspundă la provocări.",
+          "tag": "Document de Origine",
+          "quote": "Constituția morală ar trebui să provină de la gânditori care au scris în sărăcie și obscuritate — oameni care nu aveau nimic altceva decât credința că adevărul are valoare independent de faptul că cineva ascultă."
+        }
+      }
+    },
+    "roboticsLaw": {
+      "title": "Robotică Umanoidiă & Drept",
+      "description": "Răspundere, personalitate juridică, dreptul muncii, sisteme de armament. Vidul juridic pe care nimeni nu îl umple încă.",
+      "question": "Cine este responsabil când mașina provoacă daune?",
+      "articles": {
+        "legalPersonhood": {
+          "title": "Poate un Robot Fi o Persoană? Întrebarea Personalității Juridice la Care Nimeni Nu Este Pregătit să Răspundă",
+          "excerpt": "Personalitatea juridică nu este o afirmație filozofică despre conștiință sau valoare morală. Este un statut juridic tehnic. Întrebarea pentru roboții umanoizi nu este filozofică. Este practică — și instanțele vor fi forțate să răspundă la ea."
+        },
+        "liabilityAutonomousSystems": {
+          "title": "Când Robotul Provoacă Daune: Răspunderea în Era Sistemelor Autonome",
+          "excerpt": "Un robot umanoid care lucrează într-un depozit citește greșit un senzor și provoacă răni grave. Cine este responsabil? Dreptul actual nu poate răspunde clar la aceasta. Incapacitatea de a răspunde nu este doar o lacună juridică tehnică — este un eșec structural."
+        },
+        "laborLawHumans": {
+          "title": "Dreptul Muncii A Fost Construit pentru Oameni. Ce Se Întâmplă Când Muncitorul Nu Este Unul?",
+          "excerpt": "Fiecare element al dreptului modern al muncii a fost conceput pentru un singur tip de muncitor: o ființă umană, cu un corp care poate fi rănit, o familie care depinde de venituri, o durată de viață care creează vulnerabilitate economică. Robotul umanoid nu are niciuna dintre aceste proprietăți."
+        },
+        "autonomousWeapons": {
+          "title": "Armele Autonome și Prăbușirea Dreptului Internațional Umanitar",
+          "excerpt": "Dreptul internațional umanitar se bazează pe un principiu atât de fundamental încât precede codificarea formală a legilor războiului: forța letală necesită judecată umană. Armele letale autonome nu au o ființă umană în acel punct.",
+          "tag": "Cea Mai Urgentă Problemă",
+          "quote": "Alegerea dintre o lume în care deciziile letale sunt luate de ființe umane responsabile și o lume în care sunt luate de sisteme autonome care nu răspund nimănui nu este o alegere tehnică."
+        }
+      }
+    },
+    "euCritique": {
+      "title": "Critică a Politicilor UE",
+      "description": "Alocarea resurselor, responsabilitatea democratică, distanța dintre justificările declarate și rezultatele observabile.",
+      "question": "Cine suportă costul deciziilor luate fără mandat democratic?",
+      "articles": {
+        "democraticDeficitDesign": {
+          "title": "Deficitul Democratic Nu Este un Bug. Este Designul.",
+          "excerpt": "Deficitul democratic nu este un defect accidental într-un sistem altfel democratic. Este o caracteristică a unei arhitecturi de guvernanță concepute de la origini pentru a izola anumite categorii de decizii de presiunea democratică."
+        },
+        "ukraineFundingAccountability": {
+          "title": "134 de Miliarde de Euro și Tot Crește: Întrebarea Responsabilității pentru Finanțarea Ucrainei",
+          "excerpt": "UE este cel mai mare donator global al Ucrainei, contribuind cu peste 134 de miliarde de euro. Ceea ce nu a fost prezentat este răspunsul la întrebarea pe care o impun 134 de miliarde de euro: unde exact au mers, și de unde știm?"
+        },
+        "gasCutIdeology": {
+          "title": "Tăierea Gazului: Când Politica Energetică Devine Ideologie",
+          "excerpt": "Decizia de a tăia aprovizionarea cu gaz rusesc a fost prezentată în principal ca o decizie de securitate și solidaritate — lucrul potrivit de făcut indiferent de costul economic. Costul economic a fost real și substanțial. Dezbaterea nu a fost niciodată purtată în mod adecvat."
+        },
+        "migrationWithoutIntegration": {
+          "title": "Migrație fără Integrare: Costul unei Politici Care Nu Servește Pe Nimeni",
+          "excerpt": "Politica europeană de migrație a reușit să dezamăgească aproape pe toți cei pe care îi atinge — migranții care sosesc, comunitățile care îi primesc, sistemele de azil care s-au prăbușit și proiectul politic european mai larg.",
+          "tag": "Analiză de Politici",
+          "quote": "Printre cei care plătesc prețul acestui eșec se numără migranți care trăiesc în precaritate, comunități care gestionează integrarea fără suport adecvat și contribuabili care finanțează un sistem ce produce rezultate mai slabe."
+        }
+      }
+    },
+    "peaceFrameworks": {
+      "title": "Cadre Globale de Pace",
+      "description": "Ce instrumente juridice internaționale există, unde eșuează și cum arată alternativele.",
+      "question": "Cum ar arăta guvernanța dacă ar fi concepută pentru lumea care există?",
+      "articles": {
+        "unCharterWrongWar": {
+          "title": "Carta ONU A Fost Scrisă pentru un Război Care Deja Se Întâmplase",
+          "excerpt": "Carta a fost construită pentru un model specific de amenințare. Sistemul vetou, cadrul centrat pe stat, interdicția forței — toate concepute pentru armate care traversează granițe. Lumea pentru care a fost concepută nu mai există."
+        },
+        "iccTwentyFive": {
+          "title": "CPI la Douăzeci și Cinci de Ani: Justiție pentru Unii, Impunitate pentru Alții",
+          "excerpt": "Douăzeci și cinci de ani de funcționare au clarificat distanța dintre ambiția fondatoare a CPI și practica pe care a produs-o. Modelul de operare al Curții reflectă distribuția puterii globale, nu distribuția crimelor internaționale."
+        },
+        "nuclearDeterrenceNotLegal": {
+          "title": "Descurajarea Nucleară Nu Este un Cadru Juridic. Este Absența Unuia.",
+          "excerpt": "Există aproximativ 12.500 de focoase nucleare. Niciuna dintre doctrinele care guvernează utilizarea lor potențială nu este supusă unor constrângeri juridice internaționale obligatorii. Speranța nu este arhitectură."
+        },
+        "hybridWarfareLaws": {
+          "title": "Războiul Hibrid și Legile Războiului: Un Cadru Construit pentru un Alt Secol",
+          "excerpt": "Operațiunea SolarWinds a compromis cele mai sensibile agenții ale celui mai puternic guvern din lume. Conform legilor conflictelor armate, nu a fost un act de război. Acesta este problema războiului hibrid în cea mai clară formă a sa."
+        },
+        "climateDisplacementVacuum": {
+          "title": "Deplasarea Climatică și Vidul din Dreptul Refugiaților",
+          "excerpt": "Convenția din 1951 privind refugiații nu spune nimic despre un fermier al cărui teren a fost inundat de creșterea nivelului mării. Acești oameni sunt strămutați. Nu sunt persecutați. Nu au statut juridic în conformitate cu dreptul internațional al refugiaților."
+        },
+        "aiPeaceTool": {
+          "title": "IA ca Instrument de Pace: Singura Aplicație pe Care Nimeni Nu o Construiește",
+          "excerpt": "IA este integrată în sisteme de armament într-un ritm care depășește orice cadru de guvernanță. Dar există o altă față a relației dintre IA și pacea internațională care nu primește aproape nicio atenție instituțională serioasă.",
+          "tag": "Cadru WLS",
+          "quote": "Tehnologia există. Nevoia este urgentă. Prăpastia dintre ele este instituțională și politică. Închiderea acestei prăpăstii este munca la care această platformă a fost construită să contribuie."
+        }
+      }
+    },
+    "easternEurope": {
+      "title": "Unghiul Europei de Est",
+      "description": "România, Ungaria, dinamica Visegrád, modelele de guvernanță post-comunistă ca studiu de caz viu.",
+      "question": "Ce ne învață cel mai important laborator de guvernanță al secolului al XX-lea?",
+      "articles": {
+        "transitionLaboratory": {
+          "title": "Laboratorul: Ce Au Învățat Treizeci de Ani de Tranziție Post-Comunistă Lumea despre Instituții",
+          "excerpt": "Între 1989 și 1991, aproximativ 400 de milioane de oameni au suferit cea mai comprimată și mai importantă transformare instituțională din istoria modernă. Rezultatele au acum treizeci de ani. Nu sunt citite cu suficientă seriozitate."
+        },
+        "estoniaDigitalState": {
+          "title": "Statul Digital al Estoniei: Cea Mai de Succes Inovație de Guvernanță Pe Care Nimeni Nu o Copiază",
+          "excerpt": "Estonia este acum cel mai avansat sistem de guvernanță digitală din lume. Povestea e-Estonia este spusă frecvent cu adjective admirative. Ceea ce nu se întâmplă aproape niciodată este o analiză serioasă a motivului pentru care a funcționat și care sunt lecțiile specifice."
+        },
+        "democraticBackslidingWithin": {
+          "title": "Regresul Democratic din Interior: Ungaria, Polonia și Slovacia ca Studiu de Caz",
+          "excerpt": "Amenințarea mai importantă la adresa democrațiilor consolidate nu este tancul în piață. Este majoritatea parlamentară care folosește proceduri democratice legitime pentru a demonta constrângerile instituționale de care are nevoie democrația pentru a funcționa."
+        },
+        "maidanPrinciple": {
+          "title": "Principiul Maidan: Când Revoluția Civică Este Ultimul Mecanism de Responsabilitate",
+          "excerpt": "Europa de Est a produs un model susținut de mobilizare civică ca răspuns la eșecul instituțional care nu are un echivalent în Europa Occidentală contemporană. Acest model merită o analiză ca fenomen instituțional."
+        },
+        "accessionLever": {
+          "title": "Pârghia Aderării: Extinderea UE ca Motor de Reformă a Guvernanței — și Limitele Sale",
+          "excerpt": "Extinderea estică a UE este cel mai de succes program de reformă a guvernanței la scară largă din istoria modernă. Înțelegerea modului în care a funcționat, unde a funcționat imperfect și de ce eficacitatea sa a scăzut după aderare este esențială."
+        },
+        "peripheryToCenter": {
+          "title": "De la Periferie la Centru: De Ce Europa de Est Trebuie să Conducă Următoarea Revoluție a Guvernanței",
+          "excerpt": "Europa de Est nu este un adoptant tardiv al modelelor de guvernanță dezvoltate în altă parte. Este un laborator care a generat cunoaștere de guvernanță de cea mai înaltă importanță. Acea cunoaștere nu a fost aplicată în mod adecvat. Până acum.",
+          "tag": "Manifest WLS",
+          "quote": "Este timpul ca acea cunoaștere să se mute de la periferie la centrul conversațiilor care vor determina cum va fi guvernat secolul al XXI-lea."
+        }
+      }
+    }
+  }
+}

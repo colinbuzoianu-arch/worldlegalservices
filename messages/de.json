@@ -1,0 +1,255 @@
+{
+  "brand": {
+    "tagline": "Die Regeln neu denken, die uns regieren"
+  },
+  "nav": {
+    "aiGovernance": "KI-Governance",
+    "roboticsLaw": "Robotik & Recht",
+    "euCritique": "EU-Kritik",
+    "peaceFrameworks": "Friedensrahmen",
+    "easternEurope": "Osteuropa",
+    "about": "Über uns"
+  },
+  "home": {
+    "hero": {
+      "decoratorLabel": "World Legal Services",
+      "headline1": "Die Regeln neu",
+      "headline2": "denken, die",
+      "headline3": "uns regieren",
+      "intro": "Eine unabhängige Plattform, die Recht, künstliche Intelligenz und die Zukunft der Governance untersucht — aus mitteleuropäischer Perspektive.",
+      "exploreCta": "Die Gründungsdokumente erkunden →",
+      "bodyText": "Die politischen Institutionen des 20. Jahrhunderts versagen bei der Steuerung des 21. Jahrhunderts. Die Technologie zum Aufbau grundlegend anderer Governance-Architekturen existiert bereits. Die rechtlichen Rahmenbedingungen zu ihrer ehrlichen Regulierung hingegen nicht. Diese Plattform existiert, um mit dieser Arbeit zu beginnen.",
+      "layers": {
+        "governance": { "label": "Governance", "desc": "KI-Parlament · Rechenschaftsarchitektur", "status": "Aktiv" },
+        "legal": { "label": "Rechtlich", "desc": "Internationale Rahmen · Haftung · Verfassung", "status": "Aktiv" },
+        "economic": { "label": "Wirtschaftlich", "desc": "Wissensgedeckte Währung · Plattformhandel", "status": "Geplant" }
+      }
+    },
+    "aiSection": {
+      "sectionLabel": "KI-Governance — Gründungsdokumente",
+      "sectionSubtitle": "Kann algorithmische Entscheidungsfindung politische Institutionen ersetzen oder ergänzen?",
+      "readFounding": "Gründungsdokument lesen →",
+      "read": "Lesen →"
+    },
+    "pillarsSection": {
+      "sectionLabel": "Die Fünf Säulen",
+      "sectionSubtitle": "Bereiche laufender Forschung und Analyse",
+      "more": "+{count} weitere"
+    },
+    "manifesto": {
+      "label": "Die Gründungsprämisse",
+      "quote": "Im Laufe der Geschichte wurden die dauerhaftesten moralischen Einsichten nicht von Ausschüssen oder Kommissionen hervorgebracht. Sie wurden von Einzelpersonen hervorgebracht, die in Armut und Dunkelheit schrieben — Menschen, die nichts hatten außer dem Glauben, dass Wahrheit unabhängig davon einen Wert hat, ob jemand zuhört.",
+      "attribution": "— Aus Das KI-Parlament, worldlegalservices.com"
+    },
+    "economic": {
+      "label": "Wirtschaftliche Schicht · In Entwicklung",
+      "title": "Eine postwährungs-basierte Bürgerökonomie auf Wissensbasis",
+      "body": "WLS-Token werden durch nachgewiesenes Wissen über grundlegende Governance-Prinzipien verdient. Sie können nicht gekauft, vererbt oder übertragen werden. Sie verfallen — und erfordern eine Erneuerung, um die Teilnahmerechte aufrechtzuerhalten. Sie sind keine Währung. Sie sind ein bürgerliches Credential.",
+      "cta": "Das wirtschaftliche Weißbuch lesen →",
+      "propertiesLabel": "Token-Eigenschaften",
+      "properties": {
+        "issuance": ["Ausgabe", "Nur durch Lernplattform-Bewertung"],
+        "purchase": ["Kauf", "Niemals gestattet"],
+        "transfer": ["Übertragung", "Nicht übertragbar"],
+        "expiry": ["Ablauf", "Zeitlich begrenzt — Erneuerung erforderlich"],
+        "function": ["Funktion", "Teilnahmegewicht im KI-Parlament"],
+        "backing": ["Deckung", "Wissen und Beitrag"]
+      }
+    }
+  },
+  "about": {
+    "sectionLabel": "Über die Plattform",
+    "heading": "World Legal Services",
+    "intro": "Eine unabhängige Plattform für Politikanalyse, Rechtsforschung und Governance-Denken an der Schnittstelle von aufkommenden Technologien, Völkerrecht und demokratischer Rechenschaftspflicht.",
+    "platformHeading": "Die Plattform",
+    "platform1": "World Legal Services wurde auf einer einfachen und unbequemen Prämisse gegründet: Die Institutionen, die im zwanzigsten Jahrhundert zur Steuerung menschlicher Gesellschaften errichtet wurden, sind strukturell unzulänglich für die Governance-Herausforderungen des einundzwanzigsten. Nicht weil die Menschen in ihnen einzigartig korrupt oder einzigartig inkompetent wären. Sondern weil die Anreizstrukturen, die diese Institutionen schaffen, systematisch von den Ergebnissen abweichen, für deren Erzeugung sie konzipiert wurden.",
+    "platform2": "Die Plattform bietet dies nicht als Ratschlag der Hoffnungslosigkeit an. Sie bietet es als Designauftrag an. Wenn die Institutionen, die wir haben, versagen, lautet die eigentliche Frage nicht, wie man sie am Rand repariert, sondern wie eine wirklich angemessene Governance-Architektur aussehen würde — aufgebaut für die Welt, die existiert, nicht für die Welt von 1945 oder 1989.",
+    "fivePillarsHeading": "Die Fünf Säulen",
+    "articlesCount": "{count} Artikel →",
+    "editorialHeading": "Das Redaktionsversprechen",
+    "editorial1": "World Legal Services ist unabhängig. Es akzeptiert keine Werbung, keine institutionelle Finanzierung und kein Sponsoring, das Verpflichtungen gegenüber politischen, kommerziellen oder staatlichen Interessen schaffen würde.",
+    "editorial2": "Seine Analyse ist evidenzbasiert und ergebnisorientiert. Es richtet sich nach keiner politischen Partei, keiner nationalen Regierung und keiner ideologischen Fraktion. Es bewertet Institutionen und Politiken danach, was sie tatsächlich produzieren, nicht danach, was sie zu produzieren behaupten.",
+    "editorial3": "Es schreibt aus einer mitteleuropäischen Perspektive — aus Rumänien, aus der spezifischen epistemischen Position einer Gesellschaft, die durch Kommunismus, Revolution, unvollkommenen Übergang und anhaltende Governance-Kämpfe gegangen ist. Diese Position ist keine Einschränkung. Sie ist ein Vorzug: eine geschulte Skepsis gegenüber institutionellen Ansprüchen, ein tiefes Verständnis dessen, was Governance-Versagen kostet, die Fähigkeit, institutionelle Form von institutioneller Substanz zu unterscheiden.",
+    "authorHeading": "Der Autor",
+    "author1": "World Legal Services wird geschrieben und herausgegeben von <strong>Colin Buzoianu</strong>, einem Software-Unternehmer und Technologiepolitik-Analysten mit Sitz in Timișoara, Rumänien.",
+    "author2": "Sein beruflicher Hintergrund umfasst Softwareentwicklung, Gesundheitstechnologie und Unternehmensschulungen — Arbeit, die ihm eine anhaltende Auseinandersetzung mit den praktischen Konsequenzen regulatorischer Rahmen, institutionellem Design und der Lücke zwischen der Selbstbeschreibung von Governance-Systemen und ihrer tatsächlichen Funktionsweise gegeben hat. Er schreibt über Governance aus der Position von jemandem, der ihre Konsequenzen vor Ort beobachtet hat, nicht von innen der Institutionen, die sie produzieren.",
+    "largerProjectHeading": "Das größere Projekt",
+    "largerProject": "World Legal Services ist das analytische Fundament eines größeren Projekts, dessen andere Komponenten sich derzeit in der Entwicklung befinden.",
+    "projects": {
+      "learning": { "title": "Die Lernplattform", "status": "In Entwicklung", "desc": "Ein strukturiertes Bildungssystem, das um die grundlegenden Prinzipien der KI-Governance, des Völkerrechts und der Geschichte des Governance-Versagens herum aufgebaut ist — konzipiert, um Governance-Wissen einem globalen Publikum zugänglich zu machen." },
+      "token": { "title": "Das WLS-Token-System", "status": "In Entwicklung", "desc": "Ein wissensgedecktes bürgerliches Credential, das durch nachgewiesenes Verständnis grundlegender Prinzipien verdient wird. Token sind nicht übertragbar, zeitlich begrenzt und können nicht gekauft werden. Der einzige Weg zu bürgerlichem Ansehen führt über echtes Engagement mit den Ideen." },
+      "economic": { "title": "Die Wirtschaftsschicht", "status": "Designphase", "desc": "Eine postwährungsbasierte Bürgerökonomie, in der nachgewiesenes Wissen und Governance-Beiträge direkt belohnt werden, ohne Abhängigkeit von bestehenden Finanzsystemen. Designprinzipien werden im WLS Economic White Paper veröffentlicht." }
+    },
+    "invitationHeading": "Eine Einladung",
+    "invitation": "Diese Plattform existiert für Menschen, die Governance ernst nehmen — die mit den verfügbaren politischen Narrativen nicht zufrieden sind, die erkennen, dass die Institutionen, die wir haben, den Herausforderungen, vor denen wir stehen, nicht gewachsen sind, und die glauben, dass der Aufbau von etwas wirklich Besserem den anhaltenden intellektuellen Aufwand wert ist, den es erfordert.",
+    "ctas": {
+      "founding": { "title": "Die Gründungsdokumente lesen", "desc": "Beginnen Sie mit der KI-Governance-Serie", "label": "Erkunden" },
+      "learning": { "title": "Der Lernplattform beitreten", "desc": "Bald verfügbar — benachrichtigt werden", "label": "Benachrichtigen" },
+      "collaborate": { "title": "Zusammenarbeiten", "desc": "Forscher, Analysten, Praktiker", "label": "Kontakt aufnehmen" }
+    },
+    "footerTagline": "World Legal Services · Timișoara, Rumänien · Die Regeln neu denken, die uns regieren"
+  },
+  "pillarPage": {
+    "breadcrumbHome": "WLS",
+    "breadcrumbPillar": "Säule {number}",
+    "readArticle": "Artikel lesen →",
+    "otherPillars": "Weitere Säulen"
+  },
+  "articlePage": {
+    "prev": "← Vorherige",
+    "next": "Nächste →",
+    "backTo": "← Zurück zu {pillar}"
+  },
+  "footer": {
+    "description": "Eine unabhängige Plattform, die Recht, künstliche Intelligenz und die Zukunft der Governance untersucht — aus mitteleuropäischer Perspektive.",
+    "pillarsLabel": "Säulen",
+    "platformLabel": "Plattform",
+    "learningPlatform": "Lernplattform",
+    "comingSoon": "Demnächst verfügbar",
+    "copyright": "© {year} World Legal Services · Timișoara, Rumänien",
+    "tagline": "Unabhängig. Faktenbasiert. Rechenschaftspflichtig."
+  },
+  "pillars": {
+    "aiGovernance": {
+      "title": "KI-Governance",
+      "description": "Kann algorithmische Entscheidungsfindung politische Institutionen ersetzen oder ergänzen? Welcher Rechtsrahmen wäre dafür erforderlich?",
+      "question": "Kann algorithmische Entscheidungsfindung politische Institutionen ersetzen oder ergänzen?",
+      "articles": {
+        "politiciansNotAccountable": {
+          "title": "Politiker sind nicht rechenschaftspflichtig. Algorithmen könnten es sein.",
+          "excerpt": "Das strukturelle Fehlen von Rechenschaftspflicht in der demokratischen Governance ist keine Geschichte über Korruption — es ist ein Designfehler, der so fundamental ist, dass er über Parteien, Ideologien und Generationen von Reformern hinweg bestehen bleibt, die eingetreten sind, um ihn zu beheben, und stattdessen von ihm aufgesogen wurden."
+        },
+        "lawsForEverythingExceptMachines": {
+          "title": "Wir haben Gesetze für alles, außer für die Maschinen, die uns regieren werden",
+          "excerpt": "Der EU AI Act reguliert KI als Produkt. Er sagt nichts darüber aus, was KI als Teilnehmer an der Governance selbst bedeutet. Die Haftungs-, Verfassungs- und Zuständigkeitsfragen bleiben unbeantwortet. Das ist das Vakuum, das am meisten zählt."
+        },
+        "communismToAlgorithms": {
+          "title": "Vom Kommunismus zu Algorithmen: Warum Osteuropa die KI-Governance-Debatte anführen sollte",
+          "excerpt": "Es gibt eine bestimmte Art von Wissen, die nur aus dem Leben in einem System entsteht, das einen belogen hat. Osteuropa führt seit dem größten Teil des zwanzigsten Jahrhunderts ein sehr teures, sehr schmerzhaftes Feldexperiment zur institutionellen Rechenschaftspflicht durch."
+        },
+        "aiParliament": {
+          "title": "Das KI-Parlament: Multi-Agenten-Governance und die Architektur des moralischen Konsenses",
+          "excerpt": "Ein Governance-Deliberationssystem, das als Parlament von KI-Agenten strukturiert ist — jeder verkörpert eine eigene moralische und rechtliche Tradition, jeder erhält gleichen Status, jeder muss argumentieren und auf Herausforderungen reagieren.",
+          "tag": "Ursprungsdokument",
+          "quote": "Die moralische Verfassung sollte von Denkern stammen, die in Armut und Dunkelheit schrieben — Menschen, die nichts hatten außer dem Glauben, dass Wahrheit unabhängig davon einen Wert hat, ob jemand zuhört."
+        }
+      }
+    },
+    "roboticsLaw": {
+      "title": "Humanoide Robotik & Recht",
+      "description": "Haftung, Rechtspersönlichkeit, Arbeitsrecht, Waffensysteme. Das rechtliche Vakuum, das noch niemand füllt.",
+      "question": "Wer ist verantwortlich, wenn die Maschine Schaden verursacht?",
+      "articles": {
+        "legalPersonhood": {
+          "title": "Kann ein Roboter eine Person sein? Die Frage der Rechtspersönlichkeit, die niemand zu beantworten bereit ist",
+          "excerpt": "Rechtspersönlichkeit ist kein philosophischer Anspruch über Bewusstsein oder moralischen Wert. Es ist ein technischer Rechtsstatus. Die Frage für humanoide Roboter ist nicht philosophisch. Sie ist praktisch — und Gerichte werden gezwungen sein, sie zu beantworten."
+        },
+        "liabilityAutonomousSystems": {
+          "title": "Wenn der Roboter Schaden verursacht: Haftung im Zeitalter autonomer Systeme",
+          "excerpt": "Ein humanoider Roboter, der in einem Lager arbeitet, liest einen Sensor falsch und verursacht schwere Verletzungen. Wer ist verantwortlich? Das geltende Recht kann dies nicht eindeutig beantworten. Die Unfähigkeit zur Antwort ist nicht nur eine technische Rechtslücke — es ist ein strukturelles Versagen."
+        },
+        "laborLawHumans": {
+          "title": "Das Arbeitsrecht wurde für Menschen gebaut. Was passiert, wenn der Arbeitnehmer keiner ist?",
+          "excerpt": "Jedes Element des modernen Arbeitsrechts wurde für eine Art von Arbeitnehmer konzipiert: einen Menschen, mit einem Körper, der verletzt werden kann, einer Familie, die von Einkommen abhängt, einer Lebensspanne, die wirtschaftliche Verletzlichkeit schafft. Der humanoide Roboter hat keine dieser Eigenschaften."
+        },
+        "autonomousWeapons": {
+          "title": "Autonome Waffen und der Zusammenbruch des humanitären Völkerrechts",
+          "excerpt": "Das humanitäre Völkerrecht beruht auf einem Prinzip, das so grundlegend ist, dass es die formale Kodifizierung des Kriegsrechts überdauert: Tödliche Gewalt erfordert menschliches Urteilsvermögen. Letale autonome Waffen haben an diesem Punkt keinen Menschen.",
+          "tag": "Dringlichste Frage",
+          "quote": "Die Wahl zwischen einer Welt, in der tödliche Entscheidungen von rechenschaftspflichtigen Menschen getroffen werden, und einer Welt, in der sie von autonomen Systemen getroffen werden, die niemandem antworten, ist keine technische Wahl."
+        }
+      }
+    },
+    "euCritique": {
+      "title": "EU-Politikkritik",
+      "description": "Ressourcenallokation, demokratische Rechenschaftspflicht, die Lücke zwischen angegebenen Begründungen und beobachtbaren Ergebnissen.",
+      "question": "Wer trägt die Kosten von Entscheidungen ohne demokratisches Mandat?",
+      "articles": {
+        "democraticDeficitDesign": {
+          "title": "Das demokratische Defizit ist kein Fehler. Es ist das Design.",
+          "excerpt": "Das demokratische Defizit ist kein zufälliger Mangel in einem ansonsten demokratischen System. Es ist ein Merkmal einer Governance-Architektur, die von ihrem Ursprung her darauf ausgelegt ist, bestimmte Kategorien von Entscheidungen dem demokratischen Druck zu entziehen."
+        },
+        "ukraineFundingAccountability": {
+          "title": "134 Milliarden Euro und mehr: Die Frage der Rechenschaftspflicht für die Ukraine-Finanzierung",
+          "excerpt": "Die EU ist der größte Gesamtgeber der Ukraine und hat über 134 Milliarden Euro beigetragen. Was nicht präsentiert wurde, ist die Antwort auf die Frage, die 134 Milliarden Euro verlangen: Wohin genau ist das Geld geflossen, und woher wissen wir das?"
+        },
+        "gasCutIdeology": {
+          "title": "Der Gasschnitt: Wenn Energiepolitik zur Ideologie wird",
+          "excerpt": "Die Entscheidung, die russische Gasversorgung zu kappen, wurde vor allem als Sicherheits- und Solidaritätsentscheidung dargestellt — das Richtige zu tun, unabhängig von den wirtschaftlichen Kosten. Die wirtschaftlichen Kosten waren real und erheblich. Die Debatte darüber wurde nie angemessen geführt."
+        },
+        "migrationWithoutIntegration": {
+          "title": "Migration ohne Integration: Die Kosten einer Politik, die niemandem dient",
+          "excerpt": "Die europäische Migrationspolitik hat es geschafft, fast alle zu enttäuschen, die sie berührt — die ankommenden Migranten, die aufnehmenden Gemeinschaften, die zusammengebrochenen Asylsysteme und das breitere europäische politische Projekt.",
+          "tag": "Politikanalyse",
+          "quote": "Zu den Menschen, die den Preis für dieses Versagen zahlen, gehören Migranten, die in Prekarität leben, Gemeinschaften, die Integration ohne angemessene Unterstützung bewältigen, und Steuerzahler, die ein System finanzieren, das schlechtere Ergebnisse produziert."
+        }
+      }
+    },
+    "peaceFrameworks": {
+      "title": "Globale Friedensrahmen",
+      "description": "Welche internationalen Rechtsinstrumente existieren, wo sie versagen und wie Alternativen aussehen.",
+      "question": "Wie würde Governance aussehen, wenn sie für die Welt konzipiert wäre, die existiert?",
+      "articles": {
+        "unCharterWrongWar": {
+          "title": "Die UN-Charta wurde für einen Krieg geschrieben, der bereits stattgefunden hatte",
+          "excerpt": "Die Charta wurde für ein spezifisches Bedrohungsmodell konzipiert. Das Vetorecht, der staatsbasierte Rahmen, das Gewaltverbot — alles für Armeen entworfen, die Grenzen überqueren. Die Welt, für die sie konzipiert wurde, existiert nicht mehr."
+        },
+        "iccTwentyFive": {
+          "title": "Der IStGH nach fünfundzwanzig Jahren: Gerechtigkeit für manche, Straflosigkeit für andere",
+          "excerpt": "Fünfundzwanzig Jahre Betrieb haben die Distanz zwischen dem Gründungsanspruch des IStGH und der von ihm produzierten Praxis verdeutlicht. Das Operationsmuster des Gerichts spiegelt die Verteilung globaler Macht wider, nicht die Verteilung internationaler Verbrechen."
+        },
+        "nuclearDeterrenceNotLegal": {
+          "title": "Nukleare Abschreckung ist kein Rechtsrahmen. Sie ist das Fehlen eines solchen.",
+          "excerpt": "Es gibt approximately 12.500 nukleare Sprengköpfe. Keine der Doktrinen, die ihren potenziellen Einsatz regeln, unterliegt bindenden völkerrechtlichen Beschränkungen. Hoffnung ist keine Architektur."
+        },
+        "hybridWarfareLaws": {
+          "title": "Hybride Kriegsführung und das Kriegsvölkerrecht: Ein Rahmenwerk für ein anderes Jahrhundert",
+          "excerpt": "Die SolarWinds-Operation kompromittierte die sensibelsten Behörden der mächtigsten Regierung der Welt. Nach dem humanitären Völkerrecht war es kein Kriegsakt. Das ist das Problem der hybriden Kriegsführung in seiner deutlichsten Form."
+        },
+        "climateDisplacementVacuum": {
+          "title": "Klimavertreibung und das Vakuum im Flüchtlingsrecht",
+          "excerpt": "Die Flüchtlingskonvention von 1951 hat nichts zu sagen über einen Bauern, dessen Land durch den Meeresspiegelanstieg überflutet wurde. Diese Menschen sind vertrieben. Sie werden nicht verfolgt. Sie haben keinen rechtlichen Status nach internationalem Flüchtlingsrecht."
+        },
+        "aiPeaceTool": {
+          "title": "KI als Friedenswerkzeug: Die eine Anwendung, die niemand entwickelt",
+          "excerpt": "KI wird in einem Tempo in Waffensysteme integriert, das jeden Governance-Rahmen übertrifft. Aber es gibt eine andere Seite der Beziehung zwischen KI und internationalem Frieden, die kaum ernsthafte institutionelle Aufmerksamkeit erhält.",
+          "tag": "WLS-Rahmenwerk",
+          "quote": "Die Technologie existiert. Der Bedarf ist dringend. Die Lücke zwischen ihnen ist institutionell und politisch. Diese Lücke zu schließen ist Arbeit, zu der diese Plattform einen Beitrag leisten soll."
+        }
+      }
+    },
+    "easternEurope": {
+      "title": "Osteuropäische Perspektive",
+      "description": "Rumänien, Ungarn, die Visegrád-Dynamik, postkommunistische Governance-Muster als lebendige Fallstudie.",
+      "question": "Was lehrt uns das wichtigste Governance-Labor des 20. Jahrhunderts?",
+      "articles": {
+        "transitionLaboratory": {
+          "title": "Das Labor: Was dreißig Jahre postkommunistischer Übergang die Welt über Institutionen gelehrt hat",
+          "excerpt": "Zwischen 1989 und 1991 erlebten rund 400 Millionen Menschen die komprimierteste und folgenreichste institutionelle Transformation der modernen Geschichte. Die Ergebnisse sind nun dreißig Jahre alt. Sie werden nicht ernst genug gelesen."
+        },
+        "estoniaDigitalState": {
+          "title": "Estlands Digitalstaat: Die erfolgreichste Governance-Innovation, die niemand kopiert",
+          "excerpt": "Estland ist heute das fortschrittlichste digitale Governance-System der Welt. Die e-Estland-Geschichte wird häufig mit bewundernden Adjektiven erzählt. Was fast nie geschieht, ist eine ernsthafte Analyse, warum es funktioniert hat und was die spezifischen Lehren sind."
+        },
+        "democraticBackslidingWithin": {
+          "title": "Demokratischer Rückschritt von innen: Ungarn, Polen und die Slowakei als Fallstudie",
+          "excerpt": "Die folgenreichere Bedrohung für konsolidierte Demokratien ist nicht der Panzer auf dem Platz. Es ist die parlamentarische Mehrheit, die legitime demokratische Verfahren nutzt, um die institutionellen Beschränkungen abzubauen, die die Demokratie zum Funktionieren braucht."
+        },
+        "maidanPrinciple": {
+          "title": "Das Maidan-Prinzip: Wenn bürgerliche Revolution der letzte Rechenschaftsmechanismus ist",
+          "excerpt": "Osteuropa hat ein anhaltendes Muster bürgerlicher Mobilisierung als Reaktion auf institutionelles Versagen hervorgebracht, das kein Pendant im zeitgenössischen Westeuropa hat. Dieses Muster verdient eine Analyse als institutionelles Phänomen."
+        },
+        "accessionLever": {
+          "title": "Der Beitrittshebel: EU-Erweiterung als Governance-Reformmotor — und seine Grenzen",
+          "excerpt": "Die EU-Osterweiterung ist das erfolgreichste großangelegte Governance-Reformprogramm der modernen Geschichte. Zu verstehen, wie es funktioniert hat, wo es unvollkommen funktioniert hat und warum seine Wirksamkeit nach dem Beitritt abnahm, ist unerlässlich."
+        },
+        "peripheryToCenter": {
+          "title": "Von der Peripherie ins Zentrum: Warum Osteuropa die nächste Governance-Revolution anführen muss",
+          "excerpt": "Osteuropa ist kein Spätnachfolger von anderswo entwickelten Governance-Modellen. Es ist ein Labor, das Governance-Wissen von höchster Bedeutung generiert hat. Dieses Wissen wurde nicht angemessen angewendet. Bis jetzt.",
+          "tag": "WLS-Manifest",
+          "quote": "Es ist an der Zeit, dass dieses Wissen von der Peripherie ins Zentrum der Gespräche rückt, die bestimmen werden, wie das 21. Jahrhundert regiert wird."
+        }
+      }
+    }
+  }
+}
