@@ -38,8 +38,8 @@ export default function Nav() {
           <img
             src="/logo.png"
             alt="WLS"
-            width={32}
-            height={32}
+            width={48}
+            height={48}
             style={{ opacity: 0.92, objectFit: "contain" }}
           />
           <div>
