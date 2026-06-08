@@ -23,6 +23,6 @@ export default async function ArticlePage({
   if (!pillar) return notFound();
   const article = pillar.articles.find(a => a.slug === articleSlug);
   if (!article) return notFound();
-  const content = await getArticleContent(pillarSlug, articleSlug);
+  const content = await getArticleContent(pillarSlug, articleSlug, locale);
   return <ArticleClient pillar={pillar} article={article} content={content} />;
 }
