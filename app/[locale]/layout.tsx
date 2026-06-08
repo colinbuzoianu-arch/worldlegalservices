@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'World Legal Services',
     description: 'Rethinking the Rules That Govern Us',
-    url: 'https://worldlegalservices.com',
+    url: 'https://worldlegalservice.com',
     siteName: 'World Legal Services',
     locale: 'en_US',
     type: 'website',
