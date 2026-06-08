@@ -1,6 +1,6 @@
 # When the Robot Causes Harm: Liability in the Age of Autonomous Systems
 
-*worldlegalservices.com — Humanoid Robotics & Law Series, Article 2*
+*worldlegalservice.com — Humanoid Robotics & Law Series, Article 2*
 
 ---
 
@@ -130,7 +130,7 @@ Closing them requires the same.
 
 ---
 
-*Colin Buzoianu is a software entrepreneur and technology policy analyst based in Timișoara, Romania. worldlegalservices.com examines the intersection of emerging technology, legal frameworks, and governance. This article is part of the Humanoid Robotics & Law series.*
+*Colin Buzoianu is a software entrepreneur and technology policy analyst based in Timișoara, Romania. worldlegalservice.com examines the intersection of emerging technology, legal frameworks, and governance. This article is part of the Humanoid Robotics & Law series.*
 
 ---
 

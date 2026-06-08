@@ -1,6 +1,6 @@
 # Politiker sind nicht rechenschaftspflichtig. Algorithmen könnten es sein.
 
-*worldlegalservices.com — KI-Governance-Reihe, Artikel 1*
+*worldlegalservice.com — KI-Governance-Reihe, Artikel 1*
 
 ---
 
@@ -122,7 +122,7 @@ Das sollten wir auch sein.
 
 ---
 
-*Colin Buzoianu ist Software-Unternehmer und Technologiepolitik-Analyst mit Sitz in Timișoara, Rumänien. worldlegalservices.com untersucht die Schnittstelle von aufkommenden Technologien, Rechtsrahmen und Governance. Dieser Artikel ist Teil der KI-Governance-Reihe.*
+*Colin Buzoianu ist Software-Unternehmer und Technologiepolitik-Analyst mit Sitz in Timișoara, Rumänien. worldlegalservice.com untersucht die Schnittstelle von aufkommenden Technologien, Rechtsrahmen und Governance. Dieser Artikel ist Teil der KI-Governance-Reihe.*
 
 ---
 

@@ -1,6 +1,6 @@
 # Das Labor: Was dreißig Jahre postkommunistischer Übergang die Welt über Institutionen gelehrt hat
 
-*worldlegalservices.com — Reihe Osteuropa, Artikel 1*
+*worldlegalservice.com — Reihe Osteuropa, Artikel 1*
 
 ---
 
@@ -70,7 +70,7 @@ Das Wissen ist vorhanden. Die Anwendung ist die Arbeit.
 
 ---
 
-*Colin Buzoianu ist Software-Unternehmer und Technologiepolitik-Analyst mit Sitz in Timișoara, Rumänien. worldlegalservices.com untersucht die Schnittstelle von aufkommenden Technologien, Rechtsrahmen und Governance. Dieser Artikel ist Teil der Reihe Osteuropa.*
+*Colin Buzoianu ist Software-Unternehmer und Technologiepolitik-Analyst mit Sitz in Timișoara, Rumänien. worldlegalservice.com untersucht die Schnittstelle von aufkommenden Technologien, Rechtsrahmen und Governance. Dieser Artikel ist Teil der Reihe Osteuropa.*
 
 ---
 

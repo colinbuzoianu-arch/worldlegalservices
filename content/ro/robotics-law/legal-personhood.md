@@ -1,6 +1,6 @@
 # Poate un Robot Fi o Persoană? Întrebarea Personalității Juridice la Care Nimeni Nu Este Pregătit să Răspundă
 
-*worldlegalservices.com — Seria Robotică și Drept, Articolul 1*
+*worldlegalservice.com — Seria Robotică și Drept, Articolul 1*
 
 ---
 
@@ -116,7 +116,7 @@ Acea decizie merită să fie luată în mod deliberat.
 
 ---
 
-*Colin Buzoianu este antreprenor software și analist de politici tehnologice cu sediul în Timișoara, România. worldlegalservices.com examinează intersecția dintre tehnologia emergentă, cadrele juridice și guvernanță. Acest articol face parte din Seria Robotică și Drept.*
+*Colin Buzoianu este antreprenor software și analist de politici tehnologice cu sediul în Timișoara, România. worldlegalservice.com examinează intersecția dintre tehnologia emergentă, cadrele juridice și guvernanță. Acest articol face parte din Seria Robotică și Drept.*
 
 ---
 

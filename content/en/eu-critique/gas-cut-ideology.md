@@ -1,6 +1,6 @@
 # The Gas Cut: When Energy Policy Becomes Ideology
 
-*worldlegalservices.com — EU Policy Critique Series, Article 3*
+*worldlegalservice.com — EU Policy Critique Series, Article 3*
 
 ---
 
@@ -90,7 +90,7 @@ The gas cut is a case study in what that architecture produces when the urgency 
 
 ---
 
-*Colin Buzoianu is a software entrepreneur and technology policy analyst based in Timișoara, Romania. worldlegalservices.com examines the intersection of emerging technology, legal frameworks, and governance. This article is part of the EU Policy Critique series.*
+*Colin Buzoianu is a software entrepreneur and technology policy analyst based in Timișoara, Romania. worldlegalservice.com examines the intersection of emerging technology, legal frameworks, and governance. This article is part of the EU Policy Critique series.*
 
 ---
 

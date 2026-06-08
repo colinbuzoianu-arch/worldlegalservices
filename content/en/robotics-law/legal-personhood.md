@@ -1,6 +1,6 @@
 # Can a Robot Be a Person? The Legal Personhood Question Nobody Is Ready to Answer
 
-*worldlegalservices.com — Humanoid Robotics & Law Series, Article 1*
+*worldlegalservice.com — Humanoid Robotics & Law Series, Article 1*
 
 ---
 
@@ -116,7 +116,7 @@ That decision deserves to be made deliberately.
 
 ---
 
-*Colin Buzoianu is a software entrepreneur and technology policy analyst based in Timișoara, Romania. worldlegalservices.com examines the intersection of emerging technology, legal frameworks, and governance. This article is part of the Humanoid Robotics & Law series.*
+*Colin Buzoianu is a software entrepreneur and technology policy analyst based in Timișoara, Romania. worldlegalservice.com examines the intersection of emerging technology, legal frameworks, and governance. This article is part of the Humanoid Robotics & Law series.*
 
 ---
 

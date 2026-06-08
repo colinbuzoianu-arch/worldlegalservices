@@ -1,6 +1,6 @@
 # Regresul Democratic din Interior: Ungaria, Polonia și Slovacia ca Studiu de Caz
 
-*worldlegalservices.com — Seria Europa de Est, Articolul 3*
+*worldlegalservice.com — Seria Europa de Est, Articolul 3*
 
 ---
 
@@ -82,7 +82,7 @@ Lecția pentru proiectarea guvernanței supranaționale este aceeași ca și lec
 
 ---
 
-*Colin Buzoianu este antreprenor software și analist de politici tehnologice cu sediul în Timișoara, România. worldlegalservices.com examinează intersecția dintre tehnologia emergentă, cadrele juridice și guvernanță. Acest articol face parte din Seria Europa de Est.*
+*Colin Buzoianu este antreprenor software și analist de politici tehnologice cu sediul în Timișoara, România. worldlegalservice.com examinează intersecția dintre tehnologia emergentă, cadrele juridice și guvernanță. Acest articol face parte din Seria Europa de Est.*
 
 ---
 

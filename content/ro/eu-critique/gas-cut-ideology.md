@@ -1,6 +1,6 @@
 # Tăierea Gazului: Când Politica Energetică Devine Ideologie
 
-*worldlegalservices.com — Seria Critică UE, Articolul 3*
+*worldlegalservice.com — Seria Critică UE, Articolul 3*
 
 ---
 
@@ -90,7 +90,7 @@ Tăierea gazului este un studiu de caz despre ceea ce produce acea arhitectură 
 
 ---
 
-*Colin Buzoianu este antreprenor software și analist de politici tehnologice cu sediul în Timișoara, România. worldlegalservices.com examinează intersecția dintre tehnologia emergentă, cadrele juridice și guvernanță. Acest articol face parte din Seria Critică UE.*
+*Colin Buzoianu este antreprenor software și analist de politici tehnologice cu sediul în Timișoara, România. worldlegalservice.com examinează intersecția dintre tehnologia emergentă, cadrele juridice și guvernanță. Acest articol face parte din Seria Critică UE.*
 
 ---
 

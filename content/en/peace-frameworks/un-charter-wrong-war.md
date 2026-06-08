@@ -1,6 +1,6 @@
 # The UN Charter Was Written for a War That Already Happened
 
-*worldlegalservices.com — Global Peace Frameworks Series, Article 1*
+*worldlegalservice.com — Global Peace Frameworks Series, Article 1*
 
 ---
 
@@ -80,7 +80,7 @@ Building that argument in detail is the work of the articles that follow in this
 
 ---
 
-*Colin Buzoianu is a software entrepreneur and technology policy analyst based in Timișoara, Romania. worldlegalservices.com examines the intersection of emerging technology, legal frameworks, and governance. This article is part of the Global Peace Frameworks series.*
+*Colin Buzoianu is a software entrepreneur and technology policy analyst based in Timișoara, Romania. worldlegalservice.com examines the intersection of emerging technology, legal frameworks, and governance. This article is part of the Global Peace Frameworks series.*
 
 ---
 

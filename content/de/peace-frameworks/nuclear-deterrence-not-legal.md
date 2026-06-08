@@ -1,6 +1,6 @@
 # Nukleare Abschreckung ist kein Rechtsrahmen. Sie ist das Fehlen eines solchen.
 
-*worldlegalservices.com — Reihe Globale Friedensrahmen, Artikel 3*
+*worldlegalservice.com — Reihe Globale Friedensrahmen, Artikel 3*
 
 ---
 
@@ -90,7 +90,7 @@ Hoffnung ist keine Architektur. Und die Folgen ihres Scheiterns sind nicht wiede
 
 ---
 
-*Colin Buzoianu ist Software-Unternehmer und Technologiepolitik-Analyst mit Sitz in Timișoara, Rumänien. worldlegalservices.com untersucht die Schnittstelle von aufkommenden Technologien, Rechtsrahmen und Governance. Dieser Artikel ist Teil der Reihe Globale Friedensrahmen.*
+*Colin Buzoianu ist Software-Unternehmer und Technologiepolitik-Analyst mit Sitz in Timișoara, Rumänien. worldlegalservice.com untersucht die Schnittstelle von aufkommenden Technologien, Rechtsrahmen und Governance. Dieser Artikel ist Teil der Reihe Globale Friedensrahmen.*
 
 ---
 

@@ -1,6 +1,6 @@
 # Deplasarea Climatică și Vidul din Dreptul Refugiaților
 
-*worldlegalservices.com — Seria Cadre de Pace Globale, Articolul 5*
+*worldlegalservice.com — Seria Cadre de Pace Globale, Articolul 5*
 
 ---
 
@@ -88,7 +88,7 @@ Construirea cadrului juridic acum, înainte de materializarea la scară deplină
 
 ---
 
-*Colin Buzoianu este antreprenor software și analist de politici tehnologice cu sediul în Timișoara, România. worldlegalservices.com examinează intersecția dintre tehnologia emergentă, cadrele juridice și guvernanță. Acest articol face parte din Seria Cadre de Pace Globale.*
+*Colin Buzoianu este antreprenor software și analist de politici tehnologice cu sediul în Timișoara, România. worldlegalservice.com examinează intersecția dintre tehnologia emergentă, cadrele juridice și guvernanță. Acest articol face parte din Seria Cadre de Pace Globale.*
 
 ---
 

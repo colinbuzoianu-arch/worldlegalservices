@@ -1,6 +1,6 @@
 # 134 Milliarden Euro und mehr: Die Frage der Rechenschaftspflicht für die Ukraine-Finanzierung
 
-*worldlegalservices.com — EU-Kritik-Reihe, Artikel 2*
+*worldlegalservice.com — EU-Kritik-Reihe, Artikel 2*
 
 ---
 
@@ -98,7 +98,7 @@ Diese Antwort wurde noch nicht gegeben.
 
 ---
 
-*Colin Buzoianu ist Software-Unternehmer und Technologiepolitik-Analyst mit Sitz in Timișoara, Rumänien. worldlegalservices.com untersucht die Schnittstelle von aufkommenden Technologien, Rechtsrahmen und Governance. Dieser Artikel ist Teil der EU-Kritik-Reihe.*
+*Colin Buzoianu ist Software-Unternehmer und Technologiepolitik-Analyst mit Sitz in Timișoara, Rumänien. worldlegalservice.com untersucht die Schnittstelle von aufkommenden Technologien, Rechtsrahmen und Governance. Dieser Artikel ist Teil der EU-Kritik-Reihe.*
 
 ---
 

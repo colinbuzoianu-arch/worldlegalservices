@@ -1,6 +1,6 @@
 # From Communism to Algorithms: Why Eastern Europe Should Lead the AI Governance Debate
 
-*worldlegalservices.com — AI Governance Series, Article 3*
+*worldlegalservice.com — AI Governance Series, Article 3*
 
 ---
 
@@ -104,7 +104,7 @@ This publication is one attempt to do exactly that.
 
 ---
 
-*Colin Buzoianu is a software entrepreneur and technology policy analyst based in Timișoara, Romania. worldlegalservices.com examines the intersection of emerging technology, legal frameworks, and governance. This article is part of the AI Governance series.*
+*Colin Buzoianu is a software entrepreneur and technology policy analyst based in Timișoara, Romania. worldlegalservice.com examines the intersection of emerging technology, legal frameworks, and governance. This article is part of the AI Governance series.*
 
 ---
 

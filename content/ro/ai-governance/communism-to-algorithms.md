@@ -1,6 +1,6 @@
 # De la Comunism la Algoritmi: De Ce Europa de Est Ar Trebui să Conducă Dezbaterea despre Guvernanța AI
 
-*worldlegalservices.com — Seria Guvernanță AI, Articolul 3*
+*worldlegalservice.com — Seria Guvernanță AI, Articolul 3*
 
 ---
 
@@ -104,7 +104,7 @@ Această publicație este o încercare de a face exact asta.
 
 ---
 
-*Colin Buzoianu este antreprenor software și analist de politici tehnologice cu sediul în Timișoara, România. worldlegalservices.com examinează intersecția dintre tehnologia emergentă, cadrele juridice și guvernanță. Acest articol face parte din Seria Guvernanță AI.*
+*Colin Buzoianu este antreprenor software și analist de politici tehnologice cu sediul în Timișoara, România. worldlegalservice.com examinează intersecția dintre tehnologia emergentă, cadrele juridice și guvernanță. Acest articol face parte din Seria Guvernanță AI.*
 
 ---
 

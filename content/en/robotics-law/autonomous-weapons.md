@@ -1,6 +1,6 @@
 # Autonomous Weapons and the Collapse of International Humanitarian Law
 
-*worldlegalservices.com — Humanoid Robotics & Law Series, Article 4*
+*worldlegalservice.com — Humanoid Robotics & Law Series, Article 4*
 
 ---
 
@@ -138,7 +138,7 @@ It deserves both.
 
 ---
 
-*Colin Buzoianu is a software entrepreneur and technology policy analyst based in Timișoara, Romania. worldlegalservices.com examines the intersection of emerging technology, legal frameworks, and governance. This article is part of the Humanoid Robotics & Law series.*
+*Colin Buzoianu is a software entrepreneur and technology policy analyst based in Timișoara, Romania. worldlegalservice.com examines the intersection of emerging technology, legal frameworks, and governance. This article is part of the Humanoid Robotics & Law series.*
 
 ---
 

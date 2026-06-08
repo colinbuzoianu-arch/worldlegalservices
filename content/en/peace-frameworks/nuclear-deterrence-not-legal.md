@@ -1,6 +1,6 @@
 # Nuclear Deterrence Is Not a Legal Framework. It Is the Absence of One.
 
-*worldlegalservices.com — Global Peace Frameworks Series, Article 3*
+*worldlegalservice.com — Global Peace Frameworks Series, Article 3*
 
 ---
 
@@ -90,7 +90,7 @@ Hope is not architecture. And the consequences of its failure are not recoverabl
 
 ---
 
-*Colin Buzoianu is a software entrepreneur and technology policy analyst based in Timișoara, Romania. worldlegalservices.com examines the intersection of emerging technology, legal frameworks, and governance. This article is part of the Global Peace Frameworks series.*
+*Colin Buzoianu is a software entrepreneur and technology policy analyst based in Timișoara, Romania. worldlegalservice.com examines the intersection of emerging technology, legal frameworks, and governance. This article is part of the Global Peace Frameworks series.*
 
 ---
 

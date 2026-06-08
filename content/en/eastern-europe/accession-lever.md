@@ -1,6 +1,6 @@
 # The Accession Lever: EU Enlargement as Governance Reform Engine — and Its Limits
 
-*worldlegalservices.com — Eastern European Angle Series, Article 5*
+*worldlegalservice.com — Eastern European Angle Series, Article 5*
 
 ---
 
@@ -72,7 +72,7 @@ The design implication for the WLS governance framework is direct: governance re
 
 ---
 
-*Colin Buzoianu is a software entrepreneur and technology policy analyst based in Timișoara, Romania. worldlegalservices.com examines the intersection of emerging technology, legal frameworks, and governance. This article is part of the Eastern European Angle series.*
+*Colin Buzoianu is a software entrepreneur and technology policy analyst based in Timișoara, Romania. worldlegalservice.com examines the intersection of emerging technology, legal frameworks, and governance. This article is part of the Eastern European Angle series.*
 
 ---
 

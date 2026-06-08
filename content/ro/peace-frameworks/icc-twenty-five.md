@@ -1,6 +1,6 @@
 # CPI la Douăzeci și Cinci de Ani: Justiție pentru Unii, Impunitate pentru Alții
 
-*worldlegalservices.com — Seria Cadre de Pace Globale, Articolul 2*
+*worldlegalservice.com — Seria Cadre de Pace Globale, Articolul 2*
 
 ---
 
@@ -88,7 +88,7 @@ Acele alegeri merită să fie făcute cu o vedere clară asupra decalajului dint
 
 ---
 
-*Colin Buzoianu este antreprenor software și analist de politici tehnologice cu sediul în Timișoara, România. worldlegalservices.com examinează intersecția dintre tehnologia emergentă, cadrele juridice și guvernanță. Acest articol face parte din Seria Cadre de Pace Globale.*
+*Colin Buzoianu este antreprenor software și analist de politici tehnologice cu sediul în Timișoara, România. worldlegalservice.com examinează intersecția dintre tehnologia emergentă, cadrele juridice și guvernanță. Acest articol face parte din Seria Cadre de Pace Globale.*
 
 ---
 

@@ -1,6 +1,6 @@
 # Migrație fără Integrare: Costul unei Politici Care Nu Servește Pe Nimeni
 
-*worldlegalservices.com — Seria Critică UE, Articolul 4*
+*worldlegalservice.com — Seria Critică UE, Articolul 4*
 
 ---
 
@@ -108,7 +108,7 @@ Ei merită mai mult decât politica pe care o au. Până acum, nu au primit-o.
 
 ---
 
-*Colin Buzoianu este antreprenor software și analist de politici tehnologice cu sediul în Timișoara, România. worldlegalservices.com examinează intersecția dintre tehnologia emergentă, cadrele juridice și guvernanță. Acest articol face parte din Seria Critică UE.*
+*Colin Buzoianu este antreprenor software și analist de politici tehnologice cu sediul în Timișoara, România. worldlegalservice.com examinează intersecția dintre tehnologia emergentă, cadrele juridice și guvernanță. Acest articol face parte din Seria Critică UE.*
 
 ---
 

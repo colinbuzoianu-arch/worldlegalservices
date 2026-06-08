@@ -1,6 +1,6 @@
 # Wir haben Gesetze für alles, außer für die Maschinen, die uns regieren werden
 
-*worldlegalservices.com — KI-Governance-Reihe, Artikel 2*
+*worldlegalservice.com — KI-Governance-Reihe, Artikel 2*
 
 ---
 
@@ -94,7 +94,7 @@ Wir haben sie ihnen noch nicht im Ansatz zukommen lassen.
 
 ---
 
-*Colin Buzoianu ist Software-Unternehmer und Technologiepolitik-Analyst mit Sitz in Timișoara, Rumänien. worldlegalservices.com untersucht die Schnittstelle von aufkommenden Technologien, Rechtsrahmen und Governance. Dieser Artikel ist Teil der KI-Governance-Reihe.*
+*Colin Buzoianu ist Software-Unternehmer und Technologiepolitik-Analyst mit Sitz in Timișoara, Rumänien. worldlegalservice.com untersucht die Schnittstelle von aufkommenden Technologien, Rechtsrahmen und Governance. Dieser Artikel ist Teil der KI-Governance-Reihe.*
 
 ---
 

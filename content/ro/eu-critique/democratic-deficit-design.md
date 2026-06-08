@@ -1,6 +1,6 @@
 # Deficitul Democratic Nu Este un Bug. Este Designul.
 
-*worldlegalservices.com — Seria Critică UE, Articolul 1*
+*worldlegalservice.com — Seria Critică UE, Articolul 1*
 
 ---
 
@@ -82,7 +82,7 @@ Aceasta este o diagnoză inconfortabilă. Este și cea pe care o susțin dovezil
 
 ---
 
-*Colin Buzoianu este antreprenor software și analist de politici tehnologice cu sediul în Timișoara, România. worldlegalservices.com examinează intersecția dintre tehnologia emergentă, cadrele juridice și guvernanță. Acest articol face parte din Seria Critică UE.*
+*Colin Buzoianu este antreprenor software și analist de politici tehnologice cu sediul în Timișoara, România. worldlegalservice.com examinează intersecția dintre tehnologia emergentă, cadrele juridice și guvernanță. Acest articol face parte din Seria Critică UE.*
 
 ---
 

@@ -1,6 +1,6 @@
 # Der Gasschnitt: Wenn Energiepolitik zur Ideologie wird
 
-*worldlegalservices.com — EU-Kritik-Reihe, Artikel 3*
+*worldlegalservice.com — EU-Kritik-Reihe, Artikel 3*
 
 ---
 
@@ -90,7 +90,7 @@ Der Gasschnitt ist eine Fallstudie darin, was diese Architektur hervorbringt, we
 
 ---
 
-*Colin Buzoianu ist Software-Unternehmer und Technologiepolitik-Analyst mit Sitz in Timișoara, Rumänien. worldlegalservices.com untersucht die Schnittstelle von aufkommenden Technologien, Rechtsrahmen und Governance. Dieser Artikel ist Teil der EU-Kritik-Reihe.*
+*Colin Buzoianu ist Software-Unternehmer und Technologiepolitik-Analyst mit Sitz in Timișoara, Rumänien. worldlegalservice.com untersucht die Schnittstelle von aufkommenden Technologien, Rechtsrahmen und Governance. Dieser Artikel ist Teil der EU-Kritik-Reihe.*
 
 ---
 

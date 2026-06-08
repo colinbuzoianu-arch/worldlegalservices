@@ -1,6 +1,6 @@
 # Statul Digital al Estoniei: Cea Mai de Succes Inovație de Guvernanță Pe Care Nimeni Nu o Copiază
 
-*worldlegalservices.com — Seria Europa de Est, Articolul 2*
+*worldlegalservice.com — Seria Europa de Est, Articolul 2*
 
 ---
 
@@ -88,7 +88,7 @@ Lecția Estoniei pentru guvernanța AI este în cele din urmă simplă: cea mai 
 
 ---
 
-*Colin Buzoianu este antreprenor software și analist de politici tehnologice cu sediul în Timișoara, România. worldlegalservices.com examinează intersecția dintre tehnologia emergentă, cadrele juridice și guvernanță. Acest articol face parte din Seria Europa de Est.*
+*Colin Buzoianu este antreprenor software și analist de politici tehnologice cu sediul în Timișoara, România. worldlegalservice.com examinează intersecția dintre tehnologia emergentă, cadrele juridice și guvernanță. Acest articol face parte din Seria Europa de Est.*
 
 ---
 

@@ -1,6 +1,6 @@
 # Das Arbeitsrecht wurde für Menschen gebaut. Was passiert, wenn der Arbeitnehmer keiner ist?
 
-*worldlegalservices.com — Reihe Robotik & Recht, Artikel 3*
+*worldlegalservice.com — Reihe Robotik & Recht, Artikel 3*
 
 ---
 
@@ -128,7 +128,7 @@ Sie bewusst zu gestalten ist das Mindeste, was wir den Arbeitnehmern schulden, d
 
 ---
 
-*Colin Buzoianu ist Software-Unternehmer und Technologiepolitik-Analyst mit Sitz in Timișoara, Rumänien. worldlegalservices.com untersucht die Schnittstelle von aufkommenden Technologien, Rechtsrahmen und Governance. Dieser Artikel ist Teil der Reihe Robotik & Recht.*
+*Colin Buzoianu ist Software-Unternehmer und Technologiepolitik-Analyst mit Sitz in Timișoara, Rumänien. worldlegalservice.com untersucht die Schnittstelle von aufkommenden Technologien, Rechtsrahmen und Governance. Dieser Artikel ist Teil der Reihe Robotik & Recht.*
 
 ---
 

@@ -1,6 +1,6 @@
 # Când Robotul Provoacă Daune: Răspunderea în Era Sistemelor Autonome
 
-*worldlegalservices.com — Seria Robotică și Drept, Articolul 2*
+*worldlegalservice.com — Seria Robotică și Drept, Articolul 2*
 
 ---
 
@@ -130,7 +130,7 @@ Aceasta nu este o întâmplare. Vidurile de răspundere juridică nu persistă d
 
 ---
 
-*Colin Buzoianu este antreprenor software și analist de politici tehnologice cu sediul în Timișoara, România. worldlegalservices.com examinează intersecția dintre tehnologia emergentă, cadrele juridice și guvernanță. Acest articol face parte din Seria Robotică și Drept.*
+*Colin Buzoianu este antreprenor software și analist de politici tehnologice cu sediul în Timișoara, România. worldlegalservice.com examinează intersecția dintre tehnologia emergentă, cadrele juridice și guvernanță. Acest articol face parte din Seria Robotică și Drept.*
 
 ---
 

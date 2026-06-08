@@ -1,6 +1,6 @@
 # The Laboratory: What Thirty Years of Post-Communist Transition Taught the World About Institutions
 
-*worldlegalservices.com — Eastern European Angle Series, Article 1*
+*worldlegalservice.com — Eastern European Angle Series, Article 1*
 
 ---
 
@@ -70,7 +70,7 @@ The knowledge is there. The application is the work.
 
 ---
 
-*Colin Buzoianu is a software entrepreneur and technology policy analyst based in Timișoara, Romania. worldlegalservices.com examines the intersection of emerging technology, legal frameworks, and governance. This article is part of the Eastern European Angle series.*
+*Colin Buzoianu is a software entrepreneur and technology policy analyst based in Timișoara, Romania. worldlegalservice.com examines the intersection of emerging technology, legal frameworks, and governance. This article is part of the Eastern European Angle series.*
 
 ---
 

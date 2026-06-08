@@ -1,6 +1,6 @@
 # The ICC at Twenty-Five: Justice for Some, Impunity for Others
 
-*worldlegalservices.com — Global Peace Frameworks Series, Article 2*
+*worldlegalservice.com — Global Peace Frameworks Series, Article 2*
 
 ---
 
@@ -88,7 +88,7 @@ Those choices deserve to be made with clear eyes about the gap between the insti
 
 ---
 
-*Colin Buzoianu is a software entrepreneur and technology policy analyst based in Timișoara, Romania. worldlegalservices.com examines the intersection of emerging technology, legal frameworks, and governance. This article is part of the Global Peace Frameworks series.*
+*Colin Buzoianu is a software entrepreneur and technology policy analyst based in Timișoara, Romania. worldlegalservice.com examines the intersection of emerging technology, legal frameworks, and governance. This article is part of the Global Peace Frameworks series.*
 
 ---
 

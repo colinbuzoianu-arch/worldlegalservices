@@ -1,6 +1,6 @@
 # Estlands Digitalstaat: Die erfolgreichste Governance-Innovation, die niemand kopiert
 
-*worldlegalservices.com — Reihe Osteuropa, Artikel 2*
+*worldlegalservice.com — Reihe Osteuropa, Artikel 2*
 
 ---
 
@@ -88,7 +88,7 @@ Die Lehre Estlands für die KI-Governance ist letztlich einfach: Die beste Gover
 
 ---
 
-*Colin Buzoianu ist Software-Unternehmer und Technologiepolitik-Analyst mit Sitz in Timișoara, Rumänien. worldlegalservices.com untersucht die Schnittstelle von aufkommenden Technologien, Rechtsrahmen und Governance. Dieser Artikel ist Teil der Reihe Osteuropa.*
+*Colin Buzoianu ist Software-Unternehmer und Technologiepolitik-Analyst mit Sitz in Timișoara, Rumänien. worldlegalservice.com untersucht die Schnittstelle von aufkommenden Technologien, Rechtsrahmen und Governance. Dieser Artikel ist Teil der Reihe Osteuropa.*
 
 ---
 

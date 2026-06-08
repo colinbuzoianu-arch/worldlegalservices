@@ -1,6 +1,6 @@
 # Dreptul Muncii A Fost Construit pentru Oameni. Ce Se Întâmplă Când Muncitorul Nu Este Unul?
 
-*worldlegalservices.com — Seria Robotică și Drept, Articolul 3*
+*worldlegalservice.com — Seria Robotică și Drept, Articolul 3*
 
 ---
 
@@ -126,7 +126,7 @@ Construirea lor în mod deliberat este minimul pe care îl datorăm muncitorilor
 
 ---
 
-*Colin Buzoianu este antreprenor software și analist de politici tehnologice cu sediul în Timișoara, România. worldlegalservices.com examinează intersecția dintre tehnologia emergentă, cadrele juridice și guvernanță. Acest articol face parte din Seria Robotică și Drept.*
+*Colin Buzoianu este antreprenor software și analist de politici tehnologice cu sediul în Timișoara, România. worldlegalservice.com examinează intersecția dintre tehnologia emergentă, cadrele juridice și guvernanță. Acest articol face parte din Seria Robotică și Drept.*
 
 ---
 

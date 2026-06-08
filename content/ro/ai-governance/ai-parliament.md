@@ -1,6 +1,6 @@
 # Parlamentul AI: Guvernanța Multi-Agent și Arhitectura Consensului Moral
 
-*worldlegalservices.com — Seria Guvernanță AI, Articolul 4*
+*worldlegalservice.com — Seria Guvernanță AI, Articolul 4*
 
 ---
 
@@ -95,7 +95,7 @@ Este timpul să îi citim serios.
 
 ---
 
-*Colin Buzoianu este antreprenor software și analist de politici tehnologice cu sediul în Timișoara, România. worldlegalservices.com examinează intersecția dintre tehnologia emergentă, cadrele juridice și guvernanță. Acest articol face parte din Seria Guvernanță AI.*
+*Colin Buzoianu este antreprenor software și analist de politici tehnologice cu sediul în Timișoara, România. worldlegalservice.com examinează intersecția dintre tehnologia emergentă, cadrele juridice și guvernanță. Acest articol face parte din Seria Guvernanță AI.*
 
 ---
 

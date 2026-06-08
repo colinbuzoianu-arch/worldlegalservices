@@ -1,6 +1,6 @@
 # From the Periphery to the Center: Why Eastern Europe Must Lead the Next Governance Revolution
 
-*worldlegalservices.com — Eastern European Angle Series, Article 6*
+*worldlegalservice.com — Eastern European Angle Series, Article 6*
 
 ---
 
@@ -82,7 +82,7 @@ That movement starts here.
 
 ---
 
-*Colin Buzoianu is a software entrepreneur and technology policy analyst based in Timișoara, Romania. worldlegalservices.com examines the intersection of emerging technology, legal frameworks, and governance. This article is part of the Eastern European Angle series.*
+*Colin Buzoianu is a software entrepreneur and technology policy analyst based in Timișoara, Romania. worldlegalservice.com examines the intersection of emerging technology, legal frameworks, and governance. This article is part of the Eastern European Angle series.*
 
 ---
 

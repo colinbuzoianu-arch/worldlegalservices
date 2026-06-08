@@ -1,6 +1,6 @@
 # Avem Legi pentru Tot, în Afară de Mașinile Care Ne Vor Guverna
 
-*worldlegalservices.com — Seria Guvernanță AI, Articolul 2*
+*worldlegalservice.com — Seria Guvernanță AI, Articolul 2*
 
 ---
 
@@ -94,7 +94,7 @@ Nu am început încă să le-o acordăm.
 
 ---
 
-*Colin Buzoianu este antreprenor software și analist de politici tehnologice cu sediul în Timișoara, România. worldlegalservices.com examinează intersecția dintre tehnologia emergentă, cadrele juridice și guvernanță. Acest articol face parte din Seria Guvernanță AI.*
+*Colin Buzoianu este antreprenor software și analist de politici tehnologice cu sediul în Timișoara, România. worldlegalservice.com examinează intersecția dintre tehnologia emergentă, cadrele juridice și guvernanță. Acest articol face parte din Seria Guvernanță AI.*
 
 ---
 

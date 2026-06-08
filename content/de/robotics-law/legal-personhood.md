@@ -1,6 +1,6 @@
 # Kann ein Roboter eine Person sein? Die Frage der Rechtspersönlichkeit, die niemand zu beantworten bereit ist
 
-*worldlegalservices.com — Reihe Robotik & Recht, Artikel 1*
+*worldlegalservice.com — Reihe Robotik & Recht, Artikel 1*
 
 ---
 
@@ -116,7 +116,7 @@ Diese Entscheidung verdient es, bewusst getroffen zu werden.
 
 ---
 
-*Colin Buzoianu ist Software-Unternehmer und Technologiepolitik-Analyst mit Sitz in Timișoara, Rumänien. worldlegalservices.com untersucht die Schnittstelle von aufkommenden Technologien, Rechtsrahmen und Governance. Dieser Artikel ist Teil der Reihe Robotik & Recht.*
+*Colin Buzoianu ist Software-Unternehmer und Technologiepolitik-Analyst mit Sitz in Timișoara, Rumänien. worldlegalservice.com untersucht die Schnittstelle von aufkommenden Technologien, Rechtsrahmen und Governance. Dieser Artikel ist Teil der Reihe Robotik & Recht.*
 
 ---
 

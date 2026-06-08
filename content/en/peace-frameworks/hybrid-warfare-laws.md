@@ -1,6 +1,6 @@
 # Hybrid Warfare and the Laws of War: A Framework Built for a Different Century
 
-*worldlegalservices.com — Global Peace Frameworks Series, Article 4*
+*worldlegalservice.com — Global Peace Frameworks Series, Article 4*
 
 ---
 
@@ -94,7 +94,7 @@ The legal framework for hybrid warfare needs to be built the same way: from outs
 
 ---
 
-*Colin Buzoianu is a software entrepreneur and technology policy analyst based in Timișoara, Romania. worldlegalservices.com examines the intersection of emerging technology, legal frameworks, and governance. This article is part of the Global Peace Frameworks series.*
+*Colin Buzoianu is a software entrepreneur and technology policy analyst based in Timișoara, Romania. worldlegalservice.com examines the intersection of emerging technology, legal frameworks, and governance. This article is part of the Global Peace Frameworks series.*
 
 ---
 

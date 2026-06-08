@@ -1,6 +1,6 @@
 # 134 de Miliarde de Euro și Tot Crește: Întrebarea Responsabilității pentru Finanțarea Ucrainei
 
-*worldlegalservices.com — Seria Critică UE, Articolul 2*
+*worldlegalservice.com — Seria Critică UE, Articolul 2*
 
 ---
 
@@ -98,7 +98,7 @@ Acel răspuns nu a fost furnizat încă.
 
 ---
 
-*Colin Buzoianu este antreprenor software și analist de politici tehnologice cu sediul în Timișoara, România. worldlegalservices.com examinează intersecția dintre tehnologia emergentă, cadrele juridice și guvernanță. Acest articol face parte din Seria Critică UE.*
+*Colin Buzoianu este antreprenor software și analist de politici tehnologice cu sediul în Timișoara, România. worldlegalservice.com examinează intersecția dintre tehnologia emergentă, cadrele juridice și guvernanță. Acest articol face parte din Seria Critică UE.*
 
 ---
 

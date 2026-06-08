@@ -1,6 +1,6 @@
 # Democratic Backsliding From Within: Hungary, Poland, and Slovakia as a Case Study
 
-*worldlegalservices.com — Eastern European Angle Series, Article 3*
+*worldlegalservice.com — Eastern European Angle Series, Article 3*
 
 ---
 
@@ -82,7 +82,7 @@ The lesson for supranational governance design is the same as the lesson for dom
 
 ---
 
-*Colin Buzoianu is a software entrepreneur and technology policy analyst based in Timișoara, Romania. worldlegalservices.com examines the intersection of emerging technology, legal frameworks, and governance. This article is part of the Eastern European Angle series.*
+*Colin Buzoianu is a software entrepreneur and technology policy analyst based in Timișoara, Romania. worldlegalservice.com examines the intersection of emerging technology, legal frameworks, and governance. This article is part of the Eastern European Angle series.*
 
 ---
 

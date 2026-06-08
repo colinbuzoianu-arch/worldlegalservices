@@ -1,6 +1,6 @@
 # Autonome Waffen und der Zusammenbruch des humanitären Völkerrechts
 
-*worldlegalservices.com — Reihe Robotik & Recht, Artikel 4*
+*worldlegalservice.com — Reihe Robotik & Recht, Artikel 4*
 
 ---
 
@@ -138,7 +138,7 @@ Sie verdient beides.
 
 ---
 
-*Colin Buzoianu ist Software-Unternehmer und Technologiepolitik-Analyst mit Sitz in Timișoara, Rumänien. worldlegalservices.com untersucht die Schnittstelle von aufkommenden Technologien, Rechtsrahmen und Governance. Dieser Artikel ist Teil der Reihe Robotik & Recht.*
+*Colin Buzoianu ist Software-Unternehmer und Technologiepolitik-Analyst mit Sitz in Timișoara, Rumänien. worldlegalservice.com untersucht die Schnittstelle von aufkommenden Technologien, Rechtsrahmen und Governance. Dieser Artikel ist Teil der Reihe Robotik & Recht.*
 
 ---
 

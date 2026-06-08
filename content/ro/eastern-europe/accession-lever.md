@@ -1,6 +1,6 @@
 # Pârghia Aderării: Extinderea UE ca Motor de Reformă a Guvernanței — și Limitele Sale
 
-*worldlegalservices.com — Seria Europa de Est, Articolul 5*
+*worldlegalservice.com — Seria Europa de Est, Articolul 5*
 
 ---
 
@@ -72,7 +72,7 @@ Implicația de proiectare pentru cadrul de guvernanță WLS este directă: mecan
 
 ---
 
-*Colin Buzoianu este antreprenor software și analist de politici tehnologice cu sediul în Timișoara, România. worldlegalservices.com examinează intersecția dintre tehnologia emergentă, cadrele juridice și guvernanță. Acest articol face parte din Seria Europa de Est.*
+*Colin Buzoianu este antreprenor software și analist de politici tehnologice cu sediul în Timișoara, România. worldlegalservice.com examinează intersecția dintre tehnologia emergentă, cadrele juridice și guvernanță. Acest articol face parte din Seria Europa de Est.*
 
 ---
 

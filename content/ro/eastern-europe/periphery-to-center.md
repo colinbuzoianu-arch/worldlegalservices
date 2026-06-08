@@ -1,6 +1,6 @@
 # De la Periferie la Centru: De Ce Europa de Est Trebuie să Conducă Următoarea Revoluție a Guvernanței
 
-*worldlegalservices.com — Seria Europa de Est, Articolul 6*
+*worldlegalservice.com — Seria Europa de Est, Articolul 6*
 
 ---
 
@@ -82,7 +82,7 @@ Acea mișcare începe aici.
 
 ---
 
-*Colin Buzoianu este antreprenor software și analist de politici tehnologice cu sediul în Timișoara, România. worldlegalservices.com examinează intersecția dintre tehnologia emergentă, cadrele juridice și guvernanță. Acest articol face parte din Seria Europa de Est.*
+*Colin Buzoianu este antreprenor software și analist de politici tehnologice cu sediul în Timișoara, România. worldlegalservice.com examinează intersecția dintre tehnologia emergentă, cadrele juridice și guvernanță. Acest articol face parte din Seria Europa de Est.*
 
 ---
 

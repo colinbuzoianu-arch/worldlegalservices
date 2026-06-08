@@ -1,6 +1,6 @@
 # €134 Billion and Counting: The Ukraine Funding Accountability Question
 
-*worldlegalservices.com — EU Policy Critique Series, Article 2*
+*worldlegalservice.com — EU Policy Critique Series, Article 2*
 
 ---
 
@@ -98,7 +98,7 @@ That answer has not yet been provided.
 
 ---
 
-*Colin Buzoianu is a software entrepreneur and technology policy analyst based in Timișoara, Romania. worldlegalservices.com examines the intersection of emerging technology, legal frameworks, and governance. This article is part of the EU Policy Critique series.*
+*Colin Buzoianu is a software entrepreneur and technology policy analyst based in Timișoara, Romania. worldlegalservice.com examines the intersection of emerging technology, legal frameworks, and governance. This article is part of the EU Policy Critique series.*
 
 ---
 

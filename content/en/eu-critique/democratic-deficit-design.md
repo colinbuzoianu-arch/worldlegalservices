@@ -1,6 +1,6 @@
 # The Democratic Deficit Is Not a Bug. It Is the Design.
 
-*worldlegalservices.com — EU Policy Critique Series, Article 1*
+*worldlegalservice.com — EU Policy Critique Series, Article 1*
 
 ---
 
@@ -82,7 +82,7 @@ That is an uncomfortable diagnosis. It is also the one the evidence supports.
 
 ---
 
-*Colin Buzoianu is a software entrepreneur and technology policy analyst based in Timișoara, Romania. worldlegalservices.com examines the intersection of emerging technology, legal frameworks, and governance. This article is part of the EU Policy Critique series.*
+*Colin Buzoianu is a software entrepreneur and technology policy analyst based in Timișoara, Romania. worldlegalservice.com examines the intersection of emerging technology, legal frameworks, and governance. This article is part of the EU Policy Critique series.*
 
 ---
 

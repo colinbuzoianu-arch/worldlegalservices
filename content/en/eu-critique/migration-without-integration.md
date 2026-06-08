@@ -1,6 +1,6 @@
 # Migration Without Integration: The Cost of a Policy That Serves Nobody
 
-*worldlegalservices.com — EU Policy Critique Series, Article 4*
+*worldlegalservice.com — EU Policy Critique Series, Article 4*
 
 ---
 
@@ -108,7 +108,7 @@ They deserve better than the policy they have. So far, they have not received it
 
 ---
 
-*Colin Buzoianu is a software entrepreneur and technology policy analyst based in Timișoara, Romania. worldlegalservices.com examines the intersection of emerging technology, legal frameworks, and governance. This article is part of the EU Policy Critique series.*
+*Colin Buzoianu is a software entrepreneur and technology policy analyst based in Timișoara, Romania. worldlegalservice.com examines the intersection of emerging technology, legal frameworks, and governance. This article is part of the EU Policy Critique series.*
 
 ---
 

@@ -90,6 +90,9 @@ export default function Nav() {
               {l.label}
             </Link>
           ))}
+          <div style={{ paddingTop: 16 }}>
+            <LangSwitcher />
+          </div>
         </div>
       )}
 

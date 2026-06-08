@@ -1,6 +1,6 @@
 # AI as a Peace Tool: The One Application Nobody Is Building
 
-*worldlegalservices.com — Global Peace Frameworks Series, Article 6*
+*worldlegalservice.com — Global Peace Frameworks Series, Article 6*
 
 ---
 
@@ -96,7 +96,7 @@ Closing that gap is work that this platform was built to contribute to.
 
 ---
 
-*Colin Buzoianu is a software entrepreneur and technology policy analyst based in Timișoara, Romania. worldlegalservices.com examines the intersection of emerging technology, legal frameworks, and governance. This article is part of the Global Peace Frameworks series.*
+*Colin Buzoianu is a software entrepreneur and technology policy analyst based in Timișoara, Romania. worldlegalservice.com examines the intersection of emerging technology, legal frameworks, and governance. This article is part of the Global Peace Frameworks series.*
 
 ---
 

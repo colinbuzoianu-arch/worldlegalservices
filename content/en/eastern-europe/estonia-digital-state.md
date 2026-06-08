@@ -1,6 +1,6 @@
 # Estonia's Digital State: The Most Successful Governance Innovation Nobody Is Copying
 
-*worldlegalservices.com — Eastern European Angle Series, Article 2*
+*worldlegalservice.com — Eastern European Angle Series, Article 2*
 
 ---
 
@@ -88,7 +88,7 @@ The lesson of Estonia for AI governance is ultimately simple: the best governanc
 
 ---
 
-*Colin Buzoianu is a software entrepreneur and technology policy analyst based in Timișoara, Romania. worldlegalservices.com examines the intersection of emerging technology, legal frameworks, and governance. This article is part of the Eastern European Angle series.*
+*Colin Buzoianu is a software entrepreneur and technology policy analyst based in Timișoara, Romania. worldlegalservice.com examines the intersection of emerging technology, legal frameworks, and governance. This article is part of the Eastern European Angle series.*
 
 ---
 

@@ -1,6 +1,6 @@
 # The AI Parliament: Multi-Agent Governance and the Architecture of Moral Consensus
 
-*worldlegalservices.com — AI Governance Series, Article 4*
+*worldlegalservice.com — AI Governance Series, Article 4*
 
 ---
 
@@ -95,7 +95,7 @@ It is time to read them seriously.
 
 ---
 
-*Colin Buzoianu is a software entrepreneur and technology policy analyst based in Timișoara, Romania. worldlegalservices.com examines the intersection of emerging technology, legal frameworks, and governance. This article is part of the AI Governance series.*
+*Colin Buzoianu is a software entrepreneur and technology policy analyst based in Timișoara, Romania. worldlegalservice.com examines the intersection of emerging technology, legal frameworks, and governance. This article is part of the AI Governance series.*
 
 ---
 

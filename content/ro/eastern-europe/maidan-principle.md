@@ -1,6 +1,6 @@
 # Principiul Maidan: Când Revoluția Civică Este Ultimul Mecanism de Responsabilitate
 
-*worldlegalservices.com — Seria Europa de Est, Articolul 4*
+*worldlegalservice.com — Seria Europa de Est, Articolul 4*
 
 ---
 
@@ -72,7 +72,7 @@ Principiul Maidan este cel mai costisitor mecanism de responsabilitate disponibi
 
 ---
 
-*Colin Buzoianu este antreprenor software și analist de politici tehnologice cu sediul în Timișoara, România. worldlegalservices.com examinează intersecția dintre tehnologia emergentă, cadrele juridice și guvernanță. Acest articol face parte din Seria Europa de Est.*
+*Colin Buzoianu este antreprenor software și analist de politici tehnologice cu sediul în Timișoara, România. worldlegalservice.com examinează intersecția dintre tehnologia emergentă, cadrele juridice și guvernanță. Acest articol face parte din Seria Europa de Est.*
 
 ---
 

@@ -1,6 +1,6 @@
 # Războiul Hibrid și Legile Războiului: Un Cadru Construit pentru un Alt Secol
 
-*worldlegalservices.com — Seria Cadre de Pace Globale, Articolul 4*
+*worldlegalservice.com — Seria Cadre de Pace Globale, Articolul 4*
 
 ---
 
@@ -94,7 +94,7 @@ Cadrul juridic pentru războiul hibrid trebuie construit în același mod: din a
 
 ---
 
-*Colin Buzoianu este antreprenor software și analist de politici tehnologice cu sediul în Timișoara, România. worldlegalservices.com examinează intersecția dintre tehnologia emergentă, cadrele juridice și guvernanță. Acest articol face parte din Seria Cadre de Pace Globale.*
+*Colin Buzoianu este antreprenor software și analist de politici tehnologice cu sediul în Timișoara, România. worldlegalservice.com examinează intersecția dintre tehnologia emergentă, cadrele juridice și guvernanță. Acest articol face parte din Seria Cadre de Pace Globale.*
 
 ---
 

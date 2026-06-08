@@ -1,6 +1,6 @@
 # Demokratischer Rückschritt von innen: Ungarn, Polen und die Slowakei als Fallstudie
 
-*worldlegalservices.com — Reihe Osteuropa, Artikel 3*
+*worldlegalservice.com — Reihe Osteuropa, Artikel 3*
 
 ---
 
@@ -82,7 +82,7 @@ Die Lehre für supranationales Governance-Design ist dieselbe wie die Lehre für
 
 ---
 
-*Colin Buzoianu ist Software-Unternehmer und Technologiepolitik-Analyst mit Sitz in Timișoara, Rumänien. worldlegalservices.com untersucht die Schnittstelle von aufkommenden Technologien, Rechtsrahmen und Governance. Dieser Artikel ist Teil der Reihe Osteuropa.*
+*Colin Buzoianu ist Software-Unternehmer und Technologiepolitik-Analyst mit Sitz in Timișoara, Rumänien. worldlegalservice.com untersucht die Schnittstelle von aufkommenden Technologien, Rechtsrahmen und Governance. Dieser Artikel ist Teil der Reihe Osteuropa.*
 
 ---
 

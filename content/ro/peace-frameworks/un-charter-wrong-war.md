@@ -1,6 +1,6 @@
 # Carta ONU A Fost Scrisă pentru un Război Care Deja Se Întâmplase
 
-*worldlegalservices.com — Seria Cadre de Pace Globale, Articolul 1*
+*worldlegalservice.com — Seria Cadre de Pace Globale, Articolul 1*
 
 ---
 
@@ -80,7 +80,7 @@ Construirea acelui argument în detaliu este munca articolelor care urmează în
 
 ---
 
-*Colin Buzoianu este antreprenor software și analist de politici tehnologice cu sediul în Timișoara, România. worldlegalservices.com examinează intersecția dintre tehnologia emergentă, cadrele juridice și guvernanță. Acest articol face parte din Seria Cadre de Pace Globale.*
+*Colin Buzoianu este antreprenor software și analist de politici tehnologice cu sediul în Timișoara, România. worldlegalservice.com examinează intersecția dintre tehnologia emergentă, cadrele juridice și guvernanță. Acest articol face parte din Seria Cadre de Pace Globale.*
 
 ---
 

@@ -1,6 +1,6 @@
 # We Have Laws for Everything Except the Machines That Will Govern Us
 
-*worldlegalservices.com — AI Governance Series, Article 2*
+*worldlegalservice.com — AI Governance Series, Article 2*
 
 ---
 
@@ -94,7 +94,7 @@ We have not yet begun to give it to them.
 
 ---
 
-*Colin Buzoianu is a software entrepreneur and technology policy analyst based in Timișoara, Romania. worldlegalservices.com examines the intersection of emerging technology, legal frameworks, and governance. This article is part of the AI Governance series.*
+*Colin Buzoianu is a software entrepreneur and technology policy analyst based in Timișoara, Romania. worldlegalservice.com examines the intersection of emerging technology, legal frameworks, and governance. This article is part of the AI Governance series.*
 
 ---
 

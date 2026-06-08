@@ -1,6 +1,6 @@
 # Politicians Are Not Accountable. Algorithms Could Be.
 
-*worldlegalservices.com — AI Governance Series, Article 1*
+*worldlegalservice.com — AI Governance Series, Article 1*
 
 ---
 
@@ -122,7 +122,7 @@ We should be too.
 
 ---
 
-*Colin Buzoianu is a software entrepreneur and technology policy analyst based in Timișoara, Romania. worldlegalservices.com examines the intersection of emerging technology, legal frameworks, and governance. This article is part of the AI Governance series.*
+*Colin Buzoianu is a software entrepreneur and technology policy analyst based in Timișoara, Romania. worldlegalservice.com examines the intersection of emerging technology, legal frameworks, and governance. This article is part of the AI Governance series.*
 
 ---
 

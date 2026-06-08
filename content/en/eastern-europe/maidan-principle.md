@@ -1,6 +1,6 @@
 # The Maidan Principle: When Civic Revolution Is the Last Accountability Mechanism
 
-*worldlegalservices.com — Eastern European Angle Series, Article 4*
+*worldlegalservice.com — Eastern European Angle Series, Article 4*
 
 ---
 
@@ -72,7 +72,7 @@ The Maidan principle is the most expensive accountability mechanism available. I
 
 ---
 
-*Colin Buzoianu is a software entrepreneur and technology policy analyst based in Timișoara, Romania. worldlegalservices.com examines the intersection of emerging technology, legal frameworks, and governance. This article is part of the Eastern European Angle series.*
+*Colin Buzoianu is a software entrepreneur and technology policy analyst based in Timișoara, Romania. worldlegalservice.com examines the intersection of emerging technology, legal frameworks, and governance. This article is part of the Eastern European Angle series.*
 
 ---
 
