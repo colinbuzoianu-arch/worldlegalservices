@@ -88,7 +88,7 @@ export default function SupportClient() {
         {/* SUPPORT CTA */}
         <div className="support-cta-grid" style={{ marginTop: 56, display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 1, background: 'var(--border)', border: '1px solid var(--border)' }}>
           <a
-            href="YOUR_BUYMEACOFFEE_OR_STRIPE_LINK"
+            href="https://buy.stripe.com/5kQ14p2Dgbbn8nWdZB9sk00"
             target="_blank"
             rel="noopener noreferrer"
             style={{ display: 'block', padding: '40px 36px', background: 'var(--ink)', textDecoration: 'none', cursor: 'pointer', transition: 'background 0.2s' }}
