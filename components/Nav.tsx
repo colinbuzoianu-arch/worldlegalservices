@@ -57,13 +57,13 @@ export default function Nav() {
         </Link>
 
         <div style={{ display: 'flex', alignItems: 'center', gap: 0 }} className="desktop-nav">
-          <ul style={{ display: 'flex', gap: 20, listStyle: 'none', margin: 0, padding: 0 }}>
+          <ul style={{ display: 'flex', gap: 16, listStyle: 'none', margin: 0, padding: 0 }}>
             {links.map(l => (
               <li key={l.href}>
                 <Link href={l.href} style={{
                   fontFamily: "'Cormorant Garamond', serif", fontSize: 11, fontWeight: 500,
                   letterSpacing: '0.06em', textTransform: 'uppercase', color: 'var(--ink-soft)',
-                  textDecoration: 'none', transition: 'color 0.2s',
+                  textDecoration: 'none', transition: 'color 0.2s', whiteSpace: 'nowrap',
                 }}
                 onMouseEnter={e => (e.target as HTMLElement).style.color = 'var(--ink)'}
                 onMouseLeave={e => (e.target as HTMLElement).style.color = 'var(--ink-soft)'}
