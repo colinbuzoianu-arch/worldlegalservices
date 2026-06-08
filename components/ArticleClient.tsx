@@ -18,7 +18,7 @@ export default function ArticleClient({ pillar, article, content }: { pillar: Pi
 
   return (
     <>
-      <section style={{ borderBottom: '1px solid var(--border)', padding: '64px 48px 56px', maxWidth: 1100, margin: '0 auto' }}>
+      <section className="article-header" style={{ borderBottom: '1px solid var(--border)', padding: '64px 48px 56px', maxWidth: 1100, margin: '0 auto' }}>
         <div style={{ fontFamily: "'Cormorant Garamond',serif", fontSize: 11, fontWeight: 500, letterSpacing: '0.2em', textTransform: 'uppercase', color: 'var(--ink-muted)', marginBottom: 24, display: 'flex', alignItems: 'center', gap: 10 }}>
           <Link href={`/${locale}`} style={{ color: 'var(--ink-muted)', textDecoration: 'none' }}>WLS</Link>
           <span>·</span>
@@ -26,11 +26,11 @@ export default function ArticleClient({ pillar, article, content }: { pillar: Pi
           <span>·</span>
           <span style={{ color: 'var(--gold)' }}>{article.number}</span>
         </div>
-        <h1 style={{ fontFamily: "'Playfair Display',serif", fontSize: 42, fontWeight: 700, lineHeight: 1.15, color: 'var(--ink)', maxWidth: 780, marginBottom: 32 }}>{articleTitle}</h1>
-        <p style={{ fontFamily: "'Crimson Pro',serif", fontSize: 21, fontWeight: 300, color: 'var(--ink-soft)', lineHeight: 1.65, maxWidth: 680, borderLeft: '2px solid var(--gold)', paddingLeft: 24 }}>{articleExcerpt}</p>
+        <h1 className="article-h1" style={{ fontFamily: "'Playfair Display',serif", fontSize: 42, fontWeight: 700, lineHeight: 1.15, color: 'var(--ink)', maxWidth: 780, marginBottom: 32 }}>{articleTitle}</h1>
+        <p className="article-excerpt" style={{ fontFamily: "'Crimson Pro',serif", fontSize: 21, fontWeight: 300, color: 'var(--ink-soft)', lineHeight: 1.65, maxWidth: 680, borderLeft: '2px solid var(--gold)', paddingLeft: 24 }}>{articleExcerpt}</p>
       </section>
 
-      <section style={{ maxWidth: 760, margin: '0 auto', padding: '64px 48px' }}>
+      <section className="article-content" style={{ maxWidth: 760, margin: '0 auto', padding: '64px 48px' }}>
         {content ? (
           <div
             className="prose-wls"
@@ -46,8 +46,8 @@ export default function ArticleClient({ pillar, article, content }: { pillar: Pi
         )}
       </section>
 
-      <section style={{ borderTop: '1px solid var(--border)', maxWidth: 1100, margin: '0 auto', padding: '48px 48px' }}>
-        <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 24 }}>
+      <section className="article-footer" style={{ borderTop: '1px solid var(--border)', maxWidth: 1100, margin: '0 auto', padding: '48px 48px' }}>
+        <div className="article-nav-grid" style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 24 }}>
           {prev ? (() => {
             const prevKey = slugToKey(prev.slug);
             const prevTitle = t.raw(`pillars.${pillarKey}.articles.${prevKey}.title`) as string;

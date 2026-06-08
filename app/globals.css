@@ -100,3 +100,57 @@ body {
   font-style: italic;
   color: var(--ink-soft);
 }
+
+/* ─── Mobile responsive ─── */
+@media (max-width: 768px) {
+  /* Home – hero */
+  .home-hero-section { padding: 56px 24px 48px !important; }
+  .home-hero-grid { grid-template-columns: 1fr !important; gap: 40px !important; align-items: start !important; }
+  .home-hero-h1 { font-size: 36px !important; }
+
+  /* Home – AI section */
+  .home-ai-section { padding: 48px 24px !important; }
+  .home-featured-grid { grid-template-columns: 1fr !important; gap: 0 !important; }
+  .home-articles-grid { grid-template-columns: 1fr !important; }
+  .home-third-inner { grid-template-columns: 1fr !important; }
+
+  /* Home – pillars */
+  .home-pillars-grid { grid-template-columns: repeat(2, 1fr) !important; }
+
+  /* Home – manifesto */
+  .home-manifesto { padding: 60px 24px !important; }
+
+  /* Home – economic teaser */
+  .home-economic-section { padding: 48px 24px !important; }
+  .home-economic-grid { grid-template-columns: 1fr !important; }
+  .home-economic-left { border-right: none !important; border-bottom: 1px solid var(--border) !important; }
+
+  /* Article page */
+  .article-header { padding: 48px 24px 40px !important; }
+  .article-h1 { font-size: 28px !important; }
+  .article-excerpt { font-size: 17px !important; }
+  .article-content { padding: 40px 24px !important; }
+  .article-footer { padding: 32px 24px !important; }
+  .article-nav-grid { grid-template-columns: 1fr !important; }
+
+  /* Pillar page */
+  .pillar-header { padding: 48px 24px 40px !important; }
+  .pillar-h1 { font-size: 32px !important; }
+  .pillar-content { padding: 40px 24px !important; }
+  .pillar-featured-grid { grid-template-columns: 1fr !important; }
+  .pillar-article-item { grid-template-columns: 1fr !important; gap: 16px !important; padding: 28px 24px !important; }
+  .pillar-article-num { display: none !important; }
+  .pillar-article-cta { display: none !important; }
+  .pillar-other-section { padding: 40px 24px !important; }
+  .pillar-other-grid { grid-template-columns: repeat(2, 1fr) !important; gap: 16px !important; }
+
+  /* About page */
+  .about-header { padding: 48px 24px 40px !important; }
+  .about-h1 { font-size: 32px !important; }
+  .about-content { padding: 40px 24px !important; }
+  .about-ctas-grid { grid-template-columns: 1fr !important; }
+
+  /* Prose font size */
+  .prose-wls { font-size: 17px !important; }
+  .prose-wls h2 { font-size: 22px !important; }
+}

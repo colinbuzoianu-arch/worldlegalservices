@@ -22,14 +22,14 @@ export default function HomeClient() {
   return (
     <>
       {/* HERO */}
-      <section style={{ borderBottom: '1px solid var(--border)', padding: '100px 48px 80px', maxWidth: 1100, margin: '0 auto' }}>
-        <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 80, alignItems: 'end' }}>
+      <section className="home-hero-section" style={{ borderBottom: '1px solid var(--border)', padding: '100px 48px 80px', maxWidth: 1100, margin: '0 auto' }}>
+        <div className="home-hero-grid" style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 80, alignItems: 'end' }}>
           <div className="animate-fade-up">
             <div style={{ fontFamily: "'Cormorant Garamond',serif", fontSize: 11, fontWeight: 500, letterSpacing: '0.25em', textTransform: 'uppercase', color: 'var(--gold)', marginBottom: 24, display: 'flex', alignItems: 'center', gap: 12 }}>
               <span style={{ display: 'inline-block', width: 28, height: 1, background: 'var(--gold)' }} />
               {t('home.hero.decoratorLabel')}
             </div>
-            <h1 style={{ fontFamily: "'Playfair Display',serif", fontSize: 52, fontWeight: 700, lineHeight: 1.1, letterSpacing: '-0.01em', color: 'var(--ink)', marginBottom: 28 }}>
+            <h1 className="home-hero-h1" style={{ fontFamily: "'Playfair Display',serif", fontSize: 52, fontWeight: 700, lineHeight: 1.1, letterSpacing: '-0.01em', color: 'var(--ink)', marginBottom: 28 }}>
               {t('home.hero.headline1')}<br /><em style={{ fontStyle: 'italic', color: 'var(--gold)' }}>{t('home.hero.headline2')}</em><br />{t('home.hero.headline3')}
             </h1>
             <p style={{ fontFamily: "'Crimson Pro',serif", fontSize: 20, fontWeight: 300, color: 'var(--ink-soft)', lineHeight: 1.6, borderLeft: '2px solid var(--gold)', paddingLeft: 20, marginBottom: 40 }}>
@@ -67,7 +67,7 @@ export default function HomeClient() {
       </section>
 
       {/* AI GOVERNANCE FOUNDING DOCUMENTS */}
-      <section style={{ maxWidth: 1100, margin: '0 auto', padding: '80px 48px' }}>
+      <section className="home-ai-section" style={{ maxWidth: 1100, margin: '0 auto', padding: '80px 48px' }}>
         <div style={{ display: 'flex', alignItems: 'baseline', justifyContent: 'space-between', marginBottom: 48, paddingBottom: 20, borderBottom: '1px solid var(--border)' }}>
           <div style={{ fontFamily: "'Playfair Display',serif", fontSize: 13, fontWeight: 400, letterSpacing: '0.2em', textTransform: 'uppercase', color: 'var(--ink-soft)' }}>
             <span style={{ color: 'var(--gold)', marginRight: 12 }}>I.</span> {t('home.aiSection.sectionLabel')}
@@ -85,7 +85,7 @@ export default function HomeClient() {
             const articleQuote = (t.raw(`pillars.aiGovernance.articles.${articleKey}`) as Record<string, string>).quote ?? featuredArticle.quote;
             return (
               <Link href={`/${locale}/ai-governance/${featuredArticle.slug}`} style={{ textDecoration: 'none' }}>
-                <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 48, padding: 40, background: 'var(--cream)', cursor: 'pointer', transition: 'background 0.2s' }}
+                <div className="home-featured-grid" style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 48, padding: 40, background: 'var(--cream)', cursor: 'pointer', transition: 'background 0.2s' }}
                   onMouseEnter={e => (e.currentTarget as HTMLElement).style.background = 'var(--gold-pale)'}
                   onMouseLeave={e => (e.currentTarget as HTMLElement).style.background = 'var(--cream)'}>
                   <div>
@@ -110,7 +110,7 @@ export default function HomeClient() {
           })()}
 
           {/* Other articles grid */}
-          <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 1, background: 'var(--border)' }}>
+          <div className="home-articles-grid" style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 1, background: 'var(--border)' }}>
             {otherArticles.slice(0, 2).map(article => {
               const articleKey = slugToKey(article.slug);
               const articleTitle = t.raw(`pillars.aiGovernance.articles.${articleKey}.title`) as string;
@@ -140,7 +140,7 @@ export default function HomeClient() {
                 <div style={{ padding: 40, background: 'var(--warm-white)', borderTop: '1px solid var(--border)', cursor: 'pointer', transition: 'background 0.2s' }}
                   onMouseEnter={e => (e.currentTarget as HTMLElement).style.background = 'var(--cream)'}
                   onMouseLeave={e => (e.currentTarget as HTMLElement).style.background = 'var(--warm-white)'}>
-                  <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 48 }}>
+                  <div className="home-third-inner" style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 48 }}>
                     <div>
                       <div style={{ fontFamily: "'Playfair Display',serif", fontSize: 11, letterSpacing: '0.2em', color: 'var(--gold)', textTransform: 'uppercase', marginBottom: 16 }}>{otherArticles[2].number}</div>
                       <h3 style={{ fontFamily: "'Playfair Display',serif", fontSize: 19, fontWeight: 600, lineHeight: 1.25, color: 'var(--ink)' }}>{articleTitle}</h3>
@@ -164,7 +164,7 @@ export default function HomeClient() {
           <div style={{ fontFamily: "'Crimson Pro',serif", fontSize: 14, fontWeight: 300, color: 'var(--ink-muted)' }}>{t('home.pillarsSection.sectionSubtitle')}</div>
         </div>
 
-        <div style={{ display: 'grid', gridTemplateColumns: 'repeat(5,1fr)', gap: 1, background: 'var(--border)', border: '1px solid var(--border)' }}>
+        <div className="home-pillars-grid" style={{ display: 'grid', gridTemplateColumns: 'repeat(5,1fr)', gap: 1, background: 'var(--border)', border: '1px solid var(--border)' }}>
           {pillars.map((pillar, i) => {
             const pillarKey = slugToKey(pillar.slug);
             const pillarTitle = t.raw(`pillars.${pillarKey}.title`) as string;
@@ -203,7 +203,7 @@ export default function HomeClient() {
       </section>
 
       {/* MANIFESTO STRIP */}
-      <section style={{ background: 'var(--ink)', padding: '80px 48px', textAlign: 'center' }}>
+      <section className="home-manifesto" style={{ background: 'var(--ink)', padding: '80px 48px', textAlign: 'center' }}>
         <div style={{ maxWidth: 700, margin: '0 auto' }}>
           <div style={{ fontFamily: "'Cormorant Garamond',serif", fontSize: 11, fontWeight: 500, letterSpacing: '0.25em', textTransform: 'uppercase', color: 'var(--gold-light)', marginBottom: 32 }}>{t('home.manifesto.label')}</div>
           <div style={{ width: 40, height: 1, background: 'var(--gold)', margin: '0 auto 32px' }} />
@@ -217,9 +217,9 @@ export default function HomeClient() {
       </section>
 
       {/* ECONOMIC LAYER TEASER */}
-      <section style={{ maxWidth: 1100, margin: '0 auto', padding: '80px 48px' }}>
-        <div style={{ border: '1px solid var(--border)', display: 'grid', gridTemplateColumns: '1fr 1fr' }}>
-          <div style={{ padding: 48, borderRight: '1px solid var(--border)' }}>
+      <section className="home-economic-section" style={{ maxWidth: 1100, margin: '0 auto', padding: '80px 48px' }}>
+        <div className="home-economic-grid" style={{ border: '1px solid var(--border)', display: 'grid', gridTemplateColumns: '1fr 1fr' }}>
+          <div className="home-economic-left" style={{ padding: 48, borderRight: '1px solid var(--border)' }}>
             <div style={{ fontFamily: "'Cormorant Garamond',serif", fontSize: 11, fontWeight: 600, letterSpacing: '0.2em', textTransform: 'uppercase', color: 'var(--gold)', marginBottom: 20 }}>{t('home.economic.label')}</div>
             <h2 style={{ fontFamily: "'Playfair Display',serif", fontSize: 28, fontWeight: 600, lineHeight: 1.25, color: 'var(--ink)', marginBottom: 20 }}>{t('home.economic.title')}</h2>
             <p style={{ fontFamily: "'Crimson Pro',serif", fontSize: 17, fontWeight: 300, color: 'var(--ink-soft)', lineHeight: 1.75, marginBottom: 28 }}>

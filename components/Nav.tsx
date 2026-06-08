@@ -46,13 +46,8 @@ export default function Nav() {
             height={48}
             style={{ opacity: 0.92, objectFit: 'contain' }}
           />
-          <div>
-            <div style={{ fontFamily: "'Cormorant Garamond', serif", fontSize: 13, fontWeight: 600, letterSpacing: '0.18em', textTransform: 'uppercase', color: 'var(--ink)' }}>
-              World Legal Services
-            </div>
-            <div style={{ fontFamily: "'Crimson Pro', serif", fontSize: 10, fontWeight: 300, letterSpacing: '0.12em', color: 'var(--gold)', textTransform: 'uppercase' }}>
-              {t('brand.tagline')}
-            </div>
+          <div style={{ fontFamily: "'Cormorant Garamond', serif", fontSize: 13, fontWeight: 600, letterSpacing: '0.18em', textTransform: 'uppercase', color: 'var(--ink)' }}>
+            World Legal Services
           </div>
         </Link>
 

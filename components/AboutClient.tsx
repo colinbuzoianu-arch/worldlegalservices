@@ -17,18 +17,18 @@ export default function AboutClient() {
 
   return (
     <>
-      <section style={{ borderBottom: '1px solid var(--border)', padding: '80px 48px 64px', maxWidth: 1100, margin: '0 auto' }}>
+      <section className="about-header" style={{ borderBottom: '1px solid var(--border)', padding: '80px 48px 64px', maxWidth: 1100, margin: '0 auto' }}>
         <div style={{ fontFamily: "'Cormorant Garamond',serif", fontSize: 11, fontWeight: 500, letterSpacing: '0.25em', textTransform: 'uppercase', color: 'var(--gold)', marginBottom: 20, display: 'flex', alignItems: 'center', gap: 12 }}>
           <span style={{ display: 'inline-block', width: 28, height: 1, background: 'var(--gold)' }} />
           {t('about.sectionLabel')}
         </div>
-        <h1 style={{ fontFamily: "'Playfair Display',serif", fontSize: 48, fontWeight: 700, lineHeight: 1.1, color: 'var(--ink)', marginBottom: 24, maxWidth: 700 }}>{t('about.heading')}</h1>
+        <h1 className="about-h1" style={{ fontFamily: "'Playfair Display',serif", fontSize: 48, fontWeight: 700, lineHeight: 1.1, color: 'var(--ink)', marginBottom: 24, maxWidth: 700 }}>{t('about.heading')}</h1>
         <p style={{ fontFamily: "'Crimson Pro',serif", fontSize: 21, fontWeight: 300, color: 'var(--ink-soft)', lineHeight: 1.65, maxWidth: 660, borderLeft: '2px solid var(--gold)', paddingLeft: 24 }}>
           {t('about.intro')}
         </p>
       </section>
 
-      <section style={{ maxWidth: 900, margin: '0 auto', padding: '64px 48px' }}>
+      <section className="about-content" style={{ maxWidth: 900, margin: '0 auto', padding: '64px 48px' }}>
         <div className="prose-wls">
 
           <h2>{t('about.platformHeading')}</h2>
@@ -102,7 +102,7 @@ export default function AboutClient() {
         </div>
 
         {/* CTAs */}
-        <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr 1fr', gap: 1, background: 'var(--border)', border: '1px solid var(--border)', marginTop: 48 }}>
+        <div className="about-ctas-grid" style={{ display: 'grid', gridTemplateColumns: '1fr 1fr 1fr', gap: 1, background: 'var(--border)', border: '1px solid var(--border)', marginTop: 48 }}>
           {(['founding', 'learning', 'collaborate'] as const).map(key => {
             const cta = t.raw(`about.ctas.${key}`) as { title: string; desc: string; label: string };
             return (

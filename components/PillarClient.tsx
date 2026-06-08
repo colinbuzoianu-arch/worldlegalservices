@@ -16,17 +16,17 @@ export default function PillarClient({ pillar }: { pillar: Pillar }) {
 
   return (
     <>
-      <section style={{ borderBottom: '1px solid var(--border)', padding: '80px 48px 64px', maxWidth: 1100, margin: '0 auto' }}>
+      <section className="pillar-header" style={{ borderBottom: '1px solid var(--border)', padding: '80px 48px 64px', maxWidth: 1100, margin: '0 auto' }}>
         <div style={{ fontFamily: "'Cormorant Garamond',serif", fontSize: 11, fontWeight: 500, letterSpacing: '0.25em', textTransform: 'uppercase', color: 'var(--gold)', marginBottom: 20, display: 'flex', alignItems: 'center', gap: 12 }}>
           <Link href={`/${locale}`} style={{ color: 'var(--ink-muted)', textDecoration: 'none' }}>{t('pillarPage.breadcrumbHome')}</Link>
           <span style={{ color: 'var(--border)' }}>·</span>
           <span>{t('pillarPage.breadcrumbPillar', { number: pillar.number })}</span>
         </div>
-        <h1 style={{ fontFamily: "'Playfair Display',serif", fontSize: 48, fontWeight: 700, lineHeight: 1.1, color: 'var(--ink)', marginBottom: 24, maxWidth: 700 }}>{pillarTitle}</h1>
+        <h1 className="pillar-h1" style={{ fontFamily: "'Playfair Display',serif", fontSize: 48, fontWeight: 700, lineHeight: 1.1, color: 'var(--ink)', marginBottom: 24, maxWidth: 700 }}>{pillarTitle}</h1>
         <p style={{ fontFamily: "'Crimson Pro',serif", fontSize: 20, fontWeight: 300, color: 'var(--ink-soft)', lineHeight: 1.6, maxWidth: 640, borderLeft: '2px solid var(--gold)', paddingLeft: 20 }}>{pillarQuestion}</p>
       </section>
 
-      <section style={{ maxWidth: 1100, margin: '0 auto', padding: '64px 48px' }}>
+      <section className="pillar-content" style={{ maxWidth: 1100, margin: '0 auto', padding: '64px 48px' }}>
         {featured && (() => {
           const featuredKey = slugToKey(featured.slug);
           const featuredTitle = t.raw(`pillars.${pillarKey}.articles.${featuredKey}.title`) as string;
@@ -36,7 +36,7 @@ export default function PillarClient({ pillar }: { pillar: Pillar }) {
           const featuredQuote = featuredData.quote ?? featured.quote;
           return (
             <Link href={`/${locale}/${pillar.slug}/${featured.slug}`} style={{ textDecoration: 'none', display: 'block', marginBottom: 1 }}>
-              <div style={{ border: '1px solid var(--border)', display: 'grid', gridTemplateColumns: '3fr 2fr', background: 'var(--cream)', marginBottom: 1, cursor: 'pointer', transition: 'background 0.2s' }}
+              <div className="pillar-featured-grid" style={{ border: '1px solid var(--border)', display: 'grid', gridTemplateColumns: '3fr 2fr', background: 'var(--cream)', marginBottom: 1, cursor: 'pointer', transition: 'background 0.2s' }}
                 onMouseEnter={e => (e.currentTarget as HTMLElement).style.background = 'var(--gold-pale)'}
                 onMouseLeave={e => (e.currentTarget as HTMLElement).style.background = 'var(--cream)'}>
                 <div style={{ padding: 48 }}>
@@ -65,16 +65,16 @@ export default function PillarClient({ pillar }: { pillar: Pillar }) {
             const articleExcerpt = t.raw(`pillars.${pillarKey}.articles.${articleKey}.excerpt`) as string;
             return (
               <Link key={article.slug} href={`/${locale}/${pillar.slug}/${article.slug}`} style={{ textDecoration: 'none' }}>
-                <div style={{ display: 'grid', gridTemplateColumns: 'auto 1fr auto', gap: 32, alignItems: 'start', padding: '36px 40px', background: 'var(--warm-white)', cursor: 'pointer', transition: 'background 0.2s' }}
+                <div className="pillar-article-item" style={{ display: 'grid', gridTemplateColumns: 'auto 1fr auto', gap: 32, alignItems: 'start', padding: '36px 40px', background: 'var(--warm-white)', cursor: 'pointer', transition: 'background 0.2s' }}
                   onMouseEnter={e => (e.currentTarget as HTMLElement).style.background = 'var(--cream)'}
                   onMouseLeave={e => (e.currentTarget as HTMLElement).style.background = 'var(--warm-white)'}>
-                  <div style={{ fontFamily: "'Playfair Display',serif", fontSize: 32, fontWeight: 400, color: 'var(--border)', lineHeight: 1, paddingTop: 4 }}>0{i + 1}</div>
+                  <div className="pillar-article-num" style={{ fontFamily: "'Playfair Display',serif", fontSize: 32, fontWeight: 400, color: 'var(--border)', lineHeight: 1, paddingTop: 4 }}>0{i + 1}</div>
                   <div>
                     <div style={{ fontFamily: "'Playfair Display',serif", fontSize: 11, letterSpacing: '0.2em', color: 'var(--gold)', textTransform: 'uppercase', marginBottom: 10 }}>{article.number}</div>
                     <h3 style={{ fontFamily: "'Playfair Display',serif", fontSize: 20, fontWeight: 600, lineHeight: 1.3, color: 'var(--ink)', marginBottom: 12 }}>{articleTitle}</h3>
                     <p style={{ fontFamily: "'Crimson Pro',serif", fontSize: 16, fontWeight: 300, color: 'var(--ink-soft)', lineHeight: 1.7 }}>{articleExcerpt}</p>
                   </div>
-                  <div style={{ fontFamily: "'Cormorant Garamond',serif", fontSize: 12, fontWeight: 600, letterSpacing: '0.15em', textTransform: 'uppercase', color: 'var(--gold)', paddingTop: 8, whiteSpace: 'nowrap' }}>
+                  <div className="pillar-article-cta" style={{ fontFamily: "'Cormorant Garamond',serif", fontSize: 12, fontWeight: 600, letterSpacing: '0.15em', textTransform: 'uppercase', color: 'var(--gold)', paddingTop: 8, whiteSpace: 'nowrap' }}>
                     {t('pillarPage.readArticle')}
                   </div>
                 </div>
@@ -84,9 +84,9 @@ export default function PillarClient({ pillar }: { pillar: Pillar }) {
         </div>
       </section>
 
-      <section style={{ borderTop: '1px solid var(--border)', padding: '64px 48px', maxWidth: 1100, margin: '0 auto' }}>
+      <section className="pillar-other-section" style={{ borderTop: '1px solid var(--border)', padding: '64px 48px', maxWidth: 1100, margin: '0 auto' }}>
         <div style={{ fontFamily: "'Cormorant Garamond',serif", fontSize: 11, fontWeight: 600, letterSpacing: '0.2em', textTransform: 'uppercase', color: 'var(--ink-soft)', marginBottom: 32 }}>{t('pillarPage.otherPillars')}</div>
-        <div style={{ display: 'grid', gridTemplateColumns: 'repeat(4,1fr)', gap: 24 }}>
+        <div className="pillar-other-grid" style={{ display: 'grid', gridTemplateColumns: 'repeat(4,1fr)', gap: 24 }}>
           {pillars.filter(p => p.slug !== pillar.slug).map(p => {
             const pKey = slugToKey(p.slug);
             const pTitle = t.raw(`pillars.${pKey}.title`) as string;
