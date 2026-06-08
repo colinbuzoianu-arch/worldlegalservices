@@ -252,5 +252,54 @@
         }
       }
     }
+  },
+  "support": {
+    "sectionLabel": "Susținerea Acestei Munci",
+    "heading": "Analiza Independentă",
+    "headingEm": "Cere Independență",
+    "intro": "World Legal Services nu acceptă finanțare instituțională, publicitate sau sponsorizare din partea unor interese care i-ar putea modela concluziile. Dacă găsiți munca valoroasă, o puteți susține direct.",
+    "body1": "World Legal Services este scrisă de o singură persoană, în Timișoara, România, fără suport instituțional, fără venituri din publicitate și fără obligații editoriale față de vreo organizație.",
+    "body2": "Fiecare articol de pe această platformă reprezintă ore de cercetare, analiză juridică și scriere atentă — muncă realizată pentru că întrebările contează, nu pentru că un finanțator a dirijat investigația sau un algoritm a recompensat rezultatul. Independența care face această analiză onestă este aceeași independență care o face precară financiar.",
+    "body3": "Angajamentul editorial al platformei — fără finanțare instituțională, fără publicitate, fără sponsorizare din partea unor interese care i-ar putea modela concluziile — nu este o poziție de marketing. Este condiția structurală care face munca demnă de a fi citită. Menținerea sa cere ca persoanele care găsesc valoare în analiză să fie cele care o susțin.",
+    "body4": "Dacă munca de pe această platformă v-a oferit o viziune mai clară asupra unei probleme de guvernanță, a unei lacune juridice sau a unui eșec de politică — și dacă credeți că acest tip de analiză independentă, bazată pe dovezi, dintr-o perspectivă central-europeană merită să existe și să se dezvolte — o puteți susține direct.",
+    "fundingLabel": "Ce Finanțează Sprijinul Dumneavoastră",
+    "funding": {
+      "research": {
+        "title": "Cercetare și Scriere",
+        "desc": "Fiecare articol de pe această platformă necesită cercetare susținută în baze de date juridice, documente de politică, literatură academică și surse primare. Sprijinul dumneavoastră finanțează acel timp direct — timp care nu poate fi cumpărat de la o instituție fără a crea obligațiile editoriale pe care această platformă le refuză."
+      },
+      "platform": {
+        "title": "Platforma de Învățare",
+        "desc": "Learning Platform WLS — prin care cetățenii vor câștiga tokenuri de participare la guvernanță demonstrând cunoașterea principiilor fundamentale — se află în dezvoltare activă. Este motorul întregii economii civice WLS. Construirea sa cere investiții tehnice și editoriale susținute, fără un model de randament comercial."
+      },
+      "framework": {
+        "title": "Cadrul de Guvernanță AI",
+        "desc": "Conceptul de Parlament AI, arhitectura de deliberare multi-agent, proiectul constituției morale — acestea sunt idei care necesită cercetare juridică, dezvoltare tehnică și construirea de relații instituționale pentru a trece de la documente fondatoare la sisteme funcționale. Acea muncă nu are un patron instituțional."
+      },
+      "independence": {
+        "title": "Independența Platformei",
+        "desc": "Cel mai important lucru pe care îl finanțează sprijinul dumneavoastră este absența altor finanțări. Fiecare euro care vine direct de la cititori care prețuiesc munca este un euro care nu trebuie să vină de la o organizație care ar putea dori ceva în schimb. Independența nu este gratuită. Este finanțată, un cititor la un moment dat."
+      }
+    },
+    "closingPara": "Sprijinul dumneavoastră nu cumpără influență asupra a ceea ce se scrie. Nu vă aduce recunoaștere pe platformă. Nu creează nicio obligație în afara celei pe care această platformă o are deja față de fiecare cititor: analiză onestă, independentă de cine o plătește.",
+    "quote": "Cele mai durabile perspective morale au fost produse de oameni care nu aveau nimic altceva decât credința că adevărul are valoare independent de faptul că cineva ascultă. Această platformă există în acea tradiție — și depinde de cititori care înțeleg de ce contează acea tradiție.",
+    "attribution": "— Colin Buzoianu, Timișoara",
+    "ctaSupport": "Sprijin unic",
+    "ctaTitle": "Susțineți Această Muncă",
+    "ctaDesc": "Orice sumă. Fără condiții. Sprijin direct pentru analiză independentă.",
+    "ctaCta": "Contribuiți →",
+    "firewallLabel": "Ce Nu Este",
+    "firewallTitle": "Bariera Editorială",
+    "firewall": {
+      "item1": "Nicio influență asupra analizei publicate",
+      "item2": "Nicio recunoaștere nominală pe platformă",
+      "item3": "Niciun acces la poziții nepublicate",
+      "item4": "Nicio relație editorială de niciun fel",
+      "item5": "Nicio afiliere instituțională implicată"
+    },
+    "bottomNote": "Preferați să contribuiți într-un alt mod? Distribuirea articolelor platformei, citarea analizei sale sau scrierea pentru a vă angaja cu argumentele sale sunt la fel de prețuite.",
+    "backToAbout": "← Înapoi la Despre",
+    "manifestoLabel": "Angajamentul Platformei",
+    "manifestoQuote": "Independentă. Bazată pe dovezi. Responsabilă față de cititorii săi și față de nimeni altcineva."
   }
 }

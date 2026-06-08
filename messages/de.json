@@ -252,5 +252,54 @@
         }
       }
     }
+  },
+  "support": {
+    "sectionLabel": "Diese Arbeit unterstützen",
+    "heading": "Unabhängige Analyse",
+    "headingEm": "Erfordert Unabhängigkeit",
+    "intro": "World Legal Services akzeptiert keine institutionelle Finanzierung, keine Werbung und kein Sponsoring durch Interessen, die seine Schlussfolgerungen prägen könnten. Wer die Arbeit für wertvoll hält, kann sie unmittelbar unterstützen.",
+    "body1": "World Legal Services wird von einer einzigen Person verfasst, in Timișoara, Rumänien — ohne institutionelle Rückendeckung, ohne Werbeeinnahmen und ohne redaktionelle Verpflichtungen gegenüber irgendeiner Organisation.",
+    "body2": "Jeder Beitrag auf dieser Plattform steht für Stunden der Recherche, juristischen Analyse und sorgfältigen Niederschrift — geleistet, weil die Fragen von Bedeutung sind, nicht weil ein Geldgeber die Untersuchung gelenkt oder ein Algorithmus das Ergebnis belohnt hätte. Die Unabhängigkeit, die diese Analyse redlich macht, ist dieselbe Unabhängigkeit, die sie finanziell prekär macht.",
+    "body3": "Die redaktionelle Selbstverpflichtung der Plattform — keine institutionelle Finanzierung, keine Werbung, kein Sponsoring durch Interessen, die ihre Schlussfolgerungen prägen könnten — ist keine Marketingposition. Sie ist die strukturelle Bedingung dafür, dass die Arbeit überhaupt lesenswert ist. Sie aufrechtzuerhalten setzt voraus, dass jene, die der Analyse Wert beimessen, auch jene sind, die sie tragen.",
+    "body4": "Wenn die Arbeit auf dieser Plattform Ihnen einen klareren Blick auf ein Governance-Problem, eine rechtliche Lücke oder ein politisches Versagen verschafft hat — und wenn Sie überzeugt sind, dass diese Art unabhängiger, evidenzbasierter Analyse aus mitteleuropäischer Perspektive Anspruch darauf hat, zu existieren und zu wachsen —, dann können Sie sie unmittelbar unterstützen.",
+    "fundingLabel": "Was Ihre Unterstützung finanziert",
+    "funding": {
+      "research": {
+        "title": "Recherche und Niederschrift",
+        "desc": "Jeder Beitrag auf dieser Plattform erfordert anhaltende Recherche in Rechtsdatenbanken, politischen Dokumenten, wissenschaftlicher Literatur und Primärquellen. Ihre Unterstützung finanziert diese Zeit unmittelbar — Zeit, die sich nicht von einer Institution erkaufen lässt, ohne genau jene redaktionellen Verpflichtungen zu schaffen, die diese Plattform ablehnt."
+      },
+      "platform": {
+        "title": "Die Learning Platform",
+        "desc": "Die WLS Learning Platform — über die Bürgerinnen und Bürger Token zur Governance-Teilhabe erwerben werden, indem sie ihre Kenntnis der grundlegenden Prinzipien nachweisen — befindet sich in aktiver Entwicklung. Sie ist das Triebwerk der gesamten zivilen Ökonomie von WLS. Ihr Aufbau erfordert anhaltende technische und redaktionelle Investitionen ohne kommerzielles Renditemodell."
+      },
+      "framework": {
+        "title": "Das Rahmenwerk zur KI-Governance",
+        "desc": "Das Konzept des KI-Parlaments, die Architektur der Multi-Agenten-Deliberation, das Projekt einer moralischen Verfassung — dies sind Ideen, die juristische Forschung, technische Entwicklung und institutionellen Beziehungsaufbau verlangen, um aus Gründungsdokumenten funktionierende Systeme werden zu lassen. Diese Arbeit hat keinen institutionellen Mäzen."
+      },
+      "independence": {
+        "title": "Die Unabhängigkeit der Plattform",
+        "desc": "Das Wichtigste, was Ihre Unterstützung finanziert, ist die Abwesenheit anderer Finanzierung. Jeder Euro, der unmittelbar von Leserinnen und Lesern stammt, die die Arbeit schätzen, ist ein Euro, der nicht von einer Organisation kommen muss, die möglicherweise eine Gegenleistung erwartet. Unabhängigkeit ist nicht umsonst zu haben. Sie wird finanziert, einen Leser nach dem anderen."
+      }
+    },
+    "closingPara": "Ihre Unterstützung erkauft keinen Einfluss darauf, was geschrieben wird. Sie verschafft keine Erwähnung auf der Plattform. Sie begründet keine andere Verpflichtung als jene, der diese Plattform ohnehin gegenüber jedem Leser nachkommt: redliche Analyse, unabhängig davon, wer dafür bezahlt.",
+    "quote": "Die dauerhaftesten moralischen Einsichten wurden von Menschen hervorgebracht, die nichts hatten außer dem Glauben, dass Wahrheit einen Wert besitzt, unabhängig davon, ob jemand zuhört. Diese Plattform steht in dieser Tradition — und ist auf Leserinnen und Leser angewiesen, die verstehen, weshalb diese Tradition von Bedeutung ist.",
+    "attribution": "— Colin Buzoianu, Timișoara",
+    "ctaSupport": "Einmalige Unterstützung",
+    "ctaTitle": "Diese Arbeit unterstützen",
+    "ctaDesc": "Jeder Betrag. Ohne Bedingungen. Unmittelbare Unterstützung für unabhängige Analyse.",
+    "ctaCta": "Beitragen →",
+    "firewallLabel": "Was dies nicht ist",
+    "firewallTitle": "Die redaktionelle Brandmauer",
+    "firewall": {
+      "item1": "Kein Einfluss auf die veröffentlichte Analyse",
+      "item2": "Keine namentliche Erwähnung auf der Plattform",
+      "item3": "Kein Zugang zu unveröffentlichten Positionen",
+      "item4": "Keinerlei redaktionelle Beziehung",
+      "item5": "Keine angedeutete institutionelle Verbundenheit"
+    },
+    "bottomNote": "Möchten Sie auf andere Weise beitragen? Die Beiträge der Plattform zu teilen, ihre Analyse zu zitieren oder sich schreibend mit ihren Argumenten auseinanderzusetzen — all dies ist gleichermaßen geschätzt.",
+    "backToAbout": "← Zurück zu Über uns",
+    "manifestoLabel": "Die Selbstverpflichtung der Plattform",
+    "manifestoQuote": "Unabhängig. Evidenzbasiert. Rechenschaftspflichtig gegenüber ihren Lesern — und niemandem sonst."
   }
 }

@@ -252,5 +252,54 @@
         }
       }
     }
+  },
+  "support": {
+    "sectionLabel": "Supporting This Work",
+    "heading": "Independent Analysis",
+    "headingEm": "Requires Independence",
+    "intro": "World Legal Services accepts no institutional funding, no advertising, and no sponsorship from interests that could shape its conclusions. If you find the work valuable, you can support it directly.",
+    "body1": "World Legal Services is written by one person, in Timișoara, Romania, without institutional backing, without advertising revenue, and without editorial obligations to any organisation.",
+    "body2": "Every article on this platform represents hours of research, legal analysis, and careful writing — work done because the questions matter, not because a funder directed the inquiry or an algorithm rewarded the output. The independence that makes this analysis honest is the same independence that makes it financially precarious.",
+    "body3": "The platform's editorial commitment — no institutional funding, no advertising, no sponsorship from interests that could shape its conclusions — is not a marketing position. It is the structural condition that makes the work worth reading. Maintaining it requires that the people who find value in the analysis are the ones who sustain it.",
+    "body4": "If the work on this platform has given you a clearer view of a governance problem, a legal gap, or a policy failure — and if you believe that this kind of independent, evidence-based analysis from a Central European perspective deserves to exist and grow — you can support it directly.",
+    "fundingLabel": "What Your Support Funds",
+    "funding": {
+      "research": {
+        "title": "Research and Writing",
+        "desc": "Every article on this platform requires sustained research across legal databases, policy documents, academic literature, and primary sources. Your support funds that time directly — time that cannot be bought from an institution without creating the editorial obligations this platform refuses."
+      },
+      "platform": {
+        "title": "The Learning Platform",
+        "desc": "The WLS Learning Platform — through which citizens will earn governance participation tokens by demonstrating knowledge of foundational principles — is in active development. It is the engine of the entire WLS civic economy. Building it requires sustained technical and editorial investment with no commercial return model."
+      },
+      "framework": {
+        "title": "The AI Governance Framework",
+        "desc": "The AI Parliament concept, the multi-agent deliberation architecture, the moral constitution project — these are ideas that require legal research, technical development, and institutional relationship-building to move from founding documents to working systems. That work has no institutional patron."
+      },
+      "independence": {
+        "title": "Platform Independence",
+        "desc": "The most important thing your support funds is the absence of other funding. Every euro that comes directly from readers who value the work is a euro that does not need to come from an organisation that might want something in return. Independence is not free. It is financed, one reader at a time."
+      }
+    },
+    "closingPara": "Your support does not buy influence over what is written. It does not earn recognition on the platform. It does not create any obligation other than the one this platform already holds to every reader: honest analysis, independent of whoever pays for it.",
+    "quote": "The most enduring moral insights were produced by people who held nothing but the belief that truth had value independent of whether anyone was listening. This platform exists in that tradition — and depends on readers who understand why that tradition matters.",
+    "attribution": "— Colin Buzoianu, Timișoara",
+    "ctaSupport": "One-time Support",
+    "ctaTitle": "Support This Work",
+    "ctaDesc": "Any amount. No strings attached. Direct support for independent analysis.",
+    "ctaCta": "Contribute →",
+    "firewallLabel": "What This Is Not",
+    "firewallTitle": "The Editorial Firewall",
+    "firewall": {
+      "item1": "No influence over published analysis",
+      "item2": "No named recognition on the platform",
+      "item3": "No access to unpublished positions",
+      "item4": "No editorial relationship of any kind",
+      "item5": "No institutional affiliation implied"
+    },
+    "bottomNote": "Prefer to contribute in another way? Sharing the platform's articles, citing its analysis, or writing to engage with its arguments is equally valued.",
+    "backToAbout": "← Back to About",
+    "manifestoLabel": "The Platform's Commitment",
+    "manifestoQuote": "Independent. Evidence-based. Accountable to its readers and to no one else."
   }
 }
