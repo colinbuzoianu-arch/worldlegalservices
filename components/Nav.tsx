@@ -1,12 +1,14 @@
 'use client';
 import { useState, useEffect } from 'react';
 import Link from 'next/link';
+import { usePathname } from 'next/navigation';
 import { useTranslations, useLocale } from 'next-intl';
 import LangSwitcher from './LangSwitcher';
 
 export default function Nav() {
   const t = useTranslations();
   const locale = useLocale();
+  const pathname = usePathname();
   const [scrolled, setScrolled] = useState(false);
   const [menuOpen, setMenuOpen] = useState(false);
 
@@ -17,6 +19,7 @@ export default function Nav() {
     { href: `/${locale}/peace-frameworks`, label: t('nav.peaceFrameworks') },
     { href: `/${locale}/eastern-europe`, label: t('nav.easternEurope') },
     { href: `/${locale}/about`, label: t('nav.about') },
+    { href: `/${locale}/support`, label: t('nav.support') },
   ];
 
   useEffect(() => {
@@ -53,20 +56,28 @@ export default function Nav() {
 
         <div style={{ display: 'flex', alignItems: 'center', gap: 0 }} className="desktop-nav">
           <ul style={{ display: 'flex', gap: 16, listStyle: 'none', margin: 0, padding: 0 }}>
-            {links.map(l => (
-              <li key={l.href}>
-                <Link href={l.href} style={{
-                  fontFamily: "'Cormorant Garamond', serif", fontSize: 11, fontWeight: 500,
-                  letterSpacing: '0.06em', textTransform: 'uppercase', color: 'var(--ink-soft)',
-                  textDecoration: 'none', transition: 'color 0.2s', whiteSpace: 'nowrap',
-                }}
-                onMouseEnter={e => (e.target as HTMLElement).style.color = 'var(--ink)'}
-                onMouseLeave={e => (e.target as HTMLElement).style.color = 'var(--ink-soft)'}
-                >
-                  {l.label}
-                </Link>
-              </li>
-            ))}
+            {links.map(l => {
+              const isActive = pathname === l.href || pathname.startsWith(l.href + '/');
+              return (
+                <li key={l.href}>
+                  <Link href={l.href} style={{
+                    fontFamily: "'Cormorant Garamond', serif", fontSize: 11,
+                    fontWeight: isActive ? 600 : 500,
+                    letterSpacing: '0.06em', textTransform: 'uppercase',
+                    color: isActive ? 'var(--ink)' : 'var(--ink-soft)',
+                    textDecoration: 'none', whiteSpace: 'nowrap',
+                    paddingBottom: 4,
+                    borderBottom: isActive ? '1px solid var(--gold)' : '1px solid transparent',
+                    transition: 'all 0.2s',
+                  }}
+                  onMouseEnter={e => { if (!isActive) (e.currentTarget as HTMLElement).style.color = 'var(--ink)'; }}
+                  onMouseLeave={e => { if (!isActive) (e.currentTarget as HTMLElement).style.color = 'var(--ink-soft)'; }}
+                  >
+                    {l.label}
+                  </Link>
+                </li>
+              );
+            })}
           </ul>
           <LangSwitcher />
         </div>

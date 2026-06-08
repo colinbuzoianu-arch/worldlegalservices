@@ -153,4 +153,8 @@ body {
   /* Prose font size */
   .prose-wls { font-size: 17px !important; }
   .prose-wls h2 { font-size: 22px !important; }
+
+  /* Support page */
+  .support-funding-item { grid-template-columns: 1fr !important; gap: 8px !important; }
+  .support-cta-grid { grid-template-columns: 1fr !important; }
 }
