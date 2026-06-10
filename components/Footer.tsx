@@ -50,9 +50,14 @@ export default function Footer() {
           <div style={{ fontFamily: "'Crimson Pro', serif", fontSize: 13, fontWeight: 300, color: 'var(--ink-muted)' }}>
             {t('footer.copyright', { year: new Date().getFullYear() })}
           </div>
-          <Link href={`/${locale}/cookie-policy`} style={{ fontFamily: "'Crimson Pro', serif", fontSize: 13, fontWeight: 300, color: 'var(--ink-muted)', textDecoration: 'none' }}>
-            {t('footer.cookiePolicy')}
-          </Link>
+          <div style={{ display: 'flex', gap: 24, alignItems: 'center' }}>
+            <Link href={`/${locale}/privacy`} style={{ fontFamily: "'Crimson Pro', serif", fontSize: 13, fontWeight: 300, color: 'var(--ink-muted)', textDecoration: 'none' }}>
+              {t('footer.privacyPolicy')}
+            </Link>
+            <Link href={`/${locale}/cookies`} style={{ fontFamily: "'Crimson Pro', serif", fontSize: 13, fontWeight: 300, color: 'var(--ink-muted)', textDecoration: 'none' }}>
+              {t('footer.cookiePolicy')}
+            </Link>
+          </div>
           <div style={{ fontFamily: "'Crimson Pro', serif", fontSize: 13, fontWeight: 300, color: 'var(--ink-muted)' }}>
             {t('footer.tagline')}
           </div>

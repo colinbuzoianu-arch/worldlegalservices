@@ -1,10 +1,10 @@
 import type { Metadata } from 'next';
-import Script from 'next/script';
 import { NextIntlClientProvider } from 'next-intl';
 import { getMessages, setRequestLocale } from 'next-intl/server';
 import Nav from '@/components/Nav';
 import Footer from '@/components/Footer';
 import CookieBanner from '@/components/CookieBanner';
+import Analytics from '@/components/Analytics';
 import '../globals.css';
 
 export const metadata: Metadata = {
@@ -38,26 +38,13 @@ export default async function LocaleLayout({
 
   return (
     <html lang={locale}>
-      <head>
-        <Script
-          src="https://www.googletagmanager.com/gtag/js?id=G-YCDHWVYJGL"
-          strategy="afterInteractive"
-        />
-        <Script id="google-analytics" strategy="afterInteractive">
-          {`
-            window.dataLayer = window.dataLayer || [];
-            function gtag(){dataLayer.push(arguments);}
-            gtag('js', new Date());
-            gtag('config', 'G-YCDHWVYJGL');
-          `}
-        </Script>
-      </head>
       <body>
         <NextIntlClientProvider messages={messages} locale={locale}>
           <Nav />
           <main>{children}</main>
           <Footer />
           <CookieBanner />
+          <Analytics />
         </NextIntlClientProvider>
       </body>
     </html>
