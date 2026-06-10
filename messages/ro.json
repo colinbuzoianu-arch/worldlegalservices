@@ -108,7 +108,8 @@
     "learningPlatform": "Platformă de Învățare",
     "comingSoon": "În Curând",
     "copyright": "© {year} World Legal Services · Timișoara, România",
-    "tagline": "Independentă. Bazată pe dovezi. Responsabilă."
+    "tagline": "Independentă. Bazată pe dovezi. Responsabilă.",
+    "cookiePolicy": "Politica de Cookies"
   },
   "pillars": {
     "aiGovernance": {
@@ -252,6 +253,43 @@
         }
       }
     }
+  },
+  "cookieBanner": {
+    "text": "Acest site folosește cookie-uri Google Analytics pentru a înțelege cum utilizează vizitatorii platforma.",
+    "policyLink": "Politica de Cookies",
+    "accept": "Accept",
+    "dismiss": "Refuz"
+  },
+  "cookiePolicy": {
+    "sectionLabel": "Notă Juridică",
+    "heading": "Politica de Cookies",
+    "intro": "Acest site folosește cookie-uri pentru a înțelege cum interacționează vizitatorii cu conținutul nostru. Această politică explică ce cookie-uri folosim, de ce le folosim și cum le puteți controla.",
+    "lastUpdated": "Ultima actualizare: iunie 2026",
+    "whatHeading": "Ce Sunt Cookie-urile",
+    "what": "Cookie-urile sunt fișiere text mici plasate pe dispozitivul dumneavoastră de site-urile pe care le vizitați. Sunt utilizate pe scară largă pentru a face site-urile să funcționeze eficient și pentru a furniza informații operatorilor de site-uri. Acestea nu conțin în sine informații care permit identificarea personală.",
+    "weUseHeading": "Cookie-urile pe Care le Folosim",
+    "weUse": "Acest site folosește exclusiv cookie-uri de analiză. Nu folosim cookie-uri publicitare, cookie-uri de urmărire pentru rețelele sociale sau orice cookie-uri dincolo de cele necesare pentru analiza de bază. Nu vindem și nu partajăm datele colectate prin cookie-uri cu terțe părți în scopuri comerciale.",
+    "analyticsHeading": "Google Analytics",
+    "analyticsDesc": "Folosim Google Analytics pentru a înțelege cum găsesc și utilizează vizitatorii acest site — ce articole sunt citite, cum navighează utilizatorii între secțiuni și de unde provine traficul. Acest lucru ne ajută să înțelegem dacă platforma ajunge la publicul căruia îi este destinată. Google Analytics setează următoarele cookie-uri:",
+    "cookiesTableName": "Cookie",
+    "cookiesTablePurpose": "Scop",
+    "cookiesTableDuration": "Durată",
+    "cookie1Name": "_ga",
+    "cookie1Purpose": "Distinge utilizatorii unici prin atribuirea unui număr generat aleatoriu ca identificator de client. Nu sunt stocate informații care permit identificarea personală.",
+    "cookie1Duration": "2 ani",
+    "cookie2Name": "_ga_G-YCDHWVYJGL",
+    "cookie2Purpose": "Folosit pentru a persista starea sesiunii pentru această proprietate specifică de Google Analytics.",
+    "cookie2Duration": "2 ani",
+    "controlHeading": "Cum să Controlați Cookie-urile",
+    "control1": "Puteți controla și șterge cookie-urile prin setările browserului dumneavoastră. Majoritatea browserelor vă permit să refuzați toate cookie-urile, să acceptați doar anumite tipuri sau să fiți notificat când este trimis un cookie. Ștergerea sau refuzarea cookie-urilor de analiză nu va afecta capacitatea dumneavoastră de a utiliza acest site.",
+    "control2": "Vă puteți retrage din urmărirea Google Analytics pe toate site-urile instalând suplimentul de browser Google Analytics opt-out, disponibil de la Google.",
+    "thirdPartyHeading": "Servicii ale Terților",
+    "thirdParty": "Google Analytics este operat de Google LLC. Datele despre vizita dumneavoastră pot fi transmise către serverele Google, care pot fi situate în Statele Unite sau în alte țări din afara Spațiului Economic European. Google prelucrează aceste date în conformitate cu propria politică de confidențialitate și cu clauzele contractuale standard impuse de GDPR.",
+    "changesHeading": "Modificări ale Acestei Politici",
+    "changes": "Putem actualiza această politică de cookies din când în când. Data din partea de sus a acestei pagini indică momentul ultimei revizuiri. Continuarea utilizării acestui site după o revizuire constituie acceptarea politicii actualizate.",
+    "contactHeading": "Contact",
+    "contact": "Dacă aveți întrebări despre această politică de cookies sau despre modul în care gestionăm datele, ne puteți contacta la contact@worldlegalservice.com.",
+    "backToHome": "← Înapoi la Pagina Principală"
   },
   "support": {
     "sectionLabel": "Susținerea Acestei Munci",

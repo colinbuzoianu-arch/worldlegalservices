@@ -108,7 +108,45 @@
     "learningPlatform": "Learning Platform",
     "comingSoon": "Coming Soon",
     "copyright": "© {year} World Legal Services · Timișoara, Romania",
-    "tagline": "Independent. Evidence-based. Accountable."
+    "tagline": "Independent. Evidence-based. Accountable.",
+    "cookiePolicy": "Cookie Policy"
+  },
+  "cookieBanner": {
+    "text": "This site uses Google Analytics cookies to understand how visitors use the platform.",
+    "policyLink": "Cookie Policy",
+    "accept": "Accept",
+    "dismiss": "Dismiss"
+  },
+  "cookiePolicy": {
+    "sectionLabel": "Legal Notice",
+    "heading": "Cookie Policy",
+    "intro": "This website uses cookies to understand how visitors interact with our content. This policy explains what cookies we use, why we use them, and how you can control them.",
+    "lastUpdated": "Last updated: June 2026",
+    "whatHeading": "What Are Cookies",
+    "what": "Cookies are small text files placed on your device by websites you visit. They are widely used to make sites work efficiently and to provide information to site operators. They do not contain personally identifiable information on their own.",
+    "weUseHeading": "Cookies We Use",
+    "weUse": "This website uses only analytics cookies. We do not use advertising cookies, social media tracking cookies, or any cookies beyond what is required for basic analytics. We do not sell or share data collected through cookies with third parties for commercial purposes.",
+    "analyticsHeading": "Google Analytics",
+    "analyticsDesc": "We use Google Analytics to understand how visitors find and use this website — which articles are read, how users navigate between sections, and where traffic originates. This helps us understand whether the platform is reaching the audience it is intended for. Google Analytics sets the following cookies:",
+    "cookiesTableName": "Cookie",
+    "cookiesTablePurpose": "Purpose",
+    "cookiesTableDuration": "Duration",
+    "cookie1Name": "_ga",
+    "cookie1Purpose": "Distinguishes unique users by assigning a randomly generated number as a client identifier. No personally identifiable information is stored.",
+    "cookie1Duration": "2 years",
+    "cookie2Name": "_ga_G-YCDHWVYJGL",
+    "cookie2Purpose": "Used to persist session state for this specific Google Analytics property.",
+    "cookie2Duration": "2 years",
+    "controlHeading": "How to Control Cookies",
+    "control1": "You can control and delete cookies through your browser settings. Most browsers allow you to refuse all cookies, accept only certain types, or be notified when a cookie is being sent. Deleting or refusing analytics cookies will not affect your ability to use this website.",
+    "control2": "You can opt out of Google Analytics tracking across all websites by installing the Google Analytics opt-out browser add-on, available from Google.",
+    "thirdPartyHeading": "Third-Party Services",
+    "thirdParty": "Google Analytics is operated by Google LLC. Data about your visit may be transmitted to Google's servers, which may be located in the United States or other countries outside the European Economic Area. Google processes this data in accordance with its own privacy policy and the standard contractual clauses required under GDPR.",
+    "changesHeading": "Changes to This Policy",
+    "changes": "We may update this cookie policy from time to time. The date at the top of this page indicates when it was last revised. Continued use of this website after a revision constitutes acceptance of the updated policy.",
+    "contactHeading": "Contact",
+    "contact": "If you have questions about this cookie policy or how we handle data, you can contact us at contact@worldlegalservice.com.",
+    "backToHome": "← Back to Home"
   },
   "pillars": {
     "aiGovernance": {

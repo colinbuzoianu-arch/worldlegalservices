@@ -46,10 +46,13 @@ export default function Footer() {
             </div>
           </div>
         </div>
-        <div style={{ borderTop: '1px solid var(--border-soft)', paddingTop: 24, display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
+        <div style={{ borderTop: '1px solid var(--border-soft)', paddingTop: 24, display: 'flex', justifyContent: 'space-between', alignItems: 'center', flexWrap: 'wrap', gap: 8 }}>
           <div style={{ fontFamily: "'Crimson Pro', serif", fontSize: 13, fontWeight: 300, color: 'var(--ink-muted)' }}>
             {t('footer.copyright', { year: new Date().getFullYear() })}
           </div>
+          <Link href={`/${locale}/cookie-policy`} style={{ fontFamily: "'Crimson Pro', serif", fontSize: 13, fontWeight: 300, color: 'var(--ink-muted)', textDecoration: 'none' }}>
+            {t('footer.cookiePolicy')}
+          </Link>
           <div style={{ fontFamily: "'Crimson Pro', serif", fontSize: 13, fontWeight: 300, color: 'var(--ink-muted)' }}>
             {t('footer.tagline')}
           </div>

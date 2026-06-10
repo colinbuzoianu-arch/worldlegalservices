@@ -108,7 +108,8 @@
     "learningPlatform": "Lernplattform",
     "comingSoon": "Demnächst verfügbar",
     "copyright": "© {year} World Legal Services · Timișoara, Rumänien",
-    "tagline": "Unabhängig. Faktenbasiert. Rechenschaftspflichtig."
+    "tagline": "Unabhängig. Faktenbasiert. Rechenschaftspflichtig.",
+    "cookiePolicy": "Cookie-Richtlinie"
   },
   "pillars": {
     "aiGovernance": {
@@ -252,6 +253,43 @@
         }
       }
     }
+  },
+  "cookieBanner": {
+    "text": "Diese Website verwendet Google-Analytics-Cookies, um nachzuvollziehen, wie Besucher die Plattform nutzen.",
+    "policyLink": "Cookie-Richtlinie",
+    "accept": "Akzeptieren",
+    "dismiss": "Ablehnen"
+  },
+  "cookiePolicy": {
+    "sectionLabel": "Rechtlicher Hinweis",
+    "heading": "Cookie-Richtlinie",
+    "intro": "Diese Website verwendet Cookies, um nachzuvollziehen, wie Besucher mit unseren Inhalten interagieren. Diese Richtlinie erläutert, welche Cookies wir einsetzen, weshalb wir sie einsetzen und wie Sie sie steuern können.",
+    "lastUpdated": "Zuletzt aktualisiert: Juni 2026",
+    "whatHeading": "Was sind Cookies",
+    "what": "Cookies sind kleine Textdateien, die von den von Ihnen besuchten Websites auf Ihrem Endgerät abgelegt werden. Sie sind weit verbreitet, um Websites effizient funktionieren zu lassen und Betreibern Informationen bereitzustellen. Für sich genommen enthalten sie keine personenbezogenen Daten.",
+    "weUseHeading": "Welche Cookies wir verwenden",
+    "weUse": "Diese Website verwendet ausschließlich Analyse-Cookies. Wir setzen keine Werbe-Cookies, keine Tracking-Cookies sozialer Netzwerke und keine Cookies ein, die über das für eine grundlegende Analyse Erforderliche hinausgehen. Wir verkaufen oder teilen die über Cookies erhobenen Daten nicht zu kommerziellen Zwecken mit Dritten.",
+    "analyticsHeading": "Google Analytics",
+    "analyticsDesc": "Wir nutzen Google Analytics, um nachzuvollziehen, wie Besucher diese Website finden und nutzen — welche Beiträge gelesen werden, wie Nutzer zwischen den Bereichen navigieren und woher der Datenverkehr stammt. Dies hilft uns einzuschätzen, ob die Plattform jenes Publikum erreicht, für das sie bestimmt ist. Google Analytics setzt die folgenden Cookies:",
+    "cookiesTableName": "Cookie",
+    "cookiesTablePurpose": "Zweck",
+    "cookiesTableDuration": "Dauer",
+    "cookie1Name": "_ga",
+    "cookie1Purpose": "Unterscheidet einzelne Nutzer, indem ihnen eine zufällig erzeugte Zahl als Client-Kennung zugewiesen wird. Es werden keine personenbezogenen Daten gespeichert.",
+    "cookie1Duration": "2 Jahre",
+    "cookie2Name": "_ga_G-YCDHWVYJGL",
+    "cookie2Purpose": "Dient dazu, den Sitzungszustand für diese spezifische Google-Analytics-Property zu erhalten.",
+    "cookie2Duration": "2 Jahre",
+    "controlHeading": "Wie Sie Cookies steuern",
+    "control1": "Sie können Cookies über die Einstellungen Ihres Browsers steuern und löschen. Die meisten Browser ermöglichen es Ihnen, alle Cookies abzulehnen, nur bestimmte Arten zuzulassen oder benachrichtigt zu werden, wenn ein Cookie gesendet wird. Das Löschen oder Ablehnen von Analyse-Cookies beeinträchtigt die Nutzbarkeit dieser Website nicht.",
+    "control2": "Sie können dem Tracking durch Google Analytics auf allen Websites widersprechen, indem Sie das von Google bereitgestellte Browser-Add-on zur Deaktivierung von Google Analytics installieren.",
+    "thirdPartyHeading": "Dienste Dritter",
+    "thirdParty": "Google Analytics wird von der Google LLC betrieben. Daten zu Ihrem Besuch können an Server von Google übermittelt werden, die sich in den Vereinigten Staaten oder in anderen Ländern außerhalb des Europäischen Wirtschaftsraums befinden können. Google verarbeitet diese Daten gemäß seiner eigenen Datenschutzrichtlinie und den nach DSGVO erforderlichen Standardvertragsklauseln.",
+    "changesHeading": "Änderungen dieser Richtlinie",
+    "changes": "Wir können diese Cookie-Richtlinie von Zeit zu Zeit aktualisieren. Das Datum am Anfang dieser Seite gibt an, wann sie zuletzt überarbeitet wurde. Die fortgesetzte Nutzung dieser Website nach einer Überarbeitung gilt als Annahme der aktualisierten Richtlinie.",
+    "contactHeading": "Kontakt",
+    "contact": "Wenn Sie Fragen zu dieser Cookie-Richtlinie oder zu unserem Umgang mit Daten haben, können Sie uns unter contact@worldlegalservice.com erreichen.",
+    "backToHome": "← Zurück zur Startseite"
   },
   "support": {
     "sectionLabel": "Diese Arbeit unterstützen",

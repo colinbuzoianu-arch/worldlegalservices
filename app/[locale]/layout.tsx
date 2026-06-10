@@ -4,6 +4,7 @@ import { NextIntlClientProvider } from 'next-intl';
 import { getMessages, setRequestLocale } from 'next-intl/server';
 import Nav from '@/components/Nav';
 import Footer from '@/components/Footer';
+import CookieBanner from '@/components/CookieBanner';
 import '../globals.css';
 
 export const metadata: Metadata = {
@@ -56,6 +57,7 @@ export default async function LocaleLayout({
           <Nav />
           <main>{children}</main>
           <Footer />
+          <CookieBanner />
         </NextIntlClientProvider>
       </body>
     </html>
