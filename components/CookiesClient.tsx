@@ -100,7 +100,7 @@ export default function CookiesClient() {
 
         <h2>Contact</h2>
         <p>
-          If you have questions about this cookie policy or how we handle data, you can contact us at <a href="mailto:contact@worldlegalservice.com">contact@worldlegalservice.com</a>.
+          If you have questions about this cookie policy or how we handle data, you can contact us at <a href="mailto:colinbuzoianu@verumsell.com">colinbuzoianu@verumsell.com</a>.
         </p>
       </div>
 

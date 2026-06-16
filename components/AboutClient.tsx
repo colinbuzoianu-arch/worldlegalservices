@@ -12,7 +12,7 @@ export default function AboutClient() {
   const ctaLinks = {
     founding: `/${locale}/ai-governance`,
     learning: `/${locale}/about`,
-    collaborate: 'mailto:contact@worldlegalservice.com',
+    collaborate: 'mailto:colinbuzoianu@verumsell.com',
   } as const;
 
   return (
