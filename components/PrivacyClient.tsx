@@ -22,7 +22,7 @@ export default function PrivacyClient() {
       <div className="prose-wls">
         <h2>Data Controller</h2>
         <p>
-          The data controller for this website is <strong>Colin Buzoianu</strong>, a software entrepreneur and technology policy analyst based in Timișoara, Romania. You can contact the data controller by email at <a href="mailto:colinbuzoianu@verumsell.com">colinbuzoianu@verumsell.com</a>.
+          The data controller for this website is <strong>Colin Buzoianu</strong>, a software entrepreneur and technology policy analyst based in Timișoara, Romania. You can contact the data controller by email at <a href="mailto:contact@worldlegalservices.com">contact@worldlegalservices.com</a>.
         </p>
 
         <h2>What Data We Collect</h2>
@@ -74,7 +74,7 @@ export default function PrivacyClient() {
           <li><strong>Right to withdraw consent</strong> (Art. 7(3)): Where processing is based on consent, you have the right to withdraw that consent at any time. Withdrawal does not affect the lawfulness of processing that occurred before withdrawal.</li>
         </ul>
         <p>
-          To exercise any of these rights, please contact us at <a href="mailto:colinbuzoianu@verumsell.com">colinbuzoianu@verumsell.com</a>. We will respond within the timeframes required by applicable law.
+          To exercise any of these rights, please contact us at <a href="mailto:contact@worldlegalservices.com">contact@worldlegalservices.com</a>. We will respond within the timeframes required by applicable law.
         </p>
 
         <h2>Right to Lodge a Complaint</h2>
@@ -99,7 +99,7 @@ export default function PrivacyClient() {
 
         <h2>Contact</h2>
         <p>
-          For any questions about this privacy policy or how we handle your personal data, please contact us at <a href="mailto:colinbuzoianu@verumsell.com">colinbuzoianu@verumsell.com</a>.
+          For any questions about this privacy policy or how we handle your personal data, please contact us at <a href="mailto:contact@worldlegalservices.com">contact@worldlegalservices.com</a>.
         </p>
       </div>
 
