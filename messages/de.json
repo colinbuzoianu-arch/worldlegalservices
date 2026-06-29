@@ -135,6 +135,10 @@
           "excerpt": "Ein Governance-Deliberationssystem, das als Parlament von KI-Agenten strukturiert ist — jeder verkörpert eine eigene moralische und rechtliche Tradition, jeder erhält gleichen Status, jeder muss argumentieren und auf Herausforderungen reagieren.",
           "tag": "Ursprungsdokument",
           "quote": "Die moralische Verfassung sollte von Denkern stammen, die in Armut und Dunkelheit schrieben — Menschen, die nichts hatten außer dem Glauben, dass Wahrheit unabhängig davon einen Wert hat, ob jemand zuhört."
+        },
+        "sourcingTheMoralConstitution": {
+          "title": "Quellen der moralischen Verfassung: Kriterien für den KI-Governance-Korpus",
+          "excerpt": "Wie der Bestand moralischer Argumentation kuratiert wird, der die KI-Governance fundieren sollte — und warum die Antwort die Tradition jener Denker ist, die ohne institutionellen Anreiz schrieben."
         }
       }
     },

@@ -99,7 +99,8 @@ It is time to read them seriously.
 
 ---
 
-**Next in the AI Governance series:**
+**Also in the AI Governance series:**
 - *Politicians Are Not Accountable. Algorithms Could Be.*
 - *We Have Laws for Everything Except the Machines That Will Govern Us*
 - *From Communism to Algorithms: Why Eastern Europe Should Lead the AI Governance Debate*
+- *Sourcing the Moral Constitution: Criteria for the AI Governance Corpus*

@@ -103,3 +103,4 @@ Es ist Zeit, sie ernsthaft zu lesen.
 - *Politiker sind nicht rechenschaftspflichtig. Algorithmen könnten es sein.*
 - *Wir haben Gesetze für alles, außer für die Maschinen, die uns regieren werden*
 - *Vom Kommunismus zu Algorithmen: Warum Osteuropa die KI-Governance-Debatte anführen sollte*
+- *Quellen der moralischen Verfassung: Kriterien für den KI-Governance-Korpus*
