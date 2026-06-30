@@ -1,6 +1,7 @@
 'use client';
 import Link from 'next/link';
 import { pillars } from '@/lib/content';
+import { getBriefingsList } from '@/lib/briefings';
 import { useTranslations, useLocale } from 'next-intl';
 import { slugToKey } from '@/lib/slugToKey';
 
@@ -201,6 +202,52 @@ export default function HomeClient() {
           })}
         </div>
       </section>
+
+      {/* RECENT BRIEFINGS */}
+      {(() => {
+        const recentBriefings = getBriefingsList().slice(0, 3);
+        if (recentBriefings.length === 0) return null;
+        return (
+          <section style={{ borderTop: '1px solid var(--border)', maxWidth: 1100, margin: '0 auto', padding: '64px 48px' }}>
+            <div style={{ display: 'flex', alignItems: 'baseline', justifyContent: 'space-between', marginBottom: 32, paddingBottom: 20, borderBottom: '1px solid var(--border)' }}>
+              <div style={{ fontFamily: "'Playfair Display',serif", fontSize: 13, fontWeight: 400, letterSpacing: '0.2em', textTransform: 'uppercase', color: 'var(--ink-soft)' }}>
+                <span style={{ color: 'var(--gold)', marginRight: 12 }}>III.</span> {t('home.briefingsSection.sectionLabel')}
+              </div>
+              <Link href={`/${locale}/briefings`} style={{ fontFamily: "'Cormorant Garamond',serif", fontSize: 12, fontWeight: 600, letterSpacing: '0.12em', textTransform: 'uppercase', color: 'var(--gold)', textDecoration: 'none' }}>
+                {t('home.briefingsSection.viewAll')}
+              </Link>
+            </div>
+            <div style={{ display: 'flex', flexDirection: 'column', gap: 0 }}>
+              {recentBriefings.map(b => {
+                const title = b.titles[locale as 'en' | 'ro' | 'de'] ?? b.titles.en;
+                const date = new Date(b.date + 'T00:00:00').toLocaleDateString(
+                  locale === 'de' ? 'de-DE' : locale === 'ro' ? 'ro-RO' : 'en-GB',
+                  { day: 'numeric', month: 'long', year: 'numeric' }
+                );
+                return (
+                  <Link key={b.slug} href={`/${locale}/briefings/${b.slug}`} style={{ textDecoration: 'none' }}>
+                    <div
+                      style={{ display: 'flex', gap: 32, alignItems: 'baseline', padding: '18px 0', borderBottom: '1px solid var(--border-soft)', cursor: 'pointer', transition: 'background 0.15s' }}
+                      onMouseEnter={e => (e.currentTarget as HTMLElement).style.background = 'var(--cream)'}
+                      onMouseLeave={e => (e.currentTarget as HTMLElement).style.background = 'transparent'}
+                    >
+                      <span style={{ fontFamily: "'Cormorant Garamond',serif", fontSize: 12, fontWeight: 500, letterSpacing: '0.06em', color: 'var(--ink-muted)', whiteSpace: 'nowrap', minWidth: 140 }}>
+                        {date}
+                      </span>
+                      <span style={{ fontFamily: "'Playfair Display',serif", fontSize: 16, fontWeight: 600, color: 'var(--ink)', lineHeight: 1.3 }}>
+                        {title}
+                      </span>
+                      <span style={{ marginLeft: 'auto', fontFamily: "'Cormorant Garamond',serif", fontSize: 11, fontWeight: 600, letterSpacing: '0.12em', textTransform: 'uppercase', color: 'var(--gold)', whiteSpace: 'nowrap' }}>
+                        {t('home.briefingsSection.read')}
+                      </span>
+                    </div>
+                  </Link>
+                );
+              })}
+            </div>
+          </section>
+        );
+      })()}
 
       {/* MANIFESTO STRIP */}
       <section className="home-manifesto" style={{ background: 'var(--ink)', padding: '80px 48px', textAlign: 'center' }}>

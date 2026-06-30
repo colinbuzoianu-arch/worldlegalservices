@@ -8,6 +8,7 @@
     "euCritique": "EU Critique",
     "peaceFrameworks": "Peace Frameworks",
     "easternEurope": "Eastern Europe",
+    "briefings": "Briefings",
     "about": "About",
     "support": "Support"
   },
@@ -36,6 +37,11 @@
       "sectionLabel": "The Five Pillars",
       "sectionSubtitle": "Areas of ongoing research and analysis",
       "more": "+{count} more"
+    },
+    "briefingsSection": {
+      "sectionLabel": "Recent Briefings",
+      "viewAll": "All Briefings →",
+      "read": "Read →"
     },
     "manifesto": {
       "label": "The Founding Premise",
@@ -100,6 +106,17 @@
     "prev": "← Previous",
     "next": "Next →",
     "backTo": "← Back to {pillar}"
+  },
+  "briefingsPage": {
+    "sectionLabel": "Current-Affairs Analysis",
+    "heading": "Briefings",
+    "description": "Shorter analyses of current governance events — legal rulings, policy decisions, institutional failures — anchored to the longer arguments in the pillar articles.",
+    "empty": "No briefings published yet."
+  },
+  "briefingPage": {
+    "backToBriefings": "← Back to Briefings",
+    "frameworkLabel": "Framework Article",
+    "readFramework": "Read Framework Article →"
   },
   "footer": {
     "description": "An independent platform examining law, artificial intelligence, and the future of governance — from a Central European perspective.",

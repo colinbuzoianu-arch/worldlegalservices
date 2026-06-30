@@ -8,6 +8,7 @@
     "euCritique": "EU-Kritik",
     "peaceFrameworks": "Friedensrahmen",
     "easternEurope": "Osteuropa",
+    "briefings": "Briefings",
     "about": "Über uns",
     "support": "Support"
   },
@@ -36,6 +37,11 @@
       "sectionLabel": "Die Fünf Säulen",
       "sectionSubtitle": "Bereiche laufender Forschung und Analyse",
       "more": "+{count} weitere"
+    },
+    "briefingsSection": {
+      "sectionLabel": "Aktuelle Briefings",
+      "viewAll": "Alle Briefings →",
+      "read": "Lesen →"
     },
     "manifesto": {
       "label": "Die Gründungsprämisse",
@@ -100,6 +106,17 @@
     "prev": "← Vorherige",
     "next": "Nächste →",
     "backTo": "← Zurück zu {pillar}"
+  },
+  "briefingsPage": {
+    "sectionLabel": "Aktuelle Analysen",
+    "heading": "Briefings",
+    "description": "Kürzere Analysen aktueller Governance-Ereignisse — Gerichtsurteile, Politikentscheidungen, institutionelle Versagen — verankert in den längeren Argumenten der Säulenartikel.",
+    "empty": "Noch keine Briefings veröffentlicht."
+  },
+  "briefingPage": {
+    "backToBriefings": "← Zurück zu Briefings",
+    "frameworkLabel": "Rahmenartikel",
+    "readFramework": "Rahmenartikel lesen →"
   },
   "footer": {
     "description": "Eine unabhängige Plattform, die Recht, künstliche Intelligenz und die Zukunft der Governance untersucht — aus mitteleuropäischer Perspektive.",

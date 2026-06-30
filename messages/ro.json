@@ -8,6 +8,7 @@
     "euCritique": "Critică UE",
     "peaceFrameworks": "Cadre de Pace",
     "easternEurope": "Europa de Est",
+    "briefings": "Briefings",
     "about": "Despre",
     "support": "Suport"
   },
@@ -36,6 +37,11 @@
       "sectionLabel": "Cei Cinci Piloni",
       "sectionSubtitle": "Domenii de cercetare și analiză continuă",
       "more": "+{count} mai mult"
+    },
+    "briefingsSection": {
+      "sectionLabel": "Briefings recente",
+      "viewAll": "Toate Briefings-urile →",
+      "read": "Citește →"
     },
     "manifesto": {
       "label": "Premisa Fondatoare",
@@ -100,6 +106,17 @@
     "prev": "← Anterior",
     "next": "Următor →",
     "backTo": "← Înapoi la {pillar}"
+  },
+  "briefingsPage": {
+    "sectionLabel": "Analiză de actualitate",
+    "heading": "Briefings",
+    "description": "Analize mai scurte ale evenimentelor actuale de guvernanță — hotărâri juridice, decizii de politică, eșecuri instituționale — ancorate în argumentele mai lungi din articolele-pilon.",
+    "empty": "Niciun briefing publicat încă."
+  },
+  "briefingPage": {
+    "backToBriefings": "← Înapoi la Briefings",
+    "frameworkLabel": "Articol-cadru",
+    "readFramework": "Citește articolul-cadru →"
   },
   "footer": {
     "description": "O platformă independentă care examinează dreptul, inteligența artificială și viitorul guvernanței — dintr-o perspectivă central-europeană.",

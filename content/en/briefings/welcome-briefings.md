@@ -1,0 +1,5 @@
+WLS Briefings are shorter, faster analyses — typically 800 to 1,500 words — of events that are happening now: regulatory decisions, court rulings, policy announcements, institutional failures. They are not replacements for the longer founding documents. They are applications of those arguments to the current moment.
+
+The pillar articles establish frameworks. Briefings apply those frameworks to the world as it moves. A ruling from the European Court of Justice on AI liability connects to the arguments in *We Have Laws for Everything Except the Machines That Will Govern Us*. A parliamentary vote on defence spending connects to *Hybrid Warfare and the Laws of War*. An announcement from the ICC connects to *The ICC at Twenty-Five*. Each Briefing will link back to the relevant founding framework where one exists.
+
+Briefings appear here in chronological order, newest first. They are written in the same register as the founding documents: no false urgency, no news-cycle breathlessness, no conclusions in excess of what the evidence supports. The goal is not reaction. It is analysis that will still be worth reading in six months.
