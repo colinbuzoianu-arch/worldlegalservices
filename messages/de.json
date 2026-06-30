@@ -111,7 +111,8 @@
     "sectionLabel": "Aktuelle Analysen",
     "heading": "Briefings",
     "description": "Kürzere Analysen aktueller Governance-Ereignisse — Gerichtsurteile, Politikentscheidungen, institutionelle Versagen — verankert in den längeren Argumenten der Säulenartikel.",
-    "empty": "Noch keine Briefings veröffentlicht."
+    "empty": "Noch keine Briefings veröffentlicht.",
+    "pinned": "Angeheftet"
   },
   "briefingPage": {
     "backToBriefings": "← Zurück zu Briefings",

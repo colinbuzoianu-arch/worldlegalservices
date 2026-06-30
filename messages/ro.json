@@ -111,7 +111,8 @@
     "sectionLabel": "Analiză de actualitate",
     "heading": "Briefings",
     "description": "Analize mai scurte ale evenimentelor actuale de guvernanță — hotărâri juridice, decizii de politică, eșecuri instituționale — ancorate în argumentele mai lungi din articolele-pilon.",
-    "empty": "Niciun briefing publicat încă."
+    "empty": "Niciun briefing publicat încă.",
+    "pinned": "Fixat"
   },
   "briefingPage": {
     "backToBriefings": "← Înapoi la Briefings",

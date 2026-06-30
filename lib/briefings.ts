@@ -1,6 +1,7 @@
 export type Briefing = {
   slug: string;
   date: string;
+  pinned?: boolean;
   titles: { en: string; ro: string; de: string };
   excerpts: { en: string; ro: string; de: string };
   readingTime: string;
@@ -13,20 +14,25 @@ export type Briefing = {
 
 export const briefings: Briefing[] = [
   {
-    slug: "welcome-briefings",
-    date: "2026-06-30",
+    slug: 'the-capacity-question',
+    date: '2026-06-30',
+    pinned: true,
     titles: {
-      en: "Introducing WLS Briefings: Current-Affairs Analysis Alongside the Founding Documents",
-      ro: "Introducere în WLS Briefings: Analiză de actualitate alături de documentele fondatoare",
-      de: "WLS Briefings: Aktuelle Analysen neben den Gründungsdokumenten",
+      en: 'The Capacity Question: Why “Human Fallback” Is Not a Plan',
+      ro: 'Chestiunea capacității: de ce „rezerva umană” nu este un plan',
+      de: 'Die Kompetenzfrage: Warum „menschlicher Fallback“ kein Plan ist',
     },
     excerpts: {
-      en: "Briefings are shorter, faster analyses of current governance events — legal rulings, policy decisions, institutional failures — anchored to the longer arguments in the pillar articles.",
-      ro: "Briefings-urile sunt analize mai scurte și mai rapide ale evenimentelor actuale de guvernanță — hotărâri juridice, decizii de politică, eșecuri instituționale — ancorate în argumentele mai lungi din articolele-pilon.",
-      de: "Briefings sind kürzere, schnellere Analysen aktueller Governance-Ereignisse — Gerichtsurteile, Politikentscheidungen, institutionelle Versagen — verankert in den längeren Argumenten der Säulenartikel.",
+      en: 'The standard “human fallback” assurance in AI governance discussions names an outcome without specifying the conditions that keep it possible. Fifty years of human factors research shows those conditions erode under exactly the operational pattern AI deployment produces.',
+      ro: 'Asigurarea standard „rezervă umană” din discuțiile despre guvernanța AI numeşte un rezultat fără a specifica condițiile care îl mențin posibil. Cincizeci de ani de cercetare în domeniul factorilor umani arată că acele condiții erodază exact sub tiparul operațional pe care îl produce implementarea AI.',
+      de: 'Die Standard-Beruhigung „menschlicher Fallback“ in KI-Governance-Diskussionen benennt ein Ergebnis, ohne die Bedingungen zu spezifizieren, die es möglich halten. Fünfzig Jahre Humanfaktorenforschung zeigen, dass diese Bedingungen genau unter dem operativen Muster erodieren, das der KI-Einsatz erzeugt.',
     },
-    readingTime: "4 min",
-    tags: ["Platform", "About"],
+    readingTime: '7 min',
+    tags: ['Human Oversight', 'AI Governance', 'Institutional Design'],
+    relatedPillarArticle: {
+      pillar: 'ai-governance',
+      slug: 'the-stability-property',
+    },
   },
 ];
 
@@ -35,5 +41,9 @@ export function getBriefingBySlug(slug: string): Briefing | undefined {
 }
 
 export function getBriefingsList(): Briefing[] {
-  return [...briefings].sort((a, b) => b.date.localeCompare(a.date));
+  return [...briefings].sort((a, b) => {
+    if (a.pinned && !b.pinned) return -1;
+    if (!a.pinned && b.pinned) return 1;
+    return b.date.localeCompare(a.date);
+  });
 }

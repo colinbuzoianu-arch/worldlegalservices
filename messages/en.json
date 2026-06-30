@@ -111,7 +111,8 @@
     "sectionLabel": "Current-Affairs Analysis",
     "heading": "Briefings",
     "description": "Shorter analyses of current governance events — legal rulings, policy decisions, institutional failures — anchored to the longer arguments in the pillar articles.",
-    "empty": "No briefings published yet."
+    "empty": "No briefings published yet.",
+    "pinned": "Pinned"
   },
   "briefingPage": {
     "backToBriefings": "← Back to Briefings",
