@@ -205,3 +205,4 @@ That posture is the moral foundation of this project. It is also the criterion t
 - *Why Politicians Are Not Accountable, and Why AI Agents Could Be*
 - *Laws for Everything Except the Machines That Will Replace Lawmakers*
 - *From Communism to Algorithms: The Eastern European Lens on Technological Governance*
+- *The Stability Property: Architectural Requirements for Non-Corruptible AI Agents*

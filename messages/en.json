@@ -193,6 +193,10 @@
         "sourcingTheMoralConstitution": {
           "title": "Sourcing the Moral Constitution: Criteria for the AI Governance Corpus",
           "excerpt": "How to curate the body of moral reasoning that should ground AI governance — and why the answer is the tradition of thinkers who wrote without institutional incentive."
+        },
+        "theStabilityProperty": {
+          "title": "The Stability Property: Architectural Requirements for Non-Corruptible AI Agents",
+          "excerpt": "Why governance AI must reject everything commercial AI was built for — and the architecture that follows from that inversion."
         }
       }
     },

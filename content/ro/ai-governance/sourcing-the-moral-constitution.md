@@ -205,3 +205,4 @@ Această poziție este fundația morală a acestui proiect. Este și criteriul p
 - *De ce politicienii nu sunt responsabili, și de ce agenții AI ar putea fi*
 - *Legi pentru orice, în afară de mașinile care vor înlocui legiuitorii*
 - *De la comunism la algoritmi: lentila est-europeană asupra guvernanței tehnologice*
+- *Proprietatea stabilității: cerințe arhitecturale pentru agenți AI incoruptibili*

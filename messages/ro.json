@@ -156,6 +156,10 @@
         "sourcingTheMoralConstitution": {
           "title": "Sursele constituției morale: criterii pentru corpusul de guvernanță AI",
           "excerpt": "Cum se curatează corpul de raționament moral care ar trebui să fundamenteze guvernanța AI — și de ce răspunsul este tradiția gânditorilor care au scris fără stimulent instituțional."
+        },
+        "theStabilityProperty": {
+          "title": "Proprietatea stabilității: cerințe arhitecturale pentru agenți AI incoruptibili",
+          "excerpt": "De ce AI-ul de guvernanță trebuie să refuze tot ce a fost construit pentru AI-ul comercial — și arhitectura care decurge din această inversiune."
         }
       }
     },

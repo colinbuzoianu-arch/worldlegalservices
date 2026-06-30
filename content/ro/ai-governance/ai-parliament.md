@@ -104,3 +104,4 @@ Este timpul să îi citim serios.
 - *Avem Legi pentru Tot, în Afară de Mașinile Care Ne Vor Guverna*
 - *De la Comunism la Algoritmi: De Ce Europa de Est Ar Trebui să Conducă Dezbaterea despre Guvernanța AI*
 - *Sursele constituției morale: criterii pentru corpusul de guvernanță AI*
+- *Proprietatea stabilității: cerințe arhitecturale pentru agenți AI incoruptibili*

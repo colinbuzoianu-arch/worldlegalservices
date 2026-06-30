@@ -156,6 +156,10 @@
         "sourcingTheMoralConstitution": {
           "title": "Quellen der moralischen Verfassung: Kriterien für den KI-Governance-Korpus",
           "excerpt": "Wie der Bestand moralischer Argumentation kuratiert wird, der die KI-Governance fundieren sollte — und warum die Antwort die Tradition jener Denker ist, die ohne institutionellen Anreiz schrieben."
+        },
+        "theStabilityProperty": {
+          "title": "Die Stabilitätseigenschaft: Architektonische Anforderungen an nicht-korrumpierbare KI-Agenten",
+          "excerpt": "Warum Governance-KI alles ablehnen muss, wofür kommerzielle KI gebaut wurde — und die Architektur, die aus dieser Umkehrung folgt."
         }
       }
     },

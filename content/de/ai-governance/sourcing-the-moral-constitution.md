@@ -205,3 +205,4 @@ Diese Haltung ist das moralische Fundament dieses Projekts. Sie ist auch das Kri
 - *Warum Politiker nicht zur Rechenschaft gezogen werden — und warum KI-Agenten es sein könnten*
 - *Gesetze für alles außer für die Maschinen, die Gesetzgeber ersetzen werden*
 - *Vom Kommunismus zu Algorithmen: Die osteuropäische Perspektive auf technologische Governance*
+- *Die Stabilitätseigenschaft: Architektonische Anforderungen an nicht-korrumpierbare KI-Agenten*

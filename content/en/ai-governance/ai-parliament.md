@@ -104,3 +104,4 @@ It is time to read them seriously.
 - *We Have Laws for Everything Except the Machines That Will Govern Us*
 - *From Communism to Algorithms: Why Eastern Europe Should Lead the AI Governance Debate*
 - *Sourcing the Moral Constitution: Criteria for the AI Governance Corpus*
+- *The Stability Property: Architectural Requirements for Non-Corruptible AI Agents*
