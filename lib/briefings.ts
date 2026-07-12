@@ -14,6 +14,27 @@ export type Briefing = {
 
 export const briefings: Briefing[] = [
   {
+    slug: 'geneva-2026',
+    date: '2026-07-12',
+    pinned: false,
+    titles: {
+      en: 'Geneva 2026: The Right Room, the Wrong Question',
+      ro: 'Geneva 2026: sala potrivită, întrebarea greșită',
+      de: 'Genf 2026: Der richtige Raum, die falsche Frage',
+    },
+    excerpts: {
+      en: 'The first UN-mandated Global Dialogue on AI Governance closed in Geneva. It established the room and gave every government a seat. It did not address the technical architecture of the systems it exists to govern.',
+      ro: 'Primul Dialog Global privind Guvernanța AI mandatat de ONU s-a încheiat la Geneva. A stabilit sala și a dat fiecărui guvern un loc. Nu a abordat arhitectura tehnică a sistemelor pentru a căror guvernanță există.',
+      de: 'Der erste von den Vereinten Nationen mandatierte Globale Dialog zur KI-Governance endete in Genf. Er etablierte den Raum und gab jeder Regierung einen Sitz. Er befasste sich nicht mit der technischen Architektur der Systeme, für deren Regulierung er existiert.',
+    },
+    readingTime: '7 min',
+    tags: ['UN', 'AI Governance', 'Geneva Dialogue', 'Institutional Design'],
+    relatedPillarArticle: {
+      pillar: 'ai-governance',
+      slug: 'the-stability-property',
+    },
+  },
+  {
     slug: 'the-capacity-question',
     date: '2026-06-30',
     pinned: true,
