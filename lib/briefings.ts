@@ -55,6 +55,27 @@ export const briefings: Briefing[] = [
       slug: 'the-stability-property',
     },
   },
+  {
+    slug: 'the-god-question',
+    date: '2026-07-17',
+    pinned: false,
+    titles: {
+      en: 'When the Machine Asks the God Question: Artificial Intelligence, Religion, and the Moral Architecture of Governance',
+      ro: 'Când mașina pune întrebarea despre Dumnezeu: Inteligența artificială, religia și arhitectura morală a guvernanței',
+      de: 'Wenn die Maschine die Gottesfrage stellt: Künstliche Intelligenz, Religion und die moralische Architektur der Governance',
+    },
+    excerpts: {
+      en: 'AI governance has largely proceeded as though the moral questions it must answer have no history — as though a compliance checklist could stand in for the millennia of reflection religious and philosophical traditions have devoted to dignity, justice, and the common good. Four thinkers at the intersection of AI and religion — Lennox, Harari, O’Gieblyn, Delio — show why that omission produces governance too thin for what it is being asked to do.',
+      ro: 'Guvernanța AI s-a desfășurat în mare parte ca și cum întrebările morale la care trebuie să răspundă nu ar avea istorie — ca și cum o listă de conformitate ar putea înlocui milenii de reflecție pe care tradițiile religioase și filosofice le-au dedicat demnității, dreptății și binelui comun. Patru gânditori aflați la intersecția dintre AI și religie — Lennox, Harari, O’Gieblyn, Delio — arată de ce această omisiune produce o guvernanță prea subțire pentru ceea ce i se cere să facă.',
+      de: 'Die KI-Governance-Debatte ist weitgehend so geführt worden, als hätten die moralischen Fragen, die sie beantworten muss, keine Geschichte — als könnte eine Compliance-Checkliste die Jahrtausende der Reflexion ersetzen, die religiöse und philosophische Traditionen der Würde, der Gerechtigkeit und dem Gemeinwohl gewidmet haben. Vier Denker an der Schnittstelle von KI und Religion — Lennox, Harari, O’Gieblyn, Delio — zeigen, warum diese Auslassung eine Governance hervorbringt, die zu dünn ist für das, was von ihr verlangt wird.',
+    },
+    readingTime: '14 min',
+    tags: ['AI Governance', 'Religion', 'Moral Philosophy'],
+    relatedPillarArticle: {
+      pillar: 'ai-governance',
+      slug: 'ai-parliament',
+    },
+  },
 ];
 
 export function getBriefingBySlug(slug: string): Briefing | undefined {
