@@ -76,6 +76,27 @@ export const briefings: Briefing[] = [
       slug: 'ai-parliament',
     },
   },
+  {
+    slug: 'the-unelected',
+    date: '2026-07-18',
+    pinned: false,
+    titles: {
+      en: 'The Unelected: How Concentrated Power Governs the World and Why AI May Be the Only Force That Can Break It',
+      ro: 'Nealeșii: Cum guvernează puterea concentrată lumea și de ce inteligența artificială ar putea fi singura forță capabilă să o rupă',
+      de: 'Die Ungewählten: Wie konzentrierte Macht die Welt regiert und warum KI die einzige Kraft sein könnte, die sie bricht',
+    },
+    excerpts: {
+      en: 'Global billionaire wealth hit $18.3 trillion in 2025 while a quarter of humanity went without enough to eat — not through conspiracy, but through documented, undisputed channels of lobbying, media ownership, campaign finance, and debt. This article asks whether AI, if built independent of the power it would need to check, could be the first accountability mechanism history has produced that concentrated wealth cannot capture.',
+      ro: 'Bogăția miliardarilor la nivel mondial a atins 18,3 trilioane de dolari în 2025, în timp ce un sfert din omenire nu a avut suficientă hrană — nu printr-o conspirație, ci prin canale documentate și necontestate de lobby, proprietate mediatică, finanțare a campaniilor și datorie. Articolul întreabă dacă inteligența artificială, construită independent de puterea pe care ar trebui să o verifice, ar putea fi primul mecanism de responsabilizare din istorie pe care bogăția concentrată nu îl poate captura.',
+      de: 'Das globale Milliardärsvermögen erreichte 2025 18,3 Billionen Dollar, während ein Viertel der Menschheit nicht genug zu essen hatte — nicht durch Verschwörung, sondern durch dokumentierte, unbestrittene Kanäle aus Lobbyarbeit, Medienbesitz, Wahlkampffinanzierung und Verschuldung. Der Artikel fragt, ob KI — unabhängig von der Macht aufgebaut, die sie kontrollieren soll — der erste Rechenschaftsmechanismus der Geschichte sein könnte, den konzentrierter Reichtum nicht erobern kann.',
+    },
+    readingTime: '14 min',
+    tags: ['AI Governance', 'Inequality', 'Accountability'],
+    relatedPillarArticle: {
+      pillar: 'ai-governance',
+      slug: 'ai-parliament',
+    },
+  },
 ];
 
 export function getBriefingBySlug(slug: string): Briefing | undefined {
