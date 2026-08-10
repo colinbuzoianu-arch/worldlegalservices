@@ -9,6 +9,7 @@
     "peaceFrameworks": "Cadre de Pace",
     "easternEurope": "Europa de Est",
     "briefings": "Briefings",
+    "voices": "Voci",
     "about": "Despre",
     "support": "Suport"
   },
@@ -118,6 +119,15 @@
     "backToBriefings": "← Înapoi la Briefings",
     "frameworkLabel": "Articol-cadru",
     "readFramework": "Citește articolul-cadru →"
+  },
+  "voicesPage": {
+    "sectionLabel": "Eseuri personale",
+    "heading": "Voci",
+    "description": "Eseuri personale ale oamenilor din spatele World Legal Services — experiențele, istoriile și perspectivele care modelează gândirea platformei.",
+    "empty": "Nicio voce publicată încă."
+  },
+  "voicePage": {
+    "backToVoices": "← Înapoi la Voci"
   },
   "footer": {
     "description": "O platformă independentă care examinează dreptul, inteligența artificială și viitorul guvernanței — dintr-o perspectivă central-europeană.",

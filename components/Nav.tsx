@@ -19,6 +19,7 @@ export default function Nav() {
     { href: `/${locale}/peace-frameworks`, label: t('nav.peaceFrameworks') },
     { href: `/${locale}/eastern-europe`, label: t('nav.easternEurope') },
     { href: `/${locale}/briefings`, label: t('nav.briefings') },
+    { href: `/${locale}/voices`, label: t('nav.voices') },
     { href: `/${locale}/about`, label: t('nav.about') },
     { href: `/${locale}/support`, label: t('nav.support') },
   ];

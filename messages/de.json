@@ -9,6 +9,7 @@
     "peaceFrameworks": "Friedensrahmen",
     "easternEurope": "Osteuropa",
     "briefings": "Briefings",
+    "voices": "Stimmen",
     "about": "Über uns",
     "support": "Support"
   },
@@ -118,6 +119,15 @@
     "backToBriefings": "← Zurück zu Briefings",
     "frameworkLabel": "Rahmenartikel",
     "readFramework": "Rahmenartikel lesen →"
+  },
+  "voicesPage": {
+    "sectionLabel": "Persönliche Essays",
+    "heading": "Stimmen",
+    "description": "Persönliche Essays der Menschen hinter World Legal Services — die Erfahrungen, Geschichten und Perspektiven, die das Denken der Plattform prägen.",
+    "empty": "Noch keine Stimmen veröffentlicht."
+  },
+  "voicePage": {
+    "backToVoices": "← Zurück zu Stimmen"
   },
   "footer": {
     "description": "Eine unabhängige Plattform, die Recht, künstliche Intelligenz und die Zukunft der Governance untersucht — aus mitteleuropäischer Perspektive.",

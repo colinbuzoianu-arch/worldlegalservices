@@ -9,6 +9,7 @@
     "peaceFrameworks": "Peace Frameworks",
     "easternEurope": "Eastern Europe",
     "briefings": "Briefings",
+    "voices": "Voices",
     "about": "About",
     "support": "Support"
   },
@@ -118,6 +119,15 @@
     "backToBriefings": "← Back to Briefings",
     "frameworkLabel": "Framework Article",
     "readFramework": "Read Framework Article →"
+  },
+  "voicesPage": {
+    "sectionLabel": "Personal Essays",
+    "heading": "Voices",
+    "description": "Personal essays from the people behind World Legal Services — the experiences, histories, and perspectives that shape the platform's thinking.",
+    "empty": "No voices published yet."
+  },
+  "voicePage": {
+    "backToVoices": "← Back to Voices"
   },
   "footer": {
     "description": "An independent platform examining law, artificial intelligence, and the future of governance — from a Central European perspective.",
