@@ -10,6 +10,23 @@ export type Voice = {
 
 export const voices: Voice[] = [
   {
+    slug: 'gratkorn',
+    date: '2026-08-17',
+    author: 'Colin Buzoianu',
+    titles: {
+      de: 'Gratkorn',
+      ro: 'Gratkorn',
+      en: 'Gratkorn',
+    },
+    excerpts: {
+      de: 'Selbst das Gras war grüner in Österreich. Eine Kindheitserinnerung an den ersten Grenzübertritt, eine Gastfamilie, ein rotes Auto und eine Waldkapelle — die erste Begegnung mit einer anderen Welt.',
+      ro: 'Chiar și iarba era mai verde în Austria. O amintire din copilărie despre prima trecere a graniței, o familie-gazdă, o mașină roșie și o capelă în pădure — prima întâlnire cu o altă lume.',
+      en: 'Even the grass was greener in Austria. A childhood memory of the first border crossing, a host family, a red car, and a forest chapel — the first encounter with another world.',
+    },
+    readingTime: '6 min',
+    tags: ['Personal Essay', 'Memory', 'Austria'],
+  },
+  {
     slug: 'colin-als-banater-schwabe',
     date: '2026-08-10',
     author: 'Colin Buzoianu',
